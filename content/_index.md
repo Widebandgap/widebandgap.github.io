@@ -8,8 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Wide Bandgap
+        Electronics Group
       image:
         filename: welcome.jpg
       text: |
