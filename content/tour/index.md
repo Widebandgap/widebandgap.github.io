@@ -18,24 +18,24 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: 
+        content: 
         align: left
         background:
           image:
             filename: tour_1.png
             filters:
-              brightness: 0.7
+              brightness: 1.0
           position: center
           color: '#000'
-      - title: Wide Bandgap Electronics Group
-        content: 'Fuck U ZHB!'
+      - title:
+        content:
         align: right
         background:
           image:
             filename: tour_2.png
             filters:
-              brightness: 0.5
+              brightness: 1.0
           position: center
           color: '#000'
         link:
