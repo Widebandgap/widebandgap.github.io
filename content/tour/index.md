@@ -29,7 +29,7 @@ sections:
           position: center
           color: '#555'
       - title: Wide Bandgap Electronics Group
-        content: '???'
+        content: 'Fuck U ZHB!'
         align: right
         background:
           image:
