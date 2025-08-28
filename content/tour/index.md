@@ -27,7 +27,7 @@ sections:
             filters:
               brightness: 0.7
           position: center
-          color: '#555'
+          color: '#000'
       - title: Wide Bandgap Electronics Group
         content: 'Fuck U ZHB!'
         align: right
@@ -37,7 +37,7 @@ sections:
             filters:
               brightness: 0.5
           position: center
-          color: '#333'
+          color: '#000'
         link:
           icon: graduation-cap
           icon_pack: fas
