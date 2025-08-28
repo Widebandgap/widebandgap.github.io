@@ -10,9 +10,19 @@ sections:
       title: Contact
       text: |-
         We generally have openings every year for PhD, master & visiting scholars who have background in cleanroom fabrication, semiconductor device, processing technologies and power electronics circuit. Please contact us!
-      email: yuhzhang@hku.hk 
+      email: yuhzhang@hku.hk
       phone: 3917 1913
-      address: CB-507
+      address:
+        street: Pokful Road
+        city: Hong Kong
+        region: Central and Western District
+        postcode: 
+        country: Hong Kong
+        country_code: HK
+      coordinates:
+        latitude: '22.2833'
+        longitude: '114.1375'
+      directions: CB-507
       appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
