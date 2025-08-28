@@ -18,6 +18,11 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Join Us
+          url: ../contact/
       - title: 
         content: 
         align: left
@@ -38,11 +43,7 @@ sections:
               brightness: 1.0
           position: center
           color: '#000'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+        
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
