@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
+      - title: 👋 Welcome to Wide Bandgap Electronics Group！
         content: Take a look at what we're working on...
         align: center
         background:
@@ -23,17 +23,17 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: tour_1.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Wide Bandgap Electronics Group
+        content: '???'
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: tour_2.jpg
             filters:
               brightness: 0.5
           position: center
