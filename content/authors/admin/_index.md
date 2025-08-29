@@ -15,7 +15,7 @@ role: Professor of Department of Electrical and Electronic Engineering
 # Organizations/Affiliations
 organizations:
   - name: Hong Kong University
-    url: ''
+    url: 'https://www.hku.hk/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -38,7 +38,8 @@ education:
       institution: Peking University
       year: 2011
 
-Research Themes & Projects:
+# Research Themes & Projects:
+Job:
 - (1). wide bandgap semiconductors for power and RF electronics
 - (2). Power device reliability and robustness, packaging, circuit-level integration, and system-level applications
 - (3). Machine learning assisted material-device-circuit co-design
