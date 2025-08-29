@@ -1,24 +1,24 @@
 ---
 title: "Junction-based deep mesa termination for multi-kilovolt vertical β-Ga2O3 power devices"
 authors:
-- J. Wan,
-- H. Wang*,
-- C. Zhang,
-- C. Wang,
-- H. Cheng,
-- J. Ye,
-- Y. Zhang,
+- J. Wan
+- H. Wang*
+- C. Zhang
+- C. Wang
+- H. Cheng
+- J. Ye
+- Y. Zhang
 - K. Sheng
 
 author_notes:
-- ""
-- "Corresponding author"
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
+#- ""
+#- "Corresponding author"
+#- ""
+#- ""
+#- ""
+#- ""
+#- ""
+#- ""
 
 date: "2025-01-01T00:00:00Z"
 doi: ""
