@@ -13,19 +13,20 @@ authors:
 - L. Shao
 - H. Wang
 - F. Udrea
+- Y. Zhang
 author_notes:
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- "Corresponding Author"
+#- ""
+#- ""
+#- ""
+#- ""
+#- ""
+#- ""
+#- ""
+#- ""
+#- ""
+#- ""
+# - ""
+# - "Corresponding Author"
 
 date: "2025-04-01T00:00:00Z"
 doi: ""
@@ -47,9 +48,6 @@ abstract: Energy supply and consumption account for approximately 75% of global 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
-featured: false
 
 # links:
 # - name: ""
