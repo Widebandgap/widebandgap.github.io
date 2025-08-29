@@ -20,7 +20,7 @@ sections:
       sort_by: Params.last_name
       sort_ascending: true
     design:
-      show_interests: false
-      show_role: true
-      show_social: true
+      show_interests: false  # 不显示兴趣
+      show_role: true   # 显示角色
+      show_social: true # 显示社交媒体链接
 ---
