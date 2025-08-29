@@ -39,7 +39,7 @@ education:
       year: 2011
 
 # Research Themes & Projects:
-Job:
+job:
 - (1). wide bandgap semiconductors for power and RF electronics
 - (2). Power device reliability and robustness, packaging, circuit-level integration, and system-level applications
 - (3). Machine learning assisted material-device-circuit co-design
