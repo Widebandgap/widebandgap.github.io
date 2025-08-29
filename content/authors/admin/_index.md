@@ -19,6 +19,14 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
+Major Research Themes and Current Projects:  
+Current research themes and project topics focus on three major areas:  
+- (1) wide bandgap semiconductors for power and RF electronics; 
+- (2) Power device reliability and robustness, packaging, circuit-level integration, and system-level applications; 
+- (3) Machine learning assisted material-device-circuit co-design; 
+- (4) WBG and UWBG materials and devices for electronic, photonic, biological and quantum applications; 
+- (5) Devices, circuits and systems for extreme environment applications.
+
 
 interests:
   - Power electronics
@@ -37,14 +45,6 @@ education:
     - course: B. S. in Physics
       institution: Peking University
       year: 2011
-
-# Research Themes & Projects:
-job:
-- (1). wide bandgap semiconductors for power and RF electronics
-- (2). Power device reliability and robustness, packaging, circuit-level integration, and system-level applications
-- (3). Machine learning assisted material-device-circuit co-design
-- (4). WBG and UWBG materials and devices for electronic, photonic, biological and quantum applications
-- (5). Devices, circuits and systems for extreme environment applications
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
