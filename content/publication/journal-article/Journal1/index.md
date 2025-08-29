@@ -8,15 +8,15 @@ authors:
 - F. Udrea
 - H. Wang
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+- "Corresponding author"
+- "Corresponding author"
+- "Corresponding author"
 - ""
 - ""
-- "Equal contribution"
+- "Corresponding author"
 - 
-# date: ""
-# doi: ""
+date: "2025-01-21T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: ""
@@ -30,7 +30,7 @@ publication_types: ["article-journal"]
 publication: "**Nature Review Electrical Engineering**, 2, 155-172, 2025"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Energy supply and consumption account for approximately 75% of global greenhouse gas emissions. Advances in semiconductor and power electronics technologies are required to integrate renewable energy into grids, electrify transport and the heating and cooling of buildings, and increase the efficiency of electricity conversion. This Review outlines the opportunities for carbon neutrality in the energy sector enabled by synergistic advances in wide-bandgap (WBG) semiconductors and power electronics. First, we present advances in WBG power devices, converter circuits and power electronics applications and their implications. For example, WBG materials have a high critical electric field and thermal stability; therefore, WBG devices can operate at higher temperatures and frequencies than silicon devices, enabling higher efficiency and reducing the number of passive components and cooling systems required in converter circuits. We then discuss advances in renewable energy systems, electric vehicles, data centres and heat pumps enabled by WBG devices, and their potential to reduce carbon emissions through electrification and increased energy conversion efficiency. We also consider the implications of the carbon footprint of WBG device manufacturing being larger than that of silicon manufacturing. Finally, we discuss research gaps that must be addressed to realize the potential of WBG semiconductors and power electronics for carbon neutrality.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -73,4 +73,4 @@ projects: []
 slides: example
 ---
 
-See more details you can click [here](https://www.nature.com/articles/s44287-024-00135-5)
+See more details please click [here.](https://www.nature.com/articles/s44287-024-00135-5)
