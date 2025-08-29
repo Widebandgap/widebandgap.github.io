@@ -41,14 +41,11 @@ abstract: Deep mesa is an effective edge termination widely deployed in high-vol
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
-featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://ieeexplore.ieee.org/abstract/document/10915640
+url_pdf: https://pubs.aip.org/aip/apl/article-abstract/126/3/032106/3331848/Junction-based-deep-mesa-termination-for-multi?redirectedFrom=fulltext
 url_code: ''
 url_dataset: ''
 url_poster: ''
