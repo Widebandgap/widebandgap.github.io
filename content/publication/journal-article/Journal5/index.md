@@ -1,19 +1,20 @@
 ---
 title: "Reliability of NiO/β-Ga2O3 bipolar heterojunction"
 authors:
-- H. Gong
-- X. Yang
-- M. Porter
-- Z. Yang
-- B. Wang
-- L. Li
-- L. Fu
-- K. Sasaki
-- H. Wang
-- S. Gu
-- R. Zhang
-- J. Ye
-- **Y. Zhang**
+- "H. Gong"
+- "X. Yang"
+- "M. Porter"
+- "Z. Yang"
+- "B. Wang"
+- "L. Li"
+- "L. Fu"
+- "K. Sasaki"
+- "H. Wang"
+- "S. Gu"
+- "R. Zhang"
+- "J. Ye"
+- "**Y. Zhang** *"
+
 author_notes:
 - ""
 - ""
