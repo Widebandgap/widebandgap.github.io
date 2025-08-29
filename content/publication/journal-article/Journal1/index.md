@@ -14,6 +14,7 @@ author_notes:
 - ""
 - ""
 - "Equal contribution"
+- 
 date: ""
 doi: ""
 
@@ -41,7 +42,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://vtechworks.lib.vt.edu/server/api/core/bitstreams/e39e016a-b51c-4a5f-b974-7109ccf1ab81/content'
+url_pdf: https://vtechworks.lib.vt.edu/server/api/core/bitstreams/e39e016a-b51c-4a5f-b974-7109ccf1ab81/content
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -71,13 +72,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
 See more details you can click [here](https://www.nature.com/articles/s44287-024-00135-5)
