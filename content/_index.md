@@ -58,17 +58,30 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Journal Papers
       text: ""
       count: 5
       filters:
         folders:
-          - publication
+          - publication/paper-journal
         publication_type: 'article'
     design:
       view: citation
       columns: '1'
-
+    
+  - block: collection
+    content:
+      title: Conference Papers
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - publication/paper-conference
+        publication_type: 'article'
+    design:
+      view: citation
+      columns: '1'
+    
   # =======================
   # Meet the Team CTA
   # =======================
