@@ -64,20 +64,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type:'conference'
-    design:
-      view: citation
-      columns: '1'
-
-  - block: collection
-    content:
-      title: Latest Journal Papers
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type:'journal'
+        publication_type:'article'
     design:
       view: citation
       columns: '1'
