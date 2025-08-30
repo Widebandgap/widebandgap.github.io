@@ -45,7 +45,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: beijing1.png
+          filename: shaonv3.png
           filters:
             brightness: 1
           parallax: false
@@ -58,13 +58,26 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Conference Papers
       text: ""
       count: 5
       filters:
         folders:
           - publication
-        publication_type: 'article'
+        publication_type:'paper-conference'
+    design:
+      view: citation
+      columns: '1'
+
+  - block: collection
+    content:
+      title: Latest Journal Papers
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - publication
+        publication_type:'paper-journal'
     design:
       view: citation
       columns: '1'
