@@ -104,7 +104,7 @@ sections:
     design:
       background:
         image:
-          filename: lab_team.jpg
+          filename: welcome.jpg
           text_color_light: true
       spacing:
         padding: ['80px', '0', '80px', '0']
