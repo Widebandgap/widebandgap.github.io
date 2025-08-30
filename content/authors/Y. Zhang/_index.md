@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yuhao Zhang
+title: Y. Zhang
 
 # Full Name (for SEO)
 first_name: Y. 
@@ -77,8 +77,8 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Professor
+# user_groups:
+#   - Professor
 ---
 
 Yuhao Zhang is a full professor at the University of Hong Kong (HKU). From 2018 to 2024, he was the Shirish S. Sathaye Associate Professor and Assistant Professor at Virginia Tech, leading the power semiconductor research at the Center for Power Electronics Systems (CPES), one of the largest academic research centers in power electronics worldwide. He received his Ph. D. and S. M. in electrical engineering from Massachusetts Institute of Technology (MIT) in 2017 and 2013, respectively, as well as his B. S. in physics from Peking University in 2011. He has authored over 190 journal papers and conference proceedings and 2 book chapters and holds 7 granted U. S. patents. He co-authors over 10 highlight/feature/prize papers, and his research work has been covered over 100 times by Nature Electronics, EE Times, Power Electronics, Semiconductor Today, and Compound Semiconductor, etc. He has delivered over 60 invited talks at preeminent international conferences and seminars. He is an Associate Editor of the IEEE Transactions on Power Electronics. He received the MIT Microsystems Technology Laboratories Doctoral Dissertation Award in 2017, two IEEE George Smith Awards (best paper award of the year in IEEE Electron Device Letters) in 2019 and 2023, three Technical Highlights of IEEE International Electron Devices Meeting (IEDM) in 2020, 2021 and 2024, the National Science Foundation CAREER Award in 2021, the Outstanding New Assistant Professor Award and Faculty Fellow Award of Virginia Tech in 2021 and 2022, the Office of Naval Research Young Investigator Award in 2023, and the Young Scientist Award of Compound Semiconductor Week Conference in 2025. His students received the Ph.D. Thesis Talk Award of the IEEE Power Electronics Society and several APEC Best Presentation Awards. His group has a strong industrial collaboration, having worked with over 20 companies and published over 30 collaborative papers. Multiple reliability test methods developed by the group have been recommended by the JEDEC standard for industrial power device qualification.
