@@ -63,7 +63,7 @@ sections:
       count: 5
       filters:
         folders:
-          - publication/paper-journal
+          - publication/journal-paper
         publication_type: 'article'
     design:
       view: citation
@@ -76,7 +76,7 @@ sections:
       count: 5
       filters:
         folders:
-          - publication/paper-conference
+          - publication/conference-paper
         publication_type: 'article'
     design:
       view: citation
