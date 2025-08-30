@@ -82,7 +82,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: article-conference
+        publication_type: paper-conference
       more_link: ./publication/
       more_text: See all →
     design:
