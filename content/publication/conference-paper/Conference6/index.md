@@ -14,7 +14,7 @@ authors:
   - X. Jia
   - D. Dong
   - L. Shao*
-  - Y. Zhang*
+  - correspondingzyh
 
 # Author notes (optional)
 #author_notes:
