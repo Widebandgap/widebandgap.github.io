@@ -55,29 +55,34 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-
-  - block: collection
-    content:
-      title: Journal Papers
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication/journal-paper/Journal1
-        publication_type: article-journal
-    design:
-      view: citation
-      columns: '1'
     
   - block: collection
     content:
-      title: 📑 Latest Preprints
-      subtitle: "Our recent publications and preprints"
-      count: 5
+      title: 📑 Journal Papers/Articles:
+      subtitle: "Our recent journal papers"
+      count: 3
       filters:
         folders:
           - publication
         publication_type: article-journal
+      more_link: ./publication/
+      more_text: See all →
+    design:
+      view: card
+      columns: '2'
+      card:
+        shadow: true
+        border_radius: large'
+
+  - block: collection
+    content:
+      title: 📰 Conference Papers  
+      subtitle: "Our recent conference papers"
+      count: 3
+      filters:
+        folders:
+          - publication
+        publication_type: article-conference
       more_link: ./publication/
       more_text: See all →
     design:
