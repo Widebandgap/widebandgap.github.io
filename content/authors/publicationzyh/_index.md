@@ -10,7 +10,7 @@ last_name: Zhang
 superuser: false
 
 # Role/position
-role: Professor of Department of Electrical and Electronic Engineering
+role: Professor of [Department of Electrical and Electronic Engineering](https://www.eee.hku.hk/)
 
 # Organizations/Affiliations
 organizations:
