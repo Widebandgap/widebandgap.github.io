@@ -58,7 +58,7 @@ sections:
     
   - block: collection
     content:
-      title: 📑 Journal Papers/Articles:
+      title: 📑 Journal Papers/Articles
       subtitle: "Our recent journal papers"
       count: 3
       filters:
