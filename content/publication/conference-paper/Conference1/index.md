@@ -17,7 +17,7 @@ authors:
   - Z. Chu
   - H. Wang
   - F. Udrea
-  - publicationzyh
+  - correspondingzyh
 
 # Author notes (optional)
 #author_notes:
