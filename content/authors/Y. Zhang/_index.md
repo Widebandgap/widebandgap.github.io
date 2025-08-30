@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Y. Zhang
+title: Yuhao Zhang
 
 # Full Name (for SEO)
 first_name: Y. 
