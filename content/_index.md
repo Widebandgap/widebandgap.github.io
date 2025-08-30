@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: Wide Bandgap Electronics Group
-date: 2022-10-24
+date: 2025-08-30
 type: landing
 
 sections:
