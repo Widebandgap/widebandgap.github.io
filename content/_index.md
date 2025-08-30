@@ -34,6 +34,7 @@ sections:
       page_type: post
     design:
       view: card
+      image_height: medium  
       columns: '1'
   
   - block: markdown
@@ -63,7 +64,7 @@ sections:
       count: 5
       filters:
         folders:
-          - publication/journal-paper
+          - publication/journal-paper/Journal1
         publication_type: 'article'
     design:
       view: citation
@@ -76,7 +77,7 @@ sections:
       count: 5
       filters:
         folders:
-          - publication/conference-paper
+          - publication/conference-paper/Conference1
         publication_type: 'article'
     design:
       view: citation
