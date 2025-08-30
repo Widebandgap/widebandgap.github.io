@@ -1,4 +1,3 @@
-
 ---
 # Display name
 title: 安和（あわ） すばる
