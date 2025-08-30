@@ -7,7 +7,7 @@ first_name: Y.
 last_name: Zhang
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Professor of Department of Electrical and Electronic Engineering
