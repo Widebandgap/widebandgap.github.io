@@ -1,7 +1,7 @@
 ---
 title: "Wide-bandgap semiconductors and power electronics as pathways to carbon neutrality"
 authors:
-- Y. Zhang*
+- correspondingzyh
 - D. Dong*
 - Qiang Li*
 - R. Zhang
