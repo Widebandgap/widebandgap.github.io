@@ -39,7 +39,9 @@ sections:
           overlay_color: "#000000"
           overlay_opacity: 0.45
         text_color_light: true
-        column_width: "full"  # 添加这行使文本占据全宽
+        columns: 1  # 设置为单列布局
+        width: full  # 设置为全宽
+        padding: 4rem  # 可选：增加内边距使布局更舒适
   # =======================
   # Latest News
   # =======================
