@@ -1,7 +1,9 @@
 ---
 # Display name
 title: Yuhao Zhang
+url: 'https://www.eee.hku.hk/people/y-zhang/'
 
+ 
 # Full Name (for SEO)
 first_name: Yuhao
 last_name: Zhang
