@@ -5,76 +5,107 @@ date: 2025-08-30
 type: landing
 
 sections:
+  # =======================
+  # Hero 区块（首页横幅）
+  # =======================
   - block: hero
     content:
       title: |
-        Wide Bandgap
+        Wide Bandgap  
         Electronics Group
       image:
         filename: cat1.jpg
       text: |
         <br>
-        
-        Our group explores **wide bandgap (WBG) and ultra-wide bandgap (UWBG)** materials and devices in electronic applications. Our research interests span the physics, design, simulation, fabrication, characterization, reliability, robustess, packaging, and circuit applications of WBG and UWBG devices. Our research emphasizes on the fundamental understanding of UWB/UWBG devices, their new applications in power, RF, sensing, and computing applications, as well as the relevant material-device co-design with machine learning. Our group highlights a full-stack research scope from materials and devices to circuits and algorithms, and the seamless collaborations with the industry.
-  
+        Our group explores **wide bandgap (WBG) and ultra-wide bandgap (UWBG)** materials and devices in electronic applications.  
+        <br>
+        We investigate the **physics, design, fabrication, reliability, and system-level applications** of WBG/UWBG electronics, highlighting a **full-stack scope** from materials and devices to circuits and algorithms.
+      buttons:
+        - label: Learn More
+          url: ./research/
+          is_primary: true
+        - label: Contact Us
+          url: ./contact/
+          is_primary: false
+    design:
+      background:
+        image:
+          filename: cat1.jpg
+          overlay_color: "#000000"
+          overlay_opacity: 0.45
+        text_color_light: true
+
+  # =======================
+  # Latest News
+  # =======================
   - block: collection
     content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
+      title: 📰 Latest News
+      subtitle: "Stay updated with our latest announcements and achievements"
+      count: 6
       page_type: post
     design:
       view: card
-      columns: '1'
-  
+      columns: '2'
+      card:
+        shadow: true
+        border_radius: large
+
+  # =======================
+  # 中间 Banner（背景图宣传）
+  # =======================
   - block: markdown
     content:
-      title:
-      subtitle: ''
-      text:
+      text: |
+        ## Pioneering the Future of Wide Bandgap Electronics  
+        <span style="font-size:18px">From **materials** to **circuits** — full-stack innovation.</span>
     design:
-      columns: '1'
       background:
         image: 
           filename: 486.jpg
           filters:
-            brightness: 1
-          parallax: false
+            brightness: 0.9
+          parallax: true
           position: center
           size: cover
           text_color_light: true
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['60px', '0', '60px', '0']
       css_class: fullscreen
 
+  # =======================
+  # Latest Preprints
+  # =======================
   - block: collection
     content:
-      title: Latest Preprints
-      text: ""
+      title: 📑 Latest Preprints
+      subtitle: "Our recent publications and preprints"
       count: 5
       filters:
         folders:
           - publication
         publication_type: 'article'
+      more_link: ./publication/
+      more_text: See all →
     design:
-      view: citation
-      columns: '1'
+      view: card
+      columns: '2'
+      card:
+        shadow: true
+        border_radius: large
 
+  # =======================
+  # Meet the Team CTA
+  # =======================
   - block: markdown
     content:
-      title:
-      subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="👩‍🔬 Meet the team →" color="primary" %}}
     design:
-      columns: '1'
+      background:
+        image:
+          filename: lab_team.jpg
+          text_color_light: true
+      spacing:
+        padding: ['80px', '0', '80px', '0']
 ---
