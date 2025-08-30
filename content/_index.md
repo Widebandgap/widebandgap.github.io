@@ -35,11 +35,11 @@ sections:
     design:
       background:
         image:
-          filename: shaonv2.png
+          filename: beijing1.png
           overlay_color: "#000000"
           overlay_opacity: 0.45
         text_color_light: true
-
+        column_width: "full"  # 添加这行使文本占据全宽
   # =======================
   # Latest News
   # =======================
