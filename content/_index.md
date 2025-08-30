@@ -35,7 +35,7 @@ sections:
     design:
       background:
         image:
-          filename: cat1.jpg
+          filename: shaonv2.png
           overlay_color: "#000000"
           overlay_opacity: 0.45
         text_color_light: true
