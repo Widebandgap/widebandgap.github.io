@@ -34,7 +34,6 @@ sections:
       page_type: post
     design:
       view: card
-      image_height: medium  
       columns: '1'
   
   - block: markdown
@@ -72,16 +71,21 @@ sections:
     
   - block: collection
     content:
-      title: Conference Papers
-      text: ""
+      title: 📑 Latest Preprints
+      subtitle: "Our recent publications and preprints"
       count: 5
       filters:
         folders:
-          - publication/conference-paper/Conference1
-        publication_type: '1'
+          - publication
+        publication_type: 'article'
+      more_link: ./publication/
+      more_text: See all →
     design:
-      view: citation
-      columns: '1'
+      view: card
+      columns: '2'
+      card:
+        shadow: true
+        border_radius: large'
     
   # =======================
   # Meet the Team CTA
