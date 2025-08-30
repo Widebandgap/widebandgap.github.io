@@ -14,7 +14,7 @@ authors:
   - G. Longobardi
   - D. Dong
   - F. Udrea*
-  - Y. Zhang*
+  - correspondingzyh
 
 # Author notes (optional)
 #author_notes:
