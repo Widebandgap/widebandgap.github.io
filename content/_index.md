@@ -13,8 +13,8 @@ sections:
       title: |
         Wide Bandgap  
         Electronics Group
-      image:
-        filename: cat1.jpg
+      # image:
+        # filename: cat1.jpg
       text: |
         <br>
         Our group explores <strong>wide bandgap (WBG) and ultra-wide bandgap (UWBG)</strong> materials and devices in electronic applications. 
