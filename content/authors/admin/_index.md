@@ -74,4 +74,6 @@ Current research themes and project topics focus on three major areas:
 - (2) Power device reliability and robustness, packaging, circuit-level integration, and system-level applications; 
 - (3) Machine learning assisted material-device-circuit co-design; 
 - (4) WBG and UWBG materials and devices for electronic, photonic, biological and quantum applications; 
-- (5) Devices, circuits and systems for extreme environment applications.
+- (5) Devices, circuits and systems for extreme environment applications.  
+
+More details about me please click [here](https://www.eee.hku.hk/people/y-zhang/).
