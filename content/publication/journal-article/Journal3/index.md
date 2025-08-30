@@ -13,7 +13,7 @@ authors:
 - L. Shao
 - H. Wang
 - F. Udrea*
-- Y. Zhang*
+- correspondingzyh
 author_notes:
 #- ""
 #- ""
