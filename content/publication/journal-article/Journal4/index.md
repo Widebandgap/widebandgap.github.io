@@ -8,7 +8,7 @@ authors:
 - Y. Sun
 - P. Kong
 - Q. Li
-- Y. Zhang*
+- correspondingzyh
 #author_notes:
 #- ""
 #- ""
