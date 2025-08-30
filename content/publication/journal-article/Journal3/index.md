@@ -12,8 +12,8 @@ authors:
 - I. Kravchenko
 - L. Shao
 - H. Wang
-- F. Udrea
-- Y. Zhang
+- F. Udrea*
+- Y. Zhang*
 author_notes:
 #- ""
 #- ""
