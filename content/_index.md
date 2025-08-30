@@ -11,7 +11,7 @@ sections:
         Wide Bandgap
         Electronics Group
       image:
-        filename: welcome.jpg
+        filename: cat1.jpg
       text: |
         <br>
         
@@ -45,7 +45,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: 486.jpg
           filters:
             brightness: 1
           parallax: false
