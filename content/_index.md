@@ -5,101 +5,69 @@ date: 2025-08-30
 type: landing
 
 sections:
-  # =======================
-  # Hero 区块（首页横幅）
-  # =======================
   - block: hero
     content:
       title: |
-        Wide Bandgap  
+        Wide Bandgap
         Electronics Group
-      # image:
-        # filename: cat1.jpg
+      image:
+        filename: shaonv2.png
       text: |
         <br>
-        Our group explores <strong>wide bandgap (WBG) and ultra-wide bandgap (UWBG)</strong> materials and devices in electronic applications. 
-        <br>
-        Our research interests span the physics, design, simulation, fabrication, characterization, reliability, robustess, packaging, and circuit applications of WBG and UWBG devices.
-        <br>
-        Our research emphasizes on the fundamental understanding of UWB/UWBG devices, their new applications in power, RF, sensing, and computing applications, as well as the relevant material-device co-design with machine learning.
-        <br>
-        Our group highlights a full-stack research scope from materials and devices to circuits and algorithms, and the seamless collaborations with the industry.
-        <br>
-      buttons:
-        - label: Learn More
-          url: ./research/
-          is_primary: true
-        - label: Contact Us
-          url: ./contact/
-          is_primary: false
-    design:
-      background:
-        image:
-          filename: beijing1.png
-          overlay_color: "#000000"
-          overlay_opacity: 0.45
-        text_color_light: true
-        columns: 1  # 设置为单列布局
-        width: full  # 设置为全宽
-        padding: 4rem  # 可选：增加内边距使布局更舒适
-  # =======================
-  # Latest News
-  # =======================
+        
+        Our group explores **wide bandgap (WBG) and ultra-wide bandgap (UWBG)** materials and devices in electronic applications. Our research interests span the physics, design, simulation, fabrication, characterization, reliability, robustess, packaging, and circuit applications of WBG and UWBG devices. Our research emphasizes on the fundamental understanding of UWB/UWBG devices, their new applications in power, RF, sensing, and computing applications, as well as the relevant material-device co-design with machine learning. Our group highlights a full-stack research scope from materials and devices to circuits and algorithms, and the seamless collaborations with the industry.
+  
   - block: collection
     content:
-      title: 📰 Latest News
-      subtitle: "Stay updated with our latest announcements and achievements"
-      count: 6
+      title: Latest News
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
       page_type: post
     design:
       view: card
-      columns: '2'
-      card:
-        shadow: true
-        border_radius: large
-
-  # =======================
-  # 中间 Banner（背景图宣传）
-  # =======================
+      columns: '1'
+  
   - block: markdown
     content:
-      text: |
-        ## Pioneering the Future of Wide Bandgap Electronics  
-        <span style="font-size:18px">From **materials** to **circuits** — full-stack innovation.</span>
+      title:
+      subtitle: ''
+      text:
     design:
+      columns: '1'
       background:
         image: 
-          filename: 486.jpg
+          filename: beijing1.png
           filters:
-            brightness: 0.9
-          parallax: true
+            brightness: 1
+          parallax: false
           position: center
           size: cover
           text_color_light: true
       spacing:
-        padding: ['60px', '0', '60px', '0']
+        padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 
-  # =======================
-  # Latest Preprints
-  # =======================
   - block: collection
     content:
-      title: 📑 Latest Preprints
-      subtitle: "Our recent publications and preprints"
+      title: Latest Preprints
+      text: ""
       count: 5
       filters:
         folders:
           - publication
         publication_type: 'article'
-      more_link: ./publication/
-      more_text: See all →
     design:
-      view: card
-      columns: '2'
-      card:
-        shadow: true
-        border_radius: large
+      view: citation
+      columns: '1'
 
   # =======================
   # Meet the Team CTA
@@ -111,8 +79,9 @@ sections:
     design:
       background:
         image:
-          filename: welcome.jpg
+          filename: beijing1.png
           text_color_light: true
       spacing:
         padding: ['80px', '0', '80px', '0']
+
 ---
