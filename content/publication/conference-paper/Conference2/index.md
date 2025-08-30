@@ -13,7 +13,7 @@ authors:
   - H. Gong
   - H. Wang
   - L. Shao*
-  - Y. Zhang*
+  - correspondingzyh
 
 # Author notes (optional)
 #author_notes:
