@@ -146,6 +146,6 @@ sections:
           parallax: false
         position: center
         spacing:
-          padding: ['800px', '0', '800px', '0']
+          padding: ['80px', '0', '80px', '0']
 
 ---
