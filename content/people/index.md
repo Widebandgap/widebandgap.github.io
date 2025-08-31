@@ -24,4 +24,21 @@ sections:
       show_interests: false  # 不显示兴趣
       show_role: true        # 显示角色
       show_social: true      # 显示社交媒体链接
+    
+  - block: markdown
+    content:
+      title: Alumni
+      subtitle: ''
+      text: <br> Our group explores <strong>wide bandgap (WBG) and ultra-wide bandgap (UWBG)</strong> materials and devices in electronic applications.
+        <br> 
+        Our research interests span the physics, design, simulation, fabrication, characterization, reliability, robustess, packaging, and circuit applications of WBG and UWBG devices.
+        <br> 
+        Our research emphasizes on the fundamental understanding of UWB/UWBG devices, their new applications in power, RF, sensing, and computing applications, as well as the relevant material-device co-design with machine learning.
+        <br> 
+        Our group highlights a full-stack research scope from materials and devices to circuits and algorithms, and the seamless collaborations with the industry.
+    design:
+      columns: '1'
+      #spacing:
+        # padding: ['20px', '0', '20px', '0']
+      # css_class: fullscreen
 ---
