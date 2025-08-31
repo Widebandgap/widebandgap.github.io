@@ -101,7 +101,7 @@ sections:
   - block: collection
     content:
       title: 📰 Conference Papers  
-      subtitle: "Our recent conference papers"
+      subtitle: "Our newest conference papers"
       count: 3
       filters:
         folders: [publication]
