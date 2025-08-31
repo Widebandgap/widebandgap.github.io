@@ -10,14 +10,14 @@ authors:
   - M. Porter
   - M. Xiao
   - H. Gong
-  - Z. Yang
+  - Zineng Yang
   - D. Popa
   - L. Efthymiou
   - K. Cheng
   - Z. Chu
   - H. Wang
   - F. Udrea
-  - correspondingzyh
+  - adimn*
 
 # Author notes (optional)
 #author_notes:
