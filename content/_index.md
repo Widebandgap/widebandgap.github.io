@@ -31,7 +31,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: shaonv2.jpg
+          filename: shaonv2.png
           filters:
             brightness: 1
           parallax: false
