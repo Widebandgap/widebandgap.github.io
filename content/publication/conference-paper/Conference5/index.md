@@ -8,7 +8,7 @@ authors:
   - Q. Song
   - H. Cui
   - Q. Li
-  - admin*
+  - Yuhao Zhang*
 
 # Author notes (optional)
 #author_notes:
