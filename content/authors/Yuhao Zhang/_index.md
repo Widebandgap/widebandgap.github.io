@@ -8,7 +8,8 @@ aliases:
 # Is this the primary user of the site?
 superuser: true
 
-show_publications: false
+hide_publications: true
+
 
 # Role/position
 role: Professor of [Department of Electrical and Electronic Engineering](https://www.eee.hku.hk/)
