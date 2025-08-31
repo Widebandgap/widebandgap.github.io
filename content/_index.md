@@ -80,7 +80,7 @@ sections:
   - block: collection
     id: journals
     content:
-      title: 📑 Journal Papers/Articles
+      title: "📑 Journal Papers/Articles"
       subtitle: "Our newest journal papers"
       count: 3
       filters:
@@ -88,7 +88,7 @@ sections:
         publication_type: article-journal
       archive:
         enable: true
-        text: "See all →"
+        text: "See all"
         link: "/publication/"
     design:
       view: card
@@ -96,18 +96,20 @@ sections:
       card:
         shadow: true
         border_radius: large
-
+      css_class: journals-block    # ← 新增：自定义 class
+    
   - block: collection
     content:
       title: 📰 Conference Papers  
       subtitle: "Our recent conference papers"
       count: 3
       filters:
-        folders:
-          - publication
+        folders: [publication]
         publication_type: paper-conference
-      more_link: /publication/
-      more_text: See all →
+      archive:
+        enable: true
+        text: "See all"
+        link: "/publication/"
     design:
       view: card
       columns: '2'
