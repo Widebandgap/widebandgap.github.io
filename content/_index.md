@@ -143,7 +143,7 @@ sections:
       background:
         image:
           filename: background.jpg
-          text_color_light: true
+          text_color_light: false
           size: auto 530px
           parallax: false
         position: center
