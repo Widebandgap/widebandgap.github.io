@@ -75,7 +75,7 @@ sections:
         
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '550'
+      slide_height: '550px'
       is_fullscreen: false
       # Automatically transition through slides?
       loop: true
@@ -151,6 +151,7 @@ sections:
         image:
           filename: background.jpg
           text_color_light: true
+          size: contain
       # spacing:
         # padding: ['80px', '0', '80px', '0']
 
