@@ -9,7 +9,7 @@ sections:
     content:
       title: TITLTITITITI
       subtitle: ''
-      text:zhb is sb
+      text: zhb is sb
     design:
       columns: '1'
       spacing:
