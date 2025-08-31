@@ -4,7 +4,7 @@ title: 安和（あわ） すばる
 
 # Username (this should match the folder name)
 authors:
-  - subaru
+  - Xin Yang
 
 # Is this the primary user of the site?
 superuser: false
