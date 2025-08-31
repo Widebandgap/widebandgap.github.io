@@ -146,9 +146,6 @@ sections:
           text_color_light: true
           size: auto 530px
           parallax: false
-          filters:
-            brightness: 0.5
-          text_color_light: true
         position: center
         spacing:
           padding: ['0', '80px', '0', '80px']
