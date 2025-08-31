@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function() {
   // 例子（请用你自己页面的 href 替换下面的 key）：
   const starsByPath = {
     // 示例（把下面 key 替换为你复制的链接地址或其路径后缀）
-    "/publication/conference-paper/Conference1/": [false,false,false,false,false,false,false,false,false,false,false,false,true]
+    "https://ethan-zhang-hku.github.io/publication/conference-paper/conference1/": [false,false,false,false,false,false,false,false,false,false,false,false,true]
     // 如果还有其它文章需要设置，继续在这里添加：
     // "/publication/conference-paper/Conference2/": [true, false, ...],
   };
