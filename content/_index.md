@@ -26,7 +26,7 @@ sections:
         We pursue a **full-stack research scope** spanning from materials and devices to circuits and algorithms, with an emphasis on **material–device co-design enhanced by machine learning**.  
         Our work is further strengthened through close collaborations with industry partners.
     design:
-      columns: '1'
+      columns:'1'
       background: 
         color:'#1e3a8a'   # 深蓝背景
         text_color_light: true
