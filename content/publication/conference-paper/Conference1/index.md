@@ -17,7 +17,7 @@ authors:
   - Z. Chu
   - H. Wang
   - F. Udrea
-  - <strong>Yuhao Zhang*</strong>
+  - "<strong>Yuhao Zhang*</strong>"
 authors_star:
   - false   # 第一个作者加星号
   - false
