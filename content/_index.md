@@ -145,7 +145,7 @@ sections:
           size: auto 500px
           parallax: false
         position: center
-        #spacing:
-          #padding: ['80px', '0', '80px', '0']
+        spacing:
+          padding: ['0', '80px', '0', '80px']
 
 ---
