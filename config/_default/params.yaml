@@ -111,8 +111,13 @@ extensions:
   academicons:
     enable: true
 
-# # Citation style
+ # Citation style
 
-# publications:
-#   date_format: January 2006
-#   citation_style: apa
+ publications:
+   date_format: January 2006
+   citation_style: apa
+   show_date: true
+
+ sharing:
+  publication: false
+  post: false
