@@ -7,6 +7,8 @@ superuser: true
 
 hide_publications: true
 
+aliases:
+  - "/authors/Yuhao Zhang*/"  # 点击带星号的 URL 会跳转到本页面
 
 # Role/position
 role: Professor of [Department of Electrical and Electronic Engineering](https://www.eee.hku.hk/)
