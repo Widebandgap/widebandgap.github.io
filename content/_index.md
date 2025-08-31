@@ -81,7 +81,7 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       autoplay: true
-      interval: 2000
+      interval: 5000
   
   - block: markdown
     content:
