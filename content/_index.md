@@ -143,7 +143,8 @@ sections:
           filename: background.jpg
           text_color_light: true
           size: auto 600px
-          position: center
+          parallax: false
+        position: center
         spacing:
           padding: ['80px', '0', '80px', '0']
 
