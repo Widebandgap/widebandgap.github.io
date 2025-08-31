@@ -6,11 +6,11 @@ title: 'Switching Reliability of NiO/Ga2O3 Bipolar Junction Evaluated by a Circu
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - H. Gong
-  - X. Yang
+  - Xin Yang
   - Z. Yang
   - Y. Qin
   - J. Ye
-  - correspondingzyh
+  - admin*
 
 # Author notes (optional)
 #author_notes:
@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/11117341'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -76,4 +76,4 @@ projects:
 slides: example
 ---
 
-See more details please click [here](https://ieeexplore.ieee.org/abstract/document/11117341).
+
