@@ -10,7 +10,7 @@ design:
 banner:
   caption: 'Our Featured Publications'
   image: ''
----
+
 - block: markdown
     content:
       text: © 2025 Prof. Yuhao Zhang at Wide Bandgap Electronics Group|Department of EEE|HKU|Built with [CC BY NC ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
@@ -24,3 +24,4 @@ banner:
         position: center
         spacing:
           padding: ['0', '80px', '0', '80px']
+---
