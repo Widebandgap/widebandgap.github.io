@@ -1,6 +1,7 @@
 baseURL = "https://ethan-zhang-hku.github.io/"
 languageCode = "en-us"
 title = "My Site"
+relativeURLs = true
 
 # 允许渲染 HTML 标签
 [markup]
