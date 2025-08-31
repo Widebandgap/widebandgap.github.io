@@ -149,7 +149,7 @@ sections:
     design:
       background:
         image:
-          filename: beijing1.png
+          filename: background.jpg
           text_color_light: true
       spacing:
         padding: ['80px', '0', '80px', '0']
