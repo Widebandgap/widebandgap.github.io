@@ -8,7 +8,7 @@ authors:
 - K. Cheng
 - Q. Song
 - I. Kravchenko
-- admin*
+- Yuhao Zhang*
 #author_notes:
 #- ""
 #- ""
