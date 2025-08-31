@@ -28,8 +28,8 @@ sections:
     design:
       columns: '1'
       background:
-        color: '#1e3a8a'   # 深蓝背景
-        text_color_light: true
+        color: '#e6f0ff'  
+        text_color_light: false
       #spacing:
         # padding: ['20px', '0', '20px', '0']
       # css_class: fullscreen
