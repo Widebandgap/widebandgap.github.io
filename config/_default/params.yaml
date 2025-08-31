@@ -102,14 +102,14 @@ features:
     api_key: ''
     zoom: 15
 
-# # Extensions
+# Extensions
 
-# extensions:
-#   decap_cms:
-#     branch: main
-#     local_backend: false
-#   academicons:
-#     enable: true
+extensions:
+  decap_cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true
 
 # # Citation style
 
