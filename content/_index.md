@@ -32,7 +32,7 @@ sections:
     content:
       slides:
       - title: 👋 Welcome to Wide Bandgap Electronics Group！
-        content: Take a looking at what we are working for....
+        content: Take a look at what we are working on ....
         align: center
         background:
           image:
@@ -96,7 +96,7 @@ sections:
       card:
         shadow: true
         border_radius: large
-      css_class: journals-block    # ← 新增：自定义 class
+      css_class: journals-block    # 新增：自定义 class
     
   - block: collection
     content:
@@ -116,7 +116,7 @@ sections:
       card:
         shadow: true
         border_radius: large'
-
+      css_class: conference-block    # 新增：自定义 class
 
   - block: markdown
     content:
