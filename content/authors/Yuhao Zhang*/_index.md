@@ -6,6 +6,9 @@ title: Yuhao Zhang*
 # authors:
 #   - Yuhao Zhang
 
+aliases:
+  - "/authors/Yuhao Zhang/"   # 点击 Yuhao Zhang* 页面会跳转到 Yuhao Zhang 页面
+
 # Is this the primary user of the site?
 superuser: false
 
