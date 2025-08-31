@@ -57,10 +57,11 @@ sections:
           filters:
             brightness: 1
           parallax: false
-          position: center
+
           # size: contain
           size: auto 600px
           text_color_light: true
+        position: center
       spacing:
         padding: ['20px', '0', '20px', '0']
       # css_class: fullscreen
