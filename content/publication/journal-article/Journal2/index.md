@@ -3,12 +3,12 @@ title: "Robust Avalanche (1.5 kV, 2 kA/cm2) in Vertical GaN Diodes on Patterned 
 authors:
 - Y. Wang
 - M. Xiao
-- Z. Yang
+- Zineng Yang
 - M. Porter
 - K. Cheng
 - Q. Song
 - I. Kravchenko
-- correspondingzyh
+- admin*
 #author_notes:
 #- ""
 #- ""
@@ -37,16 +37,14 @@ publication_short: ""
 abstract: The lack of avalanche capability is a key limitation of current lateral GaN devices. Despite the report of avalanche in vertical GaN-on-GaN devices, the high wafer cost hinders device commercialization. Here we demonstrate a circuit-level avalanche in vertical GaN diodes on low-cost patterned sapphire substrate (PSS), with the avalanche voltage (1.57 kV) and avalanche current density (>2 kA/cm2) both being the highest reported in GaN devices on foreign substrates. The PSS enables a lower dislocation density than conventional sapphire substrate and is employed in high-voltage GaN devices for the first time. The avalanche voltage in the circuit test reaches 98% of the parallel-plane limit, further affirming that near-ideal avalanche breakdown can be realized on GaN devices on foreign substrates. These results show the promise of the GaN-on-PSS platform for low-cost, robust power devices.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
-featured: false
+
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://ieeexplore.ieee.org/abstract/document/10915640
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -77,4 +75,3 @@ projects: []
 slides: example
 ---
 
-See more details please click [here.](https://ieeexplore.ieee.org/abstract/document/10915640)
