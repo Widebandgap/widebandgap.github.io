@@ -13,7 +13,7 @@ authors:
 - S. Gu
 - R. Zhang
 - J. Ye
-- admin*
+- Yuhao Zhang*
 
 #author_notes:
 #- ""
