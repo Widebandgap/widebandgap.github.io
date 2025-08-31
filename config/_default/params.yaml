@@ -121,3 +121,6 @@ extensions:
  sharing:
   publication: false
   post: false
+  
+extra_scripts:
+  - js/custom-author-star.js
