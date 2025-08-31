@@ -124,3 +124,7 @@ extensions:
   
 extra_scripts:
   - js/custom-author-star.js
+  
+params:
+  customJS:
+    - js/custom.js
