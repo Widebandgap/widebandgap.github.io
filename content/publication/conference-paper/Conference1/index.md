@@ -32,6 +32,9 @@ authors_star:
   - false
   - false
   - true
+extra:
+  authors_star_json: '[false,false,false,false,false,false,false,false,false,false,false,false,true]'
+<div class="pub-compact" data-authors-star='{{ .Params.extra.authors_star_json | safeHTML }}'></div>
 
 
 # Author notes (optional)
