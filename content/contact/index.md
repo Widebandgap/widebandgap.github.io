@@ -46,21 +46,15 @@ sections:
 
   - block: markdown
     content:
-      title:
-      subtitle: ''
-      text:
+      text: 
     design:
-      # columns: '1'
       background:
-        image: 
+        image:
           filename: background.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          size: auto 1000px
           text_color_light: true
+          size: auto 530px
+          parallax: false
         position: center
-      spacing:
-        padding: ['80px', '0', '80px', '0']
-      # css_class: fullscreen
+        spacing:
+          padding: ['0', '80px', '0', '80px']
 ---
