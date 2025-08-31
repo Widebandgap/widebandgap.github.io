@@ -5,7 +5,7 @@ title: Yuhao Zhang*
 # Username (this should match the folder name)
 authors:
   - Yuhao Zhang
-    
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -70,6 +70,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 
+---
 
 Current research themes and project topics focus on five major areas:  
 - (1) wide bandgap semiconductors for power and RF electronics; 
@@ -79,4 +80,3 @@ Current research themes and project topics focus on five major areas:
 - (5) Devices, circuits and systems for extreme environment applications.  
 
 More details about me please click [here](https://www.eee.hku.hk/people/y-zhang/).
----
