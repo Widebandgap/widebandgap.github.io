@@ -27,6 +27,7 @@ sections:
       title: ''
       subtitle: ''
       text: <br> <strong>graduate from VirginiaTech</strong>
+        <br>
         Dr. Ming Xiao
         <br> 
         Yunwei Ma
@@ -64,7 +65,7 @@ sections:
         Matthew Porter
         <br>
     design:
-      columns: '5'
+      columns: '2'
       background:
         color: '#ffffff'  
         text_color_light: false
