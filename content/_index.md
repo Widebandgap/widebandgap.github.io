@@ -100,13 +100,13 @@ sections:
   - block: collection
     content:
       title: 📑 Journal Papers/Articles
-      subtitle: "Our recent journal papers"
+      subtitle: "Our newest journal papers"
       count: 3
       filters:
         folders:
           - publication
         publication_type: article-journal
-      more_link: ./publication/
+      more_link: /publication/
       more_text: See all →
     design:
       view: card
@@ -124,7 +124,7 @@ sections:
         folders:
           - publication
         publication_type: paper-conference
-      more_link: ./publication/
+      more_link: /publication/
       more_text: See all →
     design:
       view: card
@@ -132,10 +132,8 @@ sections:
       card:
         shadow: true
         border_radius: large'
-    
-  # =======================
-  # Meet the Team CTA
-  # =======================
+
+
   - block: markdown
     content:
       text: © 2025 Prof. Yuhao Zhang at Wide Bandgap Electronics Group|Department of EEE|HKU|Built with [CC BY NC ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
