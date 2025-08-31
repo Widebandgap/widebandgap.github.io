@@ -1,4 +1,4 @@
-<img width="169" height="19" alt="image" src="https://github.com/user-attachments/assets/043c4266-1d2f-4c82-ad0c-7a05903083ae" />---
+---
 title: People
 date: 2022-10-24
 
@@ -64,7 +64,24 @@ sections:
         <br>
     design:
       columns: '5'
+      background:
+        color: '#ffffff'  
+        text_color_light: false
       #spacing:
         # padding: ['20px', '0', '20px', '0']
       # css_class: fullscreen
+
+  - block: markdown
+    content:
+      text: © 2025 Prof. Yuhao Zhang at Wide Bandgap Electronics Group|Department of EEE|HKU|Built with [CC BY NC ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+    design:
+      background:
+        image:
+          filename: background.jpg
+          text_color_light: false
+          size: auto 530px
+          parallax: false
+        position: center
+        spacing:
+          padding: ['0', '80px', '0', '80px']
 ---
