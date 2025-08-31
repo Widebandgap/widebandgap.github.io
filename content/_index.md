@@ -57,7 +57,7 @@ sections:
         align: left
         background:
           image:
-            filename: tour1.png
+            filename: tour1.jpg
             filters:
               brightness: 1.0
           position: center
