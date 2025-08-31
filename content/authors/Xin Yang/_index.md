@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 安和（あわ） すばる
+title: Xin Yang
 
 # Username (this should match the folder name)
 authors:
@@ -62,4 +62,4 @@ user_groups:
   - Visitors
 ---
 
-芸能スクールに通う女の子。有望株として CM に出たりしている。世渡り上手の美少女で愛想も良い。モデルと言われてもおかしくない美貌をほこっているが、中身は気が強く負けず嫌いなお嬢様。
+I am Xin Yang!
