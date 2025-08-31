@@ -7,31 +7,20 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: TITLTITITITI
+      title: Wide Bandgap Electronics Group
       subtitle: ''
-      text: <br> 2025/08/31      zhb is sb
-        <br>
-        <strong>sxz</strong> is zhb's dad
-        <br>
-        hola
-        <br>
+      text: <br> Our group explores <strong>wide bandgap (WBG) and ultra-wide bandgap (UWBG)</strong> materials and devices in electronic applications.
+        <br> 
+        Our research interests span the physics, design, simulation, fabrication, characterization, reliability, robustess, packaging, and circuit applications of WBG and UWBG devices.
+        <br> 
+        Our research emphasizes on the fundamental understanding of UWB/UWBG devices, their new applications in power, RF, sensing, and computing applications, as well as the relevant material-device co-design with machine learning.
+        <br> 
+        Our group highlights a full-stack research scope from materials and devices to circuits and algorithms, and the seamless collaborations with the industry.
     design:
       columns: '1'
-      spacing:
-        padding: ['20px', '0', '20px', '0']
+      #spacing:
+        # padding: ['20px', '0', '20px', '0']
       # css_class: fullscreen
-    
-  - block: hero
-    content:
-      title: |
-        Wide Bandgap
-        Electronics Group
-      image:
-        filename: shaonv2.png
-      text: |
-        <br>
-        
-        Our group explores **wide bandgap (WBG) and ultra-wide bandgap (UWBG)** materials and devices in electronic applications. Our research interests span the physics, design, simulation, fabrication, characterization, reliability, robustess, packaging, and circuit applications of WBG and UWBG devices. Our research emphasizes on the fundamental understanding of UWB/UWBG devices, their new applications in power, RF, sensing, and computing applications, as well as the relevant material-device co-design with machine learning. Our group highlights a full-stack research scope from materials and devices to circuits and algorithms, and the seamless collaborations with the industry.
   
   - block: collection
     content:
