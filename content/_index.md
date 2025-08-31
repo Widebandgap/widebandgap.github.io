@@ -152,7 +152,7 @@ sections:
           filename: background.jpg
           text_color_light: true
           size: contain
-       spacing:
-         padding: ['80px', '0', '80px', '0']
+        spacing:
+          padding: ['80px', '0', '80px', '0']
 
 ---
