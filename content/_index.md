@@ -11,9 +11,9 @@ sections:
       subtitle: ''
       text: <br><br>
         Our group investigates <strong>wide bandgap (WBG)</strong> and <strong>ultra-wide bandgap (UWBG)</strong> materials and devices for next-generation electronic applications.
-        <br>
-        <strong>Research Focus</strong>  
-        <br>
+        <br><br>
+        <strong>Research Focus: </strong>  
+        <br><br>
         <strong>·</strong> Physics, design, simulation, fabrication, characterization, reliability, robustness, packaging, and circuit applications of WBG and UWBG devices.
         <br>
         <strong>·</strong> Emphasis on the fundamental understanding of UWB/UWBG devices, their new applications in power, RF, sensing, and computing applications, as well as the relevant material-device co-design with machine learning.
