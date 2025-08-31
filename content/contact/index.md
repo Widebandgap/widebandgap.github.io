@@ -8,8 +8,7 @@ sections:
   - block: contact
     content:
       title: Contact
-      text: |-
-      |-
+      text: <br><br>
         We generally have openings every year for PhD, master & visiting scholars who have background in cleanroom fabrication, semiconductor device, processing technologies and power electronics circuit. Please contact us!
       email: yuhzhang@hku.hk
       phone: 3917 1913
