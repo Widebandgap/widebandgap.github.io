@@ -23,7 +23,7 @@ sections:
         latitude: '22.2833'
         longitude: '114.1375'
       directions: CB-507
-      appointment_url: 'https://calendly.com'
+      # appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
@@ -31,16 +31,16 @@ sections:
       #    link: 'https://discourse.gohugo.io'
     
       # Automatically link email and phone or display as text?
-      autolink: true
+      # autolink: true
     
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
+      # form:
+        # provider: netlify
+        # formspree:
+          # id:
+        # netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          # captcha: false
     design:
       columns: '1'
 
