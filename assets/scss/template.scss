@@ -7,3 +7,8 @@
 .cta-group {
   justify-content: center;
 }
+
+// Add spacing between publication items in compact view
+.view-compact .pub-list-item {
+  margin-bottom: 1.5rem;  
+}
