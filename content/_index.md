@@ -6,32 +6,32 @@ type: landing
 
 sections:
   - block: markdown
-  content:
-    title: Wide Bandgap Electronics Group
-    subtitle: "Exploring Wide- and Ultra-Wide-Bandgap Electronics"
-    text: |
-      Our group investigates **wide bandgap (WBG)** and **ultra-wide bandgap (UWBG)** materials and devices for next-generation electronic applications.  
+    content:
+     title: Wide Bandgap Electronics Group
+     # subtitle:
+     text: |
+       Our group investigates **wide bandgap (WBG)** and **ultra-wide bandgap (UWBG)** materials and devices for next-generation electronic applications.  
 
-      **Research Focus**  
-      - Physics, design, simulation, and fabrication of WBG/UWBG devices  
-      - Characterization, reliability, robustness, packaging, and circuit-level applications  
-      - Fundamental understanding of novel WBG/UWBG device physics  
+       **Research Focus**  
+       - Physics, design, simulation, and fabrication of WBG/UWBG devices  
+       - Characterization, reliability, robustness, packaging, and circuit-level applications  
+       - Fundamental understanding of novel WBG/UWBG device physics  
 
-      **Applications**  
-      - Power electronics  
-      - RF and sensing technologies  
-      - Emerging computing paradigms  
+       **Applications**  
+       - Power electronics  
+       - RF and sensing technologies  
+       - Emerging computing paradigms  
 
-      **Approach**  
-      We pursue a **full-stack research scope** spanning from materials and devices to circuits and algorithms, with an emphasis on **material–device co-design enhanced by machine learning**.  
-      Our work is further strengthened through close collaborations with industry partners.
-  design:
-    columns: '1'
-    css_class: "prose prose-lg max-w-4xl mx-auto text-white"
-    background:
-      gradient: "linear-gradient(135deg, #0f2027, #203a43, #2c5364)"
-      text_color_light: true
-      parallax: true
+       **Approach**  
+       We pursue a **full-stack research scope** spanning from materials and devices to circuits and algorithms, with an emphasis on **material–device co-design enhanced by machine learning**.  
+       Our work is further strengthened through close collaborations with industry partners.
+    design:
+     columns: '1'
+     css_class: "prose prose-lg max-w-4xl mx-auto text-white"
+     background:
+       gradient: "linear-gradient(135deg, #0f2027, #203a43, #2c5364)"
+       text_color_light: true
+       parallax: true
 
     
   - block: slider
