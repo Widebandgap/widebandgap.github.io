@@ -119,11 +119,12 @@ extensions:
    show_date: true
 
  sharing:
-  publication: false
-  post: false
+   publication: false
+   post: false
   
 params:
   customJS:
     - js/custom.js
     - js/custom-author-star.js
+    - js/test-not-exist.js
 
