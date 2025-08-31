@@ -8,7 +8,16 @@ sections:
     content:
       slides:
       - title: 👋 Welcome to Wide Bandgap Electronics Group！
-        content: Take a look at what we're working on...
+        content:
+        <br>
+        Our group explores <strong>wide bandgap (WBG) and ultra-wide bandgap (UWBG)</strong> materials and devices in electronic applications.
+        <br>
+        Our research interests span the physics, design, simulation, fabrication, characterization, reliability, robustess, packaging, and circuit applications of WBG and UWBG devices.
+        <br>
+        Our research emphasizes on the fundamental understanding of UWB/UWBG devices, their new applications in power, RF, sensing, and computing applications, as well as the relevant material-device co-design with machine learning.
+        <br>
+        Our group highlights a full-stack research scope from materials and devices to circuits and algorithms, and the seamless collaborations with the industry.
+        <br>
         align: center
         background:
           image:
