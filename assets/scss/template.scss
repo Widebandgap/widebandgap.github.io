@@ -14,7 +14,11 @@
   border-bottom: 1px solid #e0e0e0; // 浅灰分隔线
 }
 
-/* 如果只想改特定标题（比如包含 Journal Papers/Articles） */
-.section-title:has(span:contains("Journal Papers/Articles")) {
-  font-size: 1.5rem;
+/* 缩小“Journal Papers/Articles”块的主标题字号 */
+#journals .section-title,
+#journals .section-heading h2,
+#journals h2.section-title {
+  font-size: 1.15rem !important;
+  line-height: 1.35 !important;
 }
+
