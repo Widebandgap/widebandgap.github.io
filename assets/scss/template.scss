@@ -14,11 +14,28 @@
   border-bottom: 1px solid #e0e0e0; // 浅灰分隔线
 }
 
-/* 缩小“Journal Papers/Articles”块的主标题字号 */
-#journals .section-title,
-#journals .section-heading h2,
-#journals h2.section-title {
-  font-size: 1.15rem !important;
-  line-height: 1.35 !important;
-}
+/* === 针对首页 “Journal Papers/Articles” 块，强制缩小标题 === */
+.journals-block {
+  /* 常见的标题元素和主题里可能用到的类都覆盖到 */
+  h1,
+  h2,
+  h3,
+  .section-title,
+  .section-heading h2,
+  .widget-title,
+  .block-title,
+  .collection-title {
+    font-size: 1.15rem !important;     /* 调整数值到你满意为止 */
+    font-weight: 600 !important;
+    line-height: 1.25 !important;
+    margin-bottom: 0.35rem !important;
+  }
 
+  /* 副标题微调（可选） */
+  .subtitle,
+  .section-subtitle,
+  .widget-subtitle {
+    font-size: 0.95rem !important;
+    margin-top: 0 !important;
+  }
+}
