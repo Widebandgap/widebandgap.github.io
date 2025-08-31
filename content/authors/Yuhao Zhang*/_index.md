@@ -3,8 +3,8 @@
 title: Yuhao Zhang*
 
 # Username (this should match the folder name)
-authors:
-  - Yuhao Zhang
+# authors:
+#   - Yuhao Zhang
 
 # Is this the primary user of the site?
 superuser: true
