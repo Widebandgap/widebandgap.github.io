@@ -50,19 +50,17 @@ sections:
       subtitle: ''
       text:
     design:
-      columns: '1'
+      # columns: '1'
       background:
         image: 
           filename: background.jpg
           filters:
             brightness: 1
           parallax: false
-
-          # size: contain
-          size: auto 600px
+          size: auto 1000px
           text_color_light: true
         position: center
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['80px', '0', '80px', '0']
       # css_class: fullscreen
 ---
