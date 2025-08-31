@@ -1,7 +1,7 @@
 ---
 title: "Wide-bandgap semiconductors and power electronics as pathways to carbon neutrality"
 authors:
-- correspondingzyh
+- admin*
 - D. Dong*
 - Qiang Li*
 - R. Zhang
@@ -33,16 +33,13 @@ publication_short: ""
 abstract: Energy supply and consumption account for approximately 75% of global greenhouse gas emissions. Advances in semiconductor and power electronics technologies are required to integrate renewable energy into grids, electrify transport and the heating and cooling of buildings, and increase the efficiency of electricity conversion. This Review outlines the opportunities for carbon neutrality in the energy sector enabled by synergistic advances in wide-bandgap (WBG) semiconductors and power electronics. First, we present advances in WBG power devices, converter circuits and power electronics applications and their implications. For example, WBG materials have a high critical electric field and thermal stability; therefore, WBG devices can operate at higher temperatures and frequencies than silicon devices, enabling higher efficiency and reducing the number of passive components and cooling systems required in converter circuits. We then discuss advances in renewable energy systems, electric vehicles, data centres and heat pumps enabled by WBG devices, and their potential to reduce carbon emissions through electrification and increased energy conversion efficiency. We also consider the implications of the carbon footprint of WBG device manufacturing being larger than that of silicon manufacturing. Finally, we discuss research gaps that must be addressed to realize the potential of WBG semiconductors and power electronics for carbon neutrality.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
-featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://vtechworks.lib.vt.edu/server/api/core/bitstreams/e39e016a-b51c-4a5f-b974-7109ccf1ab81/content
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -73,4 +70,3 @@ projects: []
 slides: example
 ---
 
-See more details please click [here.](https://www.nature.com/articles/s44287-024-00135-5)
