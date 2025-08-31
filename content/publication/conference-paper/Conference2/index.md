@@ -9,11 +9,11 @@ authors:
   - L. Jin
   - M. Porter
   - H. Cui
-  - Z. Yang
+  - Zineng Yang
   - H. Gong
   - H. Wang
   - L. Shao*
-  - correspondingzyh
+  - admin*
 
 # Author notes (optional)
 #author_notes:
@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/11117348'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -79,4 +79,4 @@ projects:
 slides: example
 ---
 
-See more details please click [here](https://ieeexplore.ieee.org/abstract/document/11117348).
+
