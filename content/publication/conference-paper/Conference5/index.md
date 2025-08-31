@@ -8,7 +8,7 @@ authors:
   - Q. Song
   - H. Cui
   - Q. Li
-  - correspondingzyh
+  - admin*
 
 # Author notes (optional)
 #author_notes:
@@ -42,7 +42,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10977559'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -74,4 +74,3 @@ projects:
 slides: example
 ---
 
-See more details please click [here](https://ieeexplore.ieee.org/abstract/document/10977559).
