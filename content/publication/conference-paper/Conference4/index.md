@@ -10,7 +10,7 @@ authors:
   - Z. Yang
   - Y. Qin
   - J. Ye
-  - admin*
+  - Yuhao Zhang*
 
 # Author notes (optional)
 #author_notes:
