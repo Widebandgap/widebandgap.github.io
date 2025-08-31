@@ -34,9 +34,9 @@ sections:
           filename: shaonv2.png
           filters:
             brightness: 1
-          parallax: false
-          position: center
-          size: cover
+          # parallax: false
+          # position: center
+          # size: cover
           text_color_light: true
       # spacing:
         # padding: ['20px', '0', '20px', '0']
