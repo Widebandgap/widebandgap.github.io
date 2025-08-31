@@ -1,4 +1,4 @@
----
+<img width="169" height="19" alt="image" src="https://github.com/user-attachments/assets/043c4266-1d2f-4c82-ad0c-7a05903083ae" />---
 title: People
 date: 2022-10-24
 
@@ -11,13 +11,10 @@ sections:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - Professor # 教授
-          - Principal Investigators # 首席研究员
-          - Researchers             # 研究人员
-          - Grad Students           # 研究生
-          - Administration          # 行政人员
-          - Visitors                # 访问者
+          - Professor 
+          - Current Members  
           - Alumni                  # 校友
+    
       sort_by: Params.last_name     # 按姓氏排序
       sort_ascending: true          # 升序排列
     design:
@@ -27,17 +24,46 @@ sections:
     
   - block: markdown
     content:
-      title: Alumni
+      title: <strong>graduate from VirginiaTech</strong>
       subtitle: ''
-      text: <br> Our group explores <strong>wide bandgap (WBG) and ultra-wide bandgap (UWBG)</strong> materials and devices in electronic applications.
+      text: <br> Dr. Ming Xiao
         <br> 
-        Our research interests span the physics, design, simulation, fabrication, characterization, reliability, robustess, packaging, and circuit applications of WBG and UWBG devices.
+        Yunwei Ma
         <br> 
-        Our research emphasizes on the fundamental understanding of UWB/UWBG devices, their new applications in power, RF, sensing, and computing applications, as well as the relevant material-device co-design with machine learning.
+        Ruizhe Zhang
         <br> 
-        Our group highlights a full-stack research scope from materials and devices to circuits and algorithms, and the seamless collaborations with the industry.
+        Joseph Kozak
+        <br>
+        Noah Allen
+        <br>
+        Jingcun Liu
+        <br>
+        Keyue Shan
+        <br>
+        Haoshen Yang
+        <br>
+        Sheyang Chen
+        <br>
+        Rongxing Tang
+        <br>
+        Dr. Yuan Qin
+        <br>
+        Boyan Wang
+        <br>
+        Qihao Song
+        <br>
+        Joe Spencer
+        <br>
+        Yifan Wang
+        <br>
+        Bixuan Wang
+        <br>
+        Jessie Guo
+        <br>
+        Matthew Porter
+        <br>
     design:
-      columns: '1'
+      columns: '5'
       #spacing:
         # padding: ['20px', '0', '20px', '0']
       # css_class: fullscreen
