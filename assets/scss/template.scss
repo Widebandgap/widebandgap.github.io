@@ -8,7 +8,9 @@
   justify-content: center;
 }
 
-// Add spacing between publication items in compact view
-.view-compact .pub-list-item {
-  margin-bottom: 1.5rem;  
+.view-compact .al-item {
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.8rem;
+  border-bottom: 1px solid #e0e0e0;
 }
+
