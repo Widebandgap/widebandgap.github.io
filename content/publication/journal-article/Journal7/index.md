@@ -5,7 +5,7 @@ authors:
 - Zineng Yang
 - Matthew Porter
 - Linbo Shao
-- publicationzyh
+- admin
 
 author_notes:
 #- ""
@@ -42,7 +42,7 @@ abstract: Electrical energy conversion at deep cryogenic temperatures (T < 4.2 K
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11131474
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -73,4 +73,3 @@ projects: []
 slides: example
 ---
 
-See more details please click [here.](https://ieeexplore.ieee.org/abstract/document/11131474)
