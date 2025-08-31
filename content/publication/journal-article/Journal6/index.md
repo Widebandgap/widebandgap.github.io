@@ -7,7 +7,7 @@ authors:
 - C. Wang
 - H. Cheng
 - J. Ye
-- publicationzyh
+- admin
 - K. Sheng
 
 author_notes:
@@ -45,7 +45,7 @@ abstract: Deep mesa is an effective edge termination widely deployed in high-vol
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://pubs.aip.org/aip/apl/article-abstract/126/3/032106/3331848/Junction-based-deep-mesa-termination-for-multi?redirectedFrom=fulltext
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -75,5 +75,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-See more details please click [here.](https://pubs.aip.org/aip/apl/article-abstract/126/3/032106/3331848/Junction-based-deep-mesa-termination-for-multi?redirectedFrom=fulltext)
