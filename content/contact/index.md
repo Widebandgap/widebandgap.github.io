@@ -59,7 +59,7 @@ sections:
           parallax: false
           position: center
           # size: contain
-          size: cover
+          size: auto 600px
           text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
