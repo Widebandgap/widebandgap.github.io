@@ -6,7 +6,7 @@ title: 'Dynamic Reliability of IC-Interface GaN HEMTs Demonstrated Under Ultra-F
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - B. Wang
-  - X. Yang
+  - Xin Yang
   - Q. Song
   - K. Mukherjee
   - L. Efthymiou
@@ -14,7 +14,7 @@ authors:
   - G. Longobardi
   - D. Dong
   - F. Udrea*
-  - correspondingzyh
+  - admin*
 
 # Author notes (optional)
 #author_notes:
@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/11117449'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -80,4 +80,4 @@ projects:
 slides: example
 ---
 
-See more details please click [here](https://ieeexplore.ieee.org/abstract/document/11117449).
+
