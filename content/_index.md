@@ -27,6 +27,9 @@ sections:
         Our work is further strengthened through close collaborations with industry partners.
     design:
       columns:'1'
+      background:
+        color: '#1e3a8a'   # 深蓝背景
+        text_color_light: true
       #spacing:
         # padding: ['20px', '0', '20px', '0']
       # css_class: fullscreen
