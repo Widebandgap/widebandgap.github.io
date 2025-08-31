@@ -17,8 +17,7 @@ authors:
   - Z. Chu
   - H. Wang
   - F. Udrea
-  - name: "Yuhao Zhang*"    # 显示文本
-    link: "/authors/Yuhao Zhang/"   # 实际跳转 URL
+  - Yuhao Zhang*
 authors_star:
   - false   # 第一个作者加星号
   - false
