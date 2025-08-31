@@ -46,12 +46,12 @@ sections:
 
   - block: markdown
     content:
-      text: 
+      text: © 2025 Prof. Yuhao Zhang at Wide Bandgap Electronics Group|Department of EEE|HKU|Built with [CC BY NC ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
     design:
       background:
         image:
           filename: background.jpg
-          text_color_light: true
+          text_color_light: false
           size: auto 530px
           parallax: false
         position: center
