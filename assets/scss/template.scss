@@ -66,12 +66,8 @@
   }
 }
 
-/* 给加星号的作者名添加星号 */
-.pub-compact .author {
-  position: relative;
-}
-
-.pub-compact .author[data-star="true"]::after {
+/* 给 compact view 的作者名加星号 */
+.pub-compact .author:first-child::after {
   content: "*";
   font-weight: bold;
   margin-left: 2px;
