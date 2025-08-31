@@ -19,7 +19,19 @@ authors:
   - F. Udrea
   - Yuhao Zhang
 authors_star:
-  - true    
+  - false   # 第一个作者加星号
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
 
 
 # Author notes (optional)
