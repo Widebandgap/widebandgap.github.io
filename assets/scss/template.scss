@@ -67,7 +67,8 @@
 }
 
 /* Publication 页面中，将 Yuhao Zhang* 加粗 */
-.stream-meta.article-metadata a[href="/author/Yuhao Zhang/"] {
+.stream-meta.article-metadata a[href="/author/yuhao-zhang/"] {
   font-weight: bold !important;
+  text-transform: none !important; /* 防止自动首字母大写 */
 }
 
