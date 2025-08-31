@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title:TITLTITITITI
+      title: TITLTITITITI
       subtitle: ''
       text:zhb is sb
     design:
