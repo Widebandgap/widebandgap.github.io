@@ -122,9 +122,8 @@ extensions:
   publication: false
   post: false
   
-extra_scripts:
-  - js/custom-author-star.js
-  
 params:
   customJS:
     - js/custom.js
+    - js/custom-author-star.js
+
