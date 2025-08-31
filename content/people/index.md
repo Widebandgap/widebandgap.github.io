@@ -24,9 +24,10 @@ sections:
     
   - block: markdown
     content:
-      title: <strong>graduate from VirginiaTech</strong>
+      title: ''
       subtitle: ''
-      text: <br> Dr. Ming Xiao
+      text: <br> <strong>graduate from VirginiaTech</strong>
+        Dr. Ming Xiao
         <br> 
         Yunwei Ma
         <br> 
