@@ -5,7 +5,7 @@ title: 'Optically-Controlled 3.3 kV SiC MOSFET with Fast Switching Speed and Low
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - X. Yang
+  - Xin Yang
   - G. Shi
   - L. Jin
   - Y. Qin
@@ -14,7 +14,7 @@ authors:
   - X. Jia
   - D. Dong
   - L. Shao*
-  - correspondingzyh
+  - admin*
 
 # Author notes (optional)
 #author_notes:
@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10977119'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -80,5 +80,4 @@ projects:
 slides: example
 ---
 
-See more details please click [here](https://ieeexplore.ieee.org/abstract/document/10977119).
 
