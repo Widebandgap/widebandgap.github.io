@@ -31,15 +31,15 @@
 
 # # Site header
 
-# header:
-#   navbar:
-#     enable: true
-#     align: r
-#     show_logo: true
-#     show_language: false
-#     show_day_night: true
-#     show_search: true
-#     highlight_active_link: false
+ header:
+   navbar:
+     enable: true
+     align: r
+     show_logo: true
+     show_language: false
+     show_day_night: true
+     show_search: true
+     highlight_active_link: false
 
 # # Site footer
 
@@ -61,46 +61,46 @@
 
 # # Site features
 
-# features:
-#   syntax_highlighter:
-#     enable: true
-#     extra_languages:
-#       - r
-#       - latex
-#   math:
-#     enable: ture
-#   privacy_pack:
-#     enable: false
-#   repository:
-#     url: 'https://github.com/<username>/<repository>'
-#     content_dir: content
-#     branch: main
-#   avatar:
-#     gravatar: false
-#     shape: circle
-#   comment:
-#     provider: ''
-#     disqus:
-#       shortname: ''
-#       show_count: true
-#     commento:
-#       url: ''
-#     giscus:
-#       repo: ''
-#       repo_id: ''
-#       category: ''
-#       category_id: ''
-#   search:
-#     provider: wowchemy
-#     algolia:
-#       app_id: ''
-#       api_key: ''
-#       index_name: ''
-#       show_logo: false
-#   map:
-#     provider: 'mapnik'
-#     api_key: ''
-#     zoom: 15
+features:
+  syntax_highlighter:
+    enable: true
+    extra_languages:
+      - r
+      - latex
+  math:
+    enable: ture
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/<username>/<repository>'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
 
 # # Extensions
 
