@@ -1,19 +1,22 @@
 ---
-title:Publications
+title: Publications
+type: landing   
 
-# Listing view
-view: compact
 
-design:
-  show_date: true   
-# Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: 'Our Featured Publications'
-  image: ''
-
-- block: markdown
+sections:
+  - block: collection
     content:
-      text: © 2025 Prof. Yuhao Zhang at Wide Bandgap Electronics Group|Department of EEE|HKU|Built with [CC BY NC ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+      title: ''
+      filters:
+        folders: [publication]
+      count: 999   # 显示所有文章
+    design:
+      view: compact
+
+  - block: markdown
+    content:
+      text: |
+        © 2025 Prof. Yuhao Zhang at Wide Bandgap Electronics Group | Department of EEE | HKU | Built with [CC BY NC ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
     design:
       background:
         image:
