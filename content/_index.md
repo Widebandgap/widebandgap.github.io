@@ -10,11 +10,11 @@ sections:
       title: TITLTITITITI
       subtitle: ''
       text: <br> 2025/08/31      zhb is sb
-      <br>
-      <strong>sxz</strong> is zhb's dad
-      <br>
-      hola
-      <br>
+        <br>
+        <strong>sxz</strong> is zhb's dad
+        <br>
+        hola
+        <br>
     design:
       columns: '1'
       spacing:
