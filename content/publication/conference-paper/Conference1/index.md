@@ -98,7 +98,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-<div class="pub-compact" data-authors-star='{{ .Params.extra.authors_star_json | safeHTML }}'></div>
+
 
 
 
