@@ -138,7 +138,7 @@ sections:
   # =======================
   - block: markdown
     content:
-      text: © 2025 Prof. Yuhao Zhang at Wide Bandgap Electronics Group|Department of EEE|The University of Hong Kong|Built with [CC BY NC ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+      text: © 2025 Prof. Yuhao Zhang at Wide Bandgap Electronics Group|Department of EEE|HKU|Built with [CC BY NC ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
     design:
       background:
         image:
@@ -146,7 +146,8 @@ sections:
           text_color_light: true
           size: auto 530px
           parallax: false
-          brightness: 0.5
+          filters:
+            brightness: 0.5
         position: center
         spacing:
           padding: ['0', '80px', '0', '80px']
