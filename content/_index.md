@@ -22,44 +22,53 @@ sections:
         # padding: ['20px', '0', '20px', '0']
       # css_class: fullscreen
     
-  - block: markdown
+  - block: slider
     content:
-      title:
-      subtitle: ''
-      text:
+      slides:
+      - title: 👋 Welcome to Wide Bandgap Electronics Group！
+        content: Take a looking at what we are working for....
+        align: center
+        background:
+          image:
+            filename: coders.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Join Us
+          url: ../contact/
+      - title: 
+        content: 
+        align: left
+        background:
+          image:
+            filename: tour_1.png
+            filters:
+              brightness: 1.0
+          position: center
+          color: '#000'
+      - title:
+        content:
+        align: right
+        background:
+          image:
+            filename: tour_2.png
+            filters:
+              brightness: 1.0
+          position: center
+          color: '#000'
+        
     design:
-      columns: '1'
-      background:
-        image: 
-          filename: shaonv2.png
-          filters:
-            brightness: 1
-          # parallax: false
-          # position: center
-          # size: cover
-          text_color_light: true
-      # spacing:
-        # padding: ['20px', '0', '20px', '0']
-      # css_class: fullscreen
-    
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      is_fullscreen: false
+      # Automatically transition through slides?
+      loop: true
+      # Duration of transition between slides (in ms)
+      interval: 200
   
   - block: markdown
     content:
