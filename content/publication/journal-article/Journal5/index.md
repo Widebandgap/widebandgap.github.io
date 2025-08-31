@@ -2,9 +2,9 @@
 title: "Reliability of NiO/β-Ga2O3 bipolar heterojunction"
 authors:
 - H. Gong
-- X. Yang
+- Xin Yang
 - M. Porter
-- Z. Yang
+- Zineng Yang
 - B. Wang
 - L. Li
 - L. Fu
@@ -13,7 +13,7 @@ authors:
 - S. Gu
 - R. Zhang
 - J. Ye
-- correspondingzyh
+- admin*
 
 #author_notes:
 #- ""
@@ -51,14 +51,10 @@ abstract: Ultra-wide bandgap (UWBG) NiO/β-Ga2O3 p–n junction has recently eme
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
-featured: false
-
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://ieeexplore.ieee.org/abstract/document/10915640
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -89,4 +85,3 @@ projects: []
 slides: example
 ---
 
-See more details please click [here.](https://ieeexplore.ieee.org/abstract/document/10915640)
