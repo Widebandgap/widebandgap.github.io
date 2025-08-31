@@ -12,7 +12,7 @@ authors:
   - J. Lin
   - L. Zhu
   - L. Shao*
-  - admin*
+  - Yuhao Zhang*
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
