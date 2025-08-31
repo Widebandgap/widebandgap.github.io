@@ -2,6 +2,9 @@
 # Display name
 title: Yuhao Zhang
 
+aliases:
+  - "/authors/Yuhao Zhang*/"  # 当访问带星号的 URL 时，会跳转到本页面
+
 # Is this the primary user of the site?
 superuser: true
 
