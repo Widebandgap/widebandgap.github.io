@@ -1,7 +1,7 @@
 ---
 title: Latest News
 type: landing  
----
+
 
 sections:
   - block: markdown
@@ -34,5 +34,5 @@ sections:
         spacing:
           padding: ['0', '80px', '0', '80px']
 
-    
+---  
     
