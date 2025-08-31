@@ -27,11 +27,9 @@ sections:
         Our work is further strengthened through close collaborations with industry partners.
     design:
       columns: '1'
-      css_class: "prose prose-lg max-w-4xl mx-auto text-white"
       background:
-        gradient: "linear-gradient(135deg, #0f2027, #203a43, #2c5364)"
+        color:'#1e3a8a'   # 深蓝背景
         text_color_light: true
-        parallax: true
       #spacing:
         # padding: ['20px', '0', '20px', '0']
       # css_class: fullscreen
