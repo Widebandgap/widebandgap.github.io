@@ -34,8 +34,6 @@ authors_star:
   - true
 extra:
   authors_star_json: '[false,false,false,false,false,false,false,false,false,false,false,false,true]'
-<div class="pub-compact" data-authors-star='{{ .Params.extra.authors_star_json | safeHTML }}'></div>
-
 
 # Author notes (optional)
 #author_notes:
@@ -100,5 +98,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+<div class="pub-compact" data-authors-star='{{ .Params.extra.authors_star_json | safeHTML }}'></div>
+
 
 
