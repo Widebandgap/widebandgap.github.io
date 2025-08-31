@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: ''
+      title: 'Latest News'
       subtitle: ''
       text: <br><br>
         <strong>[2025-09-01]</strong> Ciallo～(∠・ω< )⌒☆
