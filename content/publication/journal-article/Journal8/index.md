@@ -69,4 +69,3 @@ projects: []
 slides: example
 ---
 
-See more details please click here.
