@@ -1,6 +1,5 @@
 ---
 title: 'Dynamic Stability and Reliability of Multi-Kilovolt GaN Monolithic Bidirectional HEMT'
-subtitle:'Jun. 2025'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
