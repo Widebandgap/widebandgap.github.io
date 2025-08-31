@@ -7,7 +7,7 @@ title: Yuhao Zhang*
 #   - Yuhao Zhang
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Professor of [Department of Electrical and Electronic Engineering](https://www.eee.hku.hk/)
