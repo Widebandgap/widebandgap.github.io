@@ -86,7 +86,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: shaonv3.png
+          filename:
           filters:
             brightness: 1
           parallax: false
