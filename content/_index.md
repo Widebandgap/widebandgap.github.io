@@ -75,45 +75,27 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       autoplay: true
-      interval: 5000
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename:
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      interval: 5000  
     
   - block: collection
+    id: journals
     content:
       title: 📑 Journal Papers/Articles
       subtitle: "Our newest journal papers"
       count: 3
       filters:
-        folders:
-          - publication
+        folders: [publication]
         publication_type: article-journal
-      more_link: /publication/
-      more_text: See all →
+      archive:
+        enable: true
+        text: "See all →"
+        link: "/publication/"
     design:
       view: card
       columns: '2'
       card:
         shadow: true
-        border_radius: large'
+        border_radius: large
 
   - block: collection
     content:
