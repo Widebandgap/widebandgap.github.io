@@ -26,7 +26,7 @@ sections:
     content:
       title: ''
       subtitle: ''
-      text: <br> <strong>Graduate from VirginiaTech: </strong>  
+      text: <br> <strong>Graduate from VirginiaTech</strong>  
         <br>
         Dr. Ming Xiao
         <br> 
