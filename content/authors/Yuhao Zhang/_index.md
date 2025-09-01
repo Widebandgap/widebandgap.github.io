@@ -6,6 +6,7 @@ title: Yuhao Zhang
 superuser: true
 
 hide_publications: true
+show_posts: false
 
 aliases:
   - "/authors/Yuhao Zhang*/"  # 点击带星号的 URL 会跳转到本页面
