@@ -26,7 +26,7 @@ sections:
     content:
       title: ''
       subtitle: ''
-      text: <br> <strong>Graduate from VirginiaTech: </strong>
+      text: <br> <strong>Graduate from VirginiaTech: </strong>  
         <br>
         Dr. Ming Xiao
         <br> 
@@ -75,7 +75,7 @@ sections:
 
   - block: markdown
     content:
-      text: <font size=1>© 2025 Prof. Yuhao Zhang at Wide Bandgap Electronics Group|Department of EEE|HKU|Built with [CC BY NC ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)</font>
+      text: <font size="1">© 2025 Prof. Yuhao Zhang at Wide Bandgap Electronics Group|Department of EEE|HKU|Built with [CC BY NC ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)</font>  
     design:
       background:
         image:
