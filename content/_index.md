@@ -87,8 +87,7 @@ sections:
     
   - block: markdown
     content:
-      text: <br>
-        <strong>Selected Publications:</strong>
+      text: <strong>Selected Publications:</strong>
         <br><br>
         <ul>
         <li>Y. Qin, Z. Yang, H. Gong, A. Jacobs, J. Spencer, M. Porter, B. Wang, K. Sasaki, C-H. Lin, M. Tadjer, and Y. Zhang*, “10 kV,  250 oC Operational, Enhancement-Mode Ga2O3 JFET with Charge-Balance and Hybrid-Drain Designs,” <strong><em>2024 IEEE International Electron Devices Meeting (IEDM)</em></strong>, Dec. 2024 (selected as the <strong>IEDM Technical Highlight</strong>)</li>
@@ -175,7 +174,7 @@ sections:
 
   - block: markdown
     content:
-      text: © 2025 Prof. Yuhao Zhang at Wide Bandgap Electronics Group|Department of EEE|HKU|Built with [CC BY NC ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+      text: <center><font size=5>© 2025 Prof. Yuhao Zhang at Wide Bandgap Electronics Group|Department of EEE|HKU|Built with [CC BY NC ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)</font></center>
     design:
       background:
         image:
