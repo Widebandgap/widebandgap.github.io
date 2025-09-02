@@ -72,13 +72,21 @@ sections:
         <br><br>
         <strong>Related Links:</strong>  
         <br>
-        <strong>·</strong> [Google Scholar](https://scholar.google.com/citations?user=MqrZiqUAAAAJ&hl=en)
+        <strong>•</strong> [Google Scholar](https://scholar.google.com/citations?user=MqrZiqUAAAAJ&hl=en)
         <br>
-        <strong>·</strong> [Yuhao ZHANG's Departmental Homepage](https://www.eee.hku.hk/people/y-zhang/)
-        <br>
+        <strong>•</strong> [Yuhao ZHANG's Departmental Homepage](https://www.eee.hku.hk/people/y-zhang/)
+        <br><br>
         <strong>Selected Publications:</strong>
         <br>
-        <strong>•</strong>  Y. Qin, Z. Yang, H. Gong, A. Jacobs, J. Spencer, M. Porter, B. Wang, K. Sasaki, C-H. Lin, M. Tadjer, and Y. Zhang*, “10 kV, 250 oC Operational, Enhancement-Mode Ga2O3 JFET with Charge-Balance and Hybrid-Drain Designs,” 2024 IEEE International Electron Devices Meeting (IEDM), Dec. 2024 (selected as the IEDM Technical Highlight)
+        <strong>•</strong>  Y. Qin, Z. Yang, H. Gong, A. Jacobs, J. Spencer, M. Porter, B. Wang, K. Sasaki, C-H. Lin, M. Tadjer, and Y. Zhang*, “10 kV,  250 oC Operational, Enhancement-Mode Ga2O3 JFET with Charge-Balance and Hybrid-Drain Designs,” <strong>2024 IEEE International Electron Devices Meeting (IEDM)</strong>, Dec. 2024 (selected as the <strong>IEDM Technical Highlight</strong>)  
+        <br>
+        <strong>•</strong>  X. Yang, R. Zhang, Q. Yang, Q. Song, E. Litchford, A. J. Walker, S. Pidaparthi, C. Drowley, D. Dong, Q. Li, and Y. Zhang*, “Evaluation and MHz Converter Application of 1.2-kV Vertical GaN JFET,” <strong>IEEE Transactions on Power Electronics</strong>, vol. 39, no. 12, pp. 15720–15731, Dec. 2024.
+        <br>
+        <strong>•</strong>  M. Xiao, Y. Wang, R. Zhang, Q. Song, M. Porter, E. Carlson, K. Cheng, K. Ngo, and Y. Zhang*, “Robust Avalanche in 1.7 kV Vertical GaN Diodes With a Single-Implant Bevel Edge Termination,” <strong>IEEE Electron Device Letters</strong>, vol. 44, no. 10, pp. 1616–1619, Oct. 2023. (<strong>2023 IEEE George Smith Award</strong>)
+        <br>
+        <strong>•</strong>  Y. Zhang*, F. Udrea*, and H. Wang*, “Multidimensional device architectures for efficient power electronics,” <strong>Nature Electronics</strong>, vol. 5, no. 11, Nov. 2022.
+        <br>
+        <strong>•</strong>  Xiao, Y. Ma, Z. Du, V. Pathirana, K. Cheng, A. Xie, E. Beam, Y. Cao, F. Udrea, H. Wang, and Y. Zhang*, “Multi-Channel Monolithic-Cascode HEMT (MC2-HEMT): A New GaN Power Switch up to 10 kV,” <strong>2021 IEEE International Electron Devices Meeting (IEDM)</strong>, Dec. 2021. (selected as the IEDM Technical Highlight, covered by Nature Electronics).
     
     design:
       columns: '1'
