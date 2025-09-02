@@ -5,29 +5,6 @@ date: 2025-08-30
 type: landing
 
 sections: 
-  - block: markdown
-    content:
-      title: 11111
-      subtitle: ''
-      text: <br><br>
-        Our group investigates <strong>wide bandgap (WBG)</strong> and <strong>ultra-wide bandgap (UWBG)</strong> materials and devices for next-generation electronic applications.
-        <br><br>
-        <strong>Research Focus:</strong>  
-        <br><br>
-        <strong>·</strong> Physics, design, simulation, fabrication, characterization, reliability, robustness, packaging, and circuit applications of WBG and UWBG devices.
-        <br>
-        <strong>·</strong> Emphasis on the fundamental understanding of UWB/UWBG devices, their new applications in power, RF, sensing, and computing applications, as well as the relevant material-device co-design with machine learning.
-        <br>
-        <strong>·</strong> Full-stack research scope from materials and devices to circuits and algorithms, and the seamless collaborations with the industry.  
-    design:
-      columns: '1'
-      background:
-        # color: '#e6f0ff'  
-        text_color_light: false
-      #spacing:
-        # padding: ['20px', '0', '20px', '0']
-      # css_class: fullscreen
-
   - block: slider  
     content:
       slides:
@@ -76,6 +53,31 @@ sections:
       # Duration of transition between slides (in ms)
       autoplay: true
       interval: 4000
+    
+  - block: markdown
+    content:
+      title: 11111
+      subtitle: ''
+      text: <br><br>
+        Our group investigates <strong>wide bandgap (WBG)</strong> and <strong>ultra-wide bandgap (UWBG)</strong> materials and devices for next-generation electronic applications.
+        <br><br>
+        <strong>Research Focus:</strong>  
+        <br><br>
+        <strong>·</strong> Physics, design, simulation, fabrication, characterization, reliability, robustness, packaging, and circuit applications of WBG and UWBG devices.
+        <br>
+        <strong>·</strong> Emphasis on the fundamental understanding of UWB/UWBG devices, their new applications in power, RF, sensing, and computing applications, as well as the relevant material-device co-design with machine learning.
+        <br>
+        <strong>·</strong> Full-stack research scope from materials and devices to circuits and algorithms, and the seamless collaborations with the industry.  
+    design:
+      columns: '1'
+      background:
+        # color: '#e6f0ff'  
+        text_color_light: false
+      #spacing:
+        # padding: ['20px', '0', '20px', '0']
+      # css_class: fullscreen
+
+  
 
   
   - block: collection
