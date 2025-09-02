@@ -58,7 +58,8 @@ sections:
     content:
       #title: 11111
       #subtitle: ''
-      text: <br><br> aaa
+      text: <br><br>
+        aaa
        # Our group mainly explores wide-bandgap (WBG) and ultra-wide bandgap (UWBG) materials, devices, and circuits for next-generation electronics applications. Our current research focuses on a few major areas: (1) WBG semiconductors for power and RF electronics; (2) Power device reliability and robustness, packaging, circuit-level integration, and system-level applications; (3) Machine learning assisted material-device-circuit co-design; (4) WBG and UWBG materials and devices for electronic, photonic, biological and quantum applications; (5) Devices, circuits and systems for extreme environment applications
        # <br><br>
        # His group mainly published in the communities of Electron Devices and Power Electronics. Here is a sketch of the group’s major corresponding-authored papers till Aug. 2025.
