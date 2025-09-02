@@ -41,7 +41,7 @@ extra:
 #  - 'Equal contribution'
 
 date: '2025-06-01T00:00:00Z'
-doi: ''
+doi: 10.23919/ISPSD62843.2025.11118020''
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -67,8 +67,6 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-doi: "10.23919/ISPSD62843.2025.11118020"
-
 url_pdf: 'paper.pdf'
 url_code: ''
 url_dataset: ''
@@ -81,7 +79,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: '实验结果示意图'
+  caption: 'Niko Niko Ni~'
   focal_point: 'center'
   preview_only: false
 
