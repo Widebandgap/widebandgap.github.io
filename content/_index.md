@@ -86,7 +86,7 @@ sections:
         <br>
         <strong>•</strong>  Y. Zhang*, F. Udrea*, and H. Wang*, “Multidimensional device architectures for efficient power electronics,” <strong>Nature Electronics</strong>, vol. 5, no. 11, Nov. 2022.
         <br>
-        <strong>•</strong>  Xiao, Y. Ma, Z. Du, V. Pathirana, K. Cheng, A. Xie, E. Beam, Y. Cao, F. Udrea, H. Wang, and Y. Zhang*, “Multi-Channel Monolithic-Cascode HEMT (MC2-HEMT): A New GaN Power Switch up to 10 kV,” <strong>2021 IEEE International Electron Devices Meeting (IEDM)</strong>, Dec. 2021. (selected as the IEDM Technical Highlight, covered by Nature Electronics).
+        <strong>•</strong>  Xiao, Y. Ma, Z. Du, V. Pathirana, K. Cheng, A. Xie, E. Beam, Y. Cao, F. Udrea, H. Wang, and Y. Zhang*, “Multi-Channel Monolithic-Cascode HEMT (MC2-HEMT):&nbsp;A New GaN Power Switch up to 10 kV,” <strong>2021 IEEE International Electron Devices Meeting (IEDM)</strong>, Dec. 2021. (selected as the IEDM Technical Highlight, covered by Nature Electronics).
     
     design:
       columns: '1'
