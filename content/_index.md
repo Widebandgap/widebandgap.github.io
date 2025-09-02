@@ -8,21 +8,21 @@ sections:
   - block: slider  
     content:
       slides:
-#      - title: 👋 Welcome to Wide Bandgap Electronics Group！
-#        content: Take a look at what we are working on ....
-#        align: center
-#        background:
-#          image:
-#            filename: coders.jpg
-#            filters:
-#              brightness: 0.7
-#          position: right
-#          color: '#666'
-#        link:
-#          icon: graduation-cap
-#          icon_pack: fas
-#          text: Join Us
-#          url: ../contact/
+      - title: 👋 Welcome to Wide Bandgap Electronics Group！
+        content: Take a look at what we are working on ....
+        align: center
+        background:
+          image:
+            filename: coders.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Join Us
+          url: ../contact/
       - title: 
         content: 
         align: left
