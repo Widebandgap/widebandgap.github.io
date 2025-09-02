@@ -41,7 +41,7 @@ extra:
 #  - 'Equal contribution'
 
 date: '2025-06-01T00:00:00Z'
-doi: 10.23919/ISPSD62843.2025.11118020''
+doi: '10.23919/ISPSD62843.2025.11118020'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
