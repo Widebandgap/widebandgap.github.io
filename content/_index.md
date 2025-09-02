@@ -7,7 +7,7 @@ type: landing
 sections: 
   - block: markdown
     content:
-      title: Wide Bandgap Electronics Group
+      title: ''
       subtitle: ''
       text: <br><br>
         Our group investigates <strong>wide bandgap (WBG)</strong> and <strong>ultra-wide bandgap (UWBG)</strong> materials and devices for next-generation electronic applications.
