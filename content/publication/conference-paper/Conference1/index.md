@@ -67,7 +67,9 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+doi: "10.23919/ISPSD62843.2025.11118020"
+
+url_pdf: 'paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -79,8 +81,8 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: '实验结果示意图'
+  focal_point: 'center'
   preview_only: false
 
 # Associated Projects (optional).
