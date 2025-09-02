@@ -174,7 +174,10 @@ sections:
 
   - block: markdown
     content:
-      text: <font size=3> © 2025 Prof. Yuhao Zhang at Wide Bandgap Electronics Group|Department of EEE|HKU|Built with [CC BY NC ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) </font>
+      text: |
+        <p style="text-align:center">
+        <font size=3> © 2025 Prof. Yuhao Zhang at Wide Bandgap Electronics Group|Department of EEE|HKU|Built with [CC BY NC ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) </font>
+        </p>
     design:
       align: center
       background:
