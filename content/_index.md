@@ -99,15 +99,15 @@ sections:
         <li>2024	<strong>IEEE E. George Smith Award</strong> for the best paper of the year in IEEE Electron Devices Letters (only one awardee each year)</li>
         <li>2024	Yuhao Zhang, <strong>Office of Naval Research (ONR) Young Investigator Program (YIP) Award</strong></li>
         <li>2023 	Ruizhe Zhang, <strong>APEC Best Presentation Award</strong> </li>
-        <li>2022	Yuhao Zhang: <strong>Faculty Fellow Award of Virginia Tech Engineering</strong></li>
+        <li>2022	Yuhao Zhang, <strong>Faculty Fellow Award of Virginia Tech Engineering</strong></li>
         <li>2021	<strong>IEDM Technical Highlight</strong> of the 2021 67th IEEE International Electron Devices Meeting </li>
-        <li>2021	Yuhao Zhang: <strong>National Science Foundation CAREER Award</strong></li>
-        <li>2021	Yuhao Zhang: <strong>Outstanding Assistant Professor Award of Virginia Tech Engineering</strong></li>
+        <li>2021	Yuhao Zhang, <strong>National Science Foundation CAREER Award</strong></li>
+        <li>2021	Yuhao Zhang, <strong>Outstanding Assistant Professor Award of Virginia Tech Engineering</strong></li>
         <li>2021  Joseph Kozak, <strong>Ph. D. Thesis Talk Award of the IEEE Power Electronics Society</strong> (5 awardees each year in the world) </li>
         <li>2021  Qihao Song, <strong>APEC Best Presentation Award 2021</strong> </li>
         <li>2020	<strong>IEDM Technical Highlight</strong> of the 2020 66th IEEE International Electron Devices Meeting (IEDM) </li>
         <li>2019  <strong>IEEE E. George Smith Award</strong> for the best paper of the year in IEEE Electron Devices Letters (only one awardee each year)</li>
-        <li>2017  Yuaho Zhang: <strong>MIT Microsystems Technology Laboratories Best Doctoral Dissertation Award</strong></li>
+        <li>2017  Yuaho Zhang, <strong>MIT Microsystems Technology Laboratories Best Doctoral Dissertation Award</strong></li>
         </ul>
     
     design:
