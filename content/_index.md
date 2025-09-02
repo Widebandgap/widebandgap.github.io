@@ -58,9 +58,8 @@ sections:
     content:
       #title: 11111
       #subtitle: ''
-      text <br><br>
-        <strong>[2025-09-01]</strong> The lab website has been established!
-        <br><br>
+      text: <br><br>
+        The lab website has been established!
         <br><br>
         <strong>Research Focus:</strong>  
         <br><br>
