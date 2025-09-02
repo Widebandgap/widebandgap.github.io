@@ -71,12 +71,15 @@ sections:
         We typically have openings for PhD students, postdoctoral researchers, and visiting scholars with backgrounds in cleanroom fabrication, semiconductor devices, and power electronics circuits. Most PhD students admitted to our group have prior publications in the relevant fields. If you are interested, please contact Professor Yuhao Zhang. Although the peak PhD application season is from September to December, we accept applications year-round. We provide full financial support to all PhD students and also assist with applications to the Hong Kong PhD Fellowship Scheme and the HKU Presidential PhD Scholar Programme.
         <br><br>
         <strong>Related Links:</strong>  
-        <br><br>
+        <br>
         <strong>·</strong> [Google Scholar](https://scholar.google.com/citations?user=MqrZiqUAAAAJ&hl=en)
         <br>
         <strong>·</strong> [Yuhao ZHANG's Departmental Homepage](https://www.eee.hku.hk/people/y-zhang/)
         <br>
-        <strong>·</strong> Full-stack research scope from materials and devices to circuits and algorithms, and the seamless collaborations with the industry.  
+        <strong>Selected Publications:</strong>
+        <br>
+        <strong>•</strong>  Y. Qin, Z. Yang, H. Gong, A. Jacobs, J. Spencer, M. Porter, B. Wang, K. Sasaki, C-H. Lin, M. Tadjer, and Y. Zhang*, “10 kV, 250 oC Operational, Enhancement-Mode Ga2O3 JFET with Charge-Balance and Hybrid-Drain Designs,” 2024 IEEE International Electron Devices Meeting (IEDM), Dec. 2024 (selected as the IEDM Technical Highlight)
+    
     design:
       columns: '1'
       background:
