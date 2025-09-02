@@ -76,6 +76,7 @@ sections:
       # Duration of transition between slides (in ms)
       autoplay: true
       interval: 4000
+
   
   - block: collection
     id: journals
