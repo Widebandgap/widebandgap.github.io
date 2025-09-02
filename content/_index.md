@@ -72,9 +72,10 @@ sections:
         <br><br>
         <strong>Related Links:</strong>  
         <br>
-        <strong>•</strong> [Google Scholar](https://scholar.google.com/citations?user=MqrZiqUAAAAJ&hl=en)
-        <br>
-        <strong>•</strong> [Yuhao ZHANG's Departmental Homepage](https://www.eee.hku.hk/people/y-zhang/)
+        <ul>
+        <li> [Google Scholar](https://scholar.google.com/citations?user=MqrZiqUAAAAJ&hl=en)</li>
+        <li> [Yuhao ZHANG's Departmental Homepage](https://www.eee.hku.hk/people/y-zhang/)</li>
+        </ul>
         <br><br>
         <strong>Selected Publications:</strong>
         <br>
