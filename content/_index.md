@@ -56,8 +56,8 @@ sections:
     
   - block: markdown
     content:
-      title: 11111
-      subtitle: ''
+      #title: 11111
+      #subtitle: ''
       text: <br><br>
         Our group investigates <strong>wide bandgap (WBG)</strong> and <strong>ultra-wide bandgap (UWBG)</strong> materials and devices for next-generation electronic applications.
         <br><br>
