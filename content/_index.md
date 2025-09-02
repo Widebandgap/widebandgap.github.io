@@ -62,11 +62,11 @@ sections:
         <br><br>
         His group mainly published in the communities of Electron Devices and Power Electronics. Here is a sketch of the group’s major corresponding-authored papers till Aug. 2025.
         <br><br>
-        1. Electron Devices:  IEDM (21), ISPSD (12), IRPS (7), IEEE Electron Device Lett. (21), Appl. Phys. Lett. (14), IEEE Trans. Electron Devices (16)
+        1. Electron Devices:&nbsp;IEDM (21), ISPSD (12), IRPS (7), IEEE Electron Device Lett. (21), Appl. Phys. Lett. (14), IEEE Trans. Electron Devices (16)  
         <br>
-        2. Power Electronics:  IEEE Trans. Power Electronics (21), IEEE J. Emerg. Sel. Top. Power Electron. (3), APEC (16), ECCE (7)
+        2. Power Electronics:&nbsp;IEEE Trans. Power Electronics (21), IEEE J. Emerg. Sel. Top. Power Electron. (3), APEC (16), ECCE (7)
         <br>
-        3. Broad Fields:  Nat. Electron. (1), Nat. Commun. (1), Nat. Rev. Electr. Eng. (1), Adv. Mater. (1)
+        3. Broad Fields:&nbsp;Nat. Electron. (1), Nat. Commun. (1), Nat. Rev. Electr. Eng. (1), Adv. Mater. (1)
         <br><br>
         We typically have openings for PhD students, postdoctoral researchers, and visiting scholars with backgrounds in cleanroom fabrication, semiconductor devices, and power electronics circuits. Most PhD students admitted to our group have prior publications in the relevant fields. If you are interested, please contact Professor Yuhao Zhang. Although the peak PhD application season is from September to December, we accept applications year-round. We provide full financial support to all PhD students and also assist with applications to the Hong Kong PhD Fellowship Scheme and the HKU Presidential PhD Scholar Programme.
         <br><br>
