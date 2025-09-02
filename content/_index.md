@@ -5,7 +5,7 @@ date: 2025-08-30
 type: landing
 
 sections: 
-  - block: slider  
+  - block: slider
     content:
       slides:
       - title: 👋 Welcome to Wide Bandgap Electronics Group！
