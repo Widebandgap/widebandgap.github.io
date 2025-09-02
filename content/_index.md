@@ -58,10 +58,10 @@ sections:
     content:
       #title: 11111
       #subtitle: ''
-      text: Our group mainly explores wide-bandgap (WBG) and ultra-wide bandgap (UWBG) materials, devices, and circuits for next-generation electronics applications. Our current research focuses on a few major areas:(1) WBG semiconductors for power and RF electronics; (2) Power device reliability and robustness, packaging, circuit-level integration, and system-level applications; (3) Machine learning assisted material-device-circuit co-design; (4) WBG and UWBG materials and devices for electronic, photonic, biological and quantum applications; (5) Devices, circuits and systems for extreme environment applications.
+      text: Our group mainly explores wide-bandgap (WBG) and ultra-wide bandgap (UWBG) materials, devices, and circuits for next-generation electronics applications. Our current research focuses on a few major areas:&nbsp;(1) WBG semiconductors for power and RF electronics; (2) Power device reliability and robustness, packaging, circuit-level integration, and system-level applications; (3) Machine learning assisted material-device-circuit co-design; (4) WBG and UWBG materials and devices for electronic, photonic, biological and quantum applications; (5) Devices, circuits and systems for extreme environment applications.
         <br><br>
-        His group mainly published in the communities of Electron Devices and Power Electronics. Here is a sketch of the group’s major corresponding-authored papers till Aug. 2025.
-        <br><br>
+        Our group mainly published in the communities of Electron Devices and Power Electronics. Here is a sketch of the group's major corresponding-authored papers till Aug. 2025.
+        <br>
         1. Electron Devices:&nbsp;IEDM (21), ISPSD (12), IRPS (7), IEEE Electron Device Lett. (21), Appl. Phys. Lett. (14), IEEE Trans. Electron Devices (16)  
         <br>
         2. Power Electronics:&nbsp;IEEE Trans. Power Electronics (21), IEEE J. Emerg. Sel. Top. Power Electron. (3), APEC (16), ECCE (7)
@@ -70,11 +70,11 @@ sections:
         <br><br>
         We typically have openings for PhD students, postdoctoral researchers, and visiting scholars with backgrounds in cleanroom fabrication, semiconductor devices, and power electronics circuits. Most PhD students admitted to our group have prior publications in the relevant fields. If you are interested, please contact Professor Yuhao Zhang. Although the peak PhD application season is from September to December, we accept applications year-round. We provide full financial support to all PhD students and also assist with applications to the Hong Kong PhD Fellowship Scheme and the HKU Presidential PhD Scholar Programme.
         <br><br>
-        <strong>Research Focus:</strong>  
+        <strong>Related Links:</strong>  
         <br><br>
-        <strong>·</strong> Physics, design, simulation, fabrication, characterization, reliability, robustness, packaging, and circuit applications of WBG and UWBG devices.
+        <strong>·</strong> [Google Scholar](https://scholar.google.com/citations?user=MqrZiqUAAAAJ&hl=en)
         <br>
-        <strong>·</strong> Emphasis on the fundamental understanding of UWB/UWBG devices, their new applications in power, RF, sensing, and computing applications, as well as the relevant material-device co-design with machine learning.
+        <strong>·</strong> [Yuhao ZHANG's Departmental Homepage](https://www.eee.hku.hk/people/y-zhang/)
         <br>
         <strong>·</strong> Full-stack research scope from materials and devices to circuits and algorithms, and the seamless collaborations with the industry.  
     design:
