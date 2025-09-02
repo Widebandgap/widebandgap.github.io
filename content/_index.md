@@ -78,7 +78,7 @@ sections:
         <br><br>
         <strong>Selected Publications:</strong>
         <br>
-        <strong>•</strong>  Y. Qin, Z. Yang, H. Gong, A. Jacobs, J. Spencer, M. Porter, B. Wang, K. Sasaki, C-H. Lin, M. Tadjer, and Y. Zhang*, “10 kV,  250 oC Operational, Enhancement-Mode Ga2O3 JFET with Charge-Balance and Hybrid-Drain Designs,” <strong>2024 IEEE International Electron Devices Meeting (IEDM)</strong>, Dec. 2024 (selected as the <strong>IEDM Technical Highlight</strong>)  
+        <strong>•</strong>  Y. Qin, Z. Yang, H. Gong, A. Jacobs, J. Spencer, M. Porter, B. Wang, K. Sasaki, C-H. Lin, M. Tadjer, and Y. Zhang*, “10 kV,  250 oC Operational, Enhancement-Mode Ga2O3 JFET with Charge-Balance and Hybrid-Drain Designs,” <strong><em>2024 IEEE International Electron Devices Meeting (IEDM)</em></strong>, Dec. 2024 (selected as the <strong>IEDM Technical Highlight</strong>)  
         <br>
         <strong>•</strong>  X. Yang, R. Zhang, Q. Yang, Q. Song, E. Litchford, A. J. Walker, S. Pidaparthi, C. Drowley, D. Dong, Q. Li, and Y. Zhang*, “Evaluation and MHz Converter Application of 1.2-kV Vertical GaN JFET,” <strong>IEEE Transactions on Power Electronics</strong>, vol. 39, no. 12, pp. 15720–15731, Dec. 2024.
         <br>
