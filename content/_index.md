@@ -58,9 +58,9 @@ sections:
     content:
       #title: 11111
       #subtitle: ''
-      text: Our group mainly explores wide-bandgap (WBG) and ultra-wide bandgap (UWBG) materials, devices, and circuits for next-generation electronics applications. Our current research focuses on a few major areas:&nbsp;(1) WBG semiconductors for power and RF electronics; (2) Power device reliability and robustness, packaging, circuit-level integration, and system-level applications; (3) Machine learning assisted material-device-circuit co-design; (4) WBG and UWBG materials and devices for electronic, photonic, biological and quantum applications; (5) Devices, circuits and systems for extreme environment applications.
+      text: &nbsp;&nbsp;Our group mainly explores wide-bandgap (WBG) and ultra-wide bandgap (UWBG) materials, devices, and circuits for next-generation electronics applications. Our current research focuses on a few major areas:&nbsp;(1) WBG semiconductors for power and RF electronics; (2) Power device reliability and robustness, packaging, circuit-level integration, and system-level applications; (3) Machine learning assisted material-device-circuit co-design; (4) WBG and UWBG materials and devices for electronic, photonic, biological and quantum applications; (5) Devices, circuits and systems for extreme environment applications.
         <br><br>
-        Our group mainly published in the communities of Electron Devices and Power Electronics. Here is a sketch of the group's major corresponding-authored papers till Aug. 2025.
+        &nbsp;&nbsp;Our group mainly published in the communities of Electron Devices and Power Electronics. Here is a sketch of the group's major corresponding-authored papers till Aug. 2025.
         <br>
         <ol>
         <li>Electron Devices:&nbsp;IEDM (21), ISPSD (12), IRPS (7), IEEE Electron Device Lett. (21), Appl. Phys. Lett. (14), IEEE Trans. Electron Devices (16)</li>
@@ -68,17 +68,17 @@ sections:
         <li>Broad Fields:&nbsp;Nat. Electron. (1), Nat. Commun. (1), Nat. Rev. Electr. Eng. (1), Adv. Mater. (1)</li>
         </ol>
         <br>
-        We typically have openings for PhD students, postdoctoral researchers, and visiting scholars with backgrounds in cleanroom fabrication, semiconductor devices, and power electronics circuits. Most PhD students admitted to our group have prior publications in the relevant fields. If you are interested, please contact Professor Yuhao Zhang. Although the peak PhD application season is from September to December, we accept applications year-round. We provide full financial support to all PhD students and also assist with applications to the Hong Kong PhD Fellowship Scheme and the HKU Presidential PhD Scholar Programme.
+        &nbsp;&nbsp;We typically have openings for PhD students, postdoctoral researchers, and visiting scholars with backgrounds in cleanroom fabrication, semiconductor devices, and power electronics circuits. Most PhD students admitted to our group have prior publications in the relevant fields. If you are interested, please contact Professor Yuhao Zhang. Although the peak PhD application season is from September to December, we accept applications year-round. We provide full financial support to all PhD students and also assist with applications to the Hong Kong PhD Fellowship Scheme and the HKU Presidential PhD Scholar Programme.
         <br><br>
         <strong>Related Links:</strong>  
-        <br>
+        <br><br>
         <ul>
         <li> [Google Scholar](https://scholar.google.com/citations?user=MqrZiqUAAAAJ&hl=en)</li>
         <li> [Yuhao ZHANG's Departmental Homepage](https://www.eee.hku.hk/people/y-zhang/)</li>
         </ul>
         <br>
         <strong>Selected Publications:</strong>
-        <br>
+        <br><br>
         <ul>
         <li>Y. Qin, Z. Yang, H. Gong, A. Jacobs, J. Spencer, M. Porter, B. Wang, K. Sasaki, C-H. Lin, M. Tadjer, and Y. Zhang*, “10 kV,  250 oC Operational, Enhancement-Mode Ga2O3 JFET with Charge-Balance and Hybrid-Drain Designs,” <strong><em>2024 IEEE International Electron Devices Meeting (IEDM)</em></strong>, Dec. 2024 (selected as the <strong>IEDM Technical Highlight</strong>)</li>
         <li>X. Yang, R. Zhang, Q. Yang, Q. Song, E. Litchford, A. J. Walker, S. Pidaparthi, C. Drowley, D. Dong, Q. Li, and Y. Zhang*, “Evaluation and MHz Converter Application of 1.2-kV Vertical GaN JFET,” <strong><em>IEEE Transactions on Power Electronics</em></strong>, vol. 39, no. 12, pp. 15720–15731, Dec. 2024.</li>
@@ -88,8 +88,8 @@ sections:
         </ul>
         <br>
         <strong>Major Awards of the Group:</strong>
-        <br>
-        <ul>  
+        <br><br>
+        <ul>
         <li>2025	Yuhao Zhang, <strong>HE Research Fellowship</strong> by HE Science Foundation</li>
         <li>2025	Yuhao Zhang, <strong>Young Scientist Award of the Compound Semiconductor Week</strong> for “Significant contributions to wide-bandgap and ultra-wide-bandgap power devices with pioneering demonstrations of multidimensional devices – superjunction, multi-channel, and FinFET – in GaN and Ga2O3.”</li>
         <li>2025	Joseph Kozak (alumina), <strong>Richard M. Bass Outstanding Young Power Electronics Engineer Award</strong></li>
