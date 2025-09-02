@@ -76,7 +76,18 @@ sections:
         <li> [Google Scholar](https://scholar.google.com/citations?user=MqrZiqUAAAAJ&hl=en)</li>
         <li> [Yuhao ZHANG's Departmental Homepage](https://www.eee.hku.hk/people/y-zhang/)</li>
         </ul>
-        <br>
+    design:
+      columns: '1'
+      background:
+        # color: '#e6f0ff'  
+        text_color_light: false
+      #spacing:
+        # padding: ['20px', '0', '20px', '0']
+      # css_class: fullscreen
+    
+  - block: markdown
+    content:
+      text: <br>
         <strong>Selected Publications:</strong>
         <br><br>
         <ul>
@@ -109,7 +120,6 @@ sections:
         <li>2019  <strong>IEEE E. George Smith Award</strong> for the best paper of the year in IEEE Electron Devices Letters (only one awardee each year)</li>
         <li>2017  Yuaho Zhang, <strong>MIT Microsystems Technology Laboratories Best Doctoral Dissertation Award</strong></li>
         </ul>
-    
     design:
       columns: '1'
       background:
