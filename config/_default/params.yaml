@@ -119,6 +119,9 @@ publications:
 
 # Image settings
 image:
-  quality: 100              # 提高缩略图质量，默认 75
-  resampleFilter: lanczos   # 更清晰的缩放算法
-  thumbnail_size: 600x      # 调大缩略图尺寸，默认 270x，建议 400x~600x
+  quality: 100
+  resampleFilter: lanczos
+  # 关键：禁用 Hugo 的缩略图裁切，直接缩放原图
+  defaultImageProcessing:
+    enabled: false
+
