@@ -33,7 +33,7 @@ education:
     - course: Ph. D. in Electrical Engineering
       institution: Massachusetts Institute of Technology
       year: 2017
-    - course: S. M. in Electrical Engineering
+    - course: M. S. in Electrical Engineering
       institution: Massachusetts Institute of Technology
       year: 2013
     - course: B. S. in Physics
