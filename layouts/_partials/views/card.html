@@ -14,11 +14,11 @@
   <div class="md:flex">
     <div class="md:flex-shrink-0 overflow-hidden">
       {{ with $resource }}
-        {{ $original_image := .Fill (printf "655x655 %s" $anchor) }}
+        {{ $original_image := .Fit (printf "808x455 %s" $anchor) }}
         {{ $responsive := partial "functions/process_responsive_image.html" (dict 
             "image" $original_image 
             "mode" "responsive"
-            "sizes" (slice 192 384 480 655)
+            "sizes" (slice 192 384 480 655 808)
         ) }}
         
         <img class="h-48 w-full object-cover md:w-48 hover:scale-125 transition duration-500 cursor-pointer object-cover" 
