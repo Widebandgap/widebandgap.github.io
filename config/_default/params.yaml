@@ -118,10 +118,12 @@ publications:
   citation_style: apa
 
 # Image settings
+# 图片处理设置
 image:
   quality: 100
   resampleFilter: lanczos
-  # 关键：禁用 Hugo 的缩略图裁切，直接缩放原图
+
+  # 禁用 Hugo 自动缩略和裁剪，直接用原图
   defaultImageProcessing:
     enabled: false
 
