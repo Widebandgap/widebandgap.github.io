@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: ph.D. Student
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -24,9 +24,9 @@ bio:
 
 education:
   courses:
-    - course: course1
-      institution: HKU
-      year: 2025
+    - course: B.Eng. (Hons) degree
+      institution: University of Nottingham Ningbo, China and the University of Nottingham, UK
+      year: 2018
 
 
 # Social/Academic Networking
