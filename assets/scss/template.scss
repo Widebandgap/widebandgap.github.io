@@ -84,3 +84,37 @@
   text-transform: none !important; /* 防止自动首字母大写 */
 }
 
+
+/* 解决首页图片问题*/
+/* 针对首页卡片中的 article-banner 图片 */
+.journals-block .article-banner,
+.conference-block .article-banner {
+    height: auto !important;
+    width: 100% !important;
+    max-height: 200px;
+    object-fit: contain !important;
+}
+
+/* 确保卡片容器不会限制图片显示 */
+.journals-block .card-image,
+.conference-block .card-image {
+    height: auto !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f9fa; /* 可选：添加背景色 */
+}
+
+.journals-block .card,
+.conference-block .card {
+    height: auto !important;
+}
+
+/* 如果以上还不够，尝试更具体的选择器 */
+.journals-block .card .card-body .article-banner,
+.conference-block .card .card-body .article-banner {
+    height: auto !important;
+    width: 100% !important;
+    max-height: 200px;
+    object-fit: contain !important;
+}
