@@ -150,7 +150,6 @@ sections:
       card:
         shadow: true
         border_radius: large
-        image: full   # 修改publication在首页的关联和缩略问题
       css_class: journals-block    # 新增：自定义 class
     
   - block: collection
