@@ -25,13 +25,13 @@ bio:
 education:
   courses:
     - course: Ph.D. in Electrical and Electronic Engineering
-      institution: University of Hong Kong, Hong Kong SAR, China  
+      institution: University of Hong Kong  
       year: now
     - course: M.Sc. in Electrical Engineering and Information Technology
-      institution: RWTH Aachen University, Germany
+      institution: RWTH Aachen University
       year: 2023
     - course: B.Eng. (Hons) in Electrical and Electronic Engineering
-      institution: University of Nottingham Ningbo, China and the University of Nottingham, UK
+      institution: University of Nottingham Ningbo/the University of Nottingham
       year: 2018
       
 
