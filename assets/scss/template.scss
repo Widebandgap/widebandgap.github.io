@@ -84,9 +84,11 @@
   text-transform: none !important; /* 防止自动首字母大写 */
 }
 
-/* 让卡片图片用原图，避免被 Hugo 自动裁切 */
-.article-banner {
-  object-fit: cover !important;  /* 保持填充 */
+/* 文章页 Featured 图片修复 */
+.featured-image {
+  object-fit: contain !important;   /* 保证整张图都显示 */
   width: 100% !important;
-  height: 100% !important;
+  height: auto !important;          /* 高度自适应比例 */
+  max-height: none !important;      /* 防止主题限制图片高度 */
 }
+
