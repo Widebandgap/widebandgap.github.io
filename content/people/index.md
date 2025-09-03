@@ -26,43 +26,27 @@ sections:
     content:
       title: ''
       subtitle: ''
-      text: <br> <strong>Graduate from VirginiaTech</strong>  
+      text: <br> <strong>Graduate from Virginia Tech:</strong>  
         <br>
-        Dr. Ming Xiao
-        <br> 
-        Yunwei Ma
-        <br> 
-        Ruizhe Zhang
-        <br> 
-        Joseph Kozak
-        <br>
-        Noah Allen
-        <br>
-        Jingcun Liu
-        <br>
-        Keyue Shan
-        <br>
-        Haoshen Yang
-        <br>
-        Sheyang Chen
-        <br>
-        Rongxing Tang
-        <br>
-        Dr. Yuan Qin
-        <br>
-        Boyan Wang
-        <br>
-        Qihao Song
-        <br>
-        Joe Spencer
-        <br>
-        Yifan Wang
-        <br>
-        Bixuan Wang
-        <br>
-        Jessie Guo
-        <br>
-        Matthew Porter
+        <ol>
+        <il>Joseph Kozak (PhD, now with Johns Hopkins University Applied Physics Laboratory)</il>
+        <il>Noah Allen (PhD, now with Lawrence Livermore National Laboratory)</il>
+        <il>Ruizhe Zhang (PhD, now with Tesla)</il>
+        <il>Yunwei Ma (PhD, now with Texas Instrument)</il>
+        <il>Boyan Wang (PhD, now with Microchip)</il>
+        <il>Dr. Ming Xiao (postdoc, now professor at Xidian University)</il>
+        <il>Jingcun Liu (visiting student, now with Infineon)</il>
+        <il>Keyue Shan (M(Eng), now with Renesas Electronics)</il>
+        <il>Haoshen Yang (M(Eng), now with Analog Devices)</il>
+        <il>Rongxing Tang (visiting student, now with UT Austin)</il>
+        <il>Qihao Song (PhD and postdoc, now with Monolithic Power Systems)</il>
+        <il>Joe Spencer (PhD, now with Elbit Systems)</il>
+        <il>Yifan Wang (ongoing PhD)</il>
+        <il>Bixuan Wang (ongoing PhD)</il>
+        <il>Jessie Guo (MSc, now with OnSemi)</il>
+        <il>Dr. Yuan Qin (ongoing postdoc)</il>
+        <il>Matthew Porter (ongoing PhD)</il>
+        </ol>
         <br>
     design:
       columns: '2'
