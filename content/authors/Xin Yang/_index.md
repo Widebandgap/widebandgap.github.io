@@ -19,8 +19,8 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-interests:
-  - Study
+#interests:
+  #- Study
 
 education:
   courses:
