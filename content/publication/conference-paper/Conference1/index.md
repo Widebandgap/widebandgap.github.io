@@ -80,6 +80,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Niko Niko Ni~'
+  filename: featured.jpg   # 强制用原图
   focal_point: 'center'
   preview_only: false
 
