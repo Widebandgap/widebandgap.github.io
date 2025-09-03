@@ -1,0 +1,22 @@
+{{/* layouts/partials/views/impact.html - minimal override for impact view image handling */}}
+{{ $item := . }}
+<div class="wg-impact-item">
+  {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
+  {{ with $resource }}
+    {{/* 使用 Fit 而不是 Resize "150x"：保留宽高比并用较大尺寸生成，避免模糊 */}}
+    {{ $image := .Fit "480x" }}
+    {{ if ne $image.MediaType.SubType "gif" }}
+      {{ $image = $image.Process "webp" }}
+    {{ end }}
+    <a href="{{ $item.Permalink }}" title="{{ $item.Title }}">
+      <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}"
+           alt="{{ $item.Title }}" loading="lazy"
+           style="width:100%;height:auto;object-fit:contain;background:#fff;display:block;">
+    </a>
+  {{ end }}
+
+  <div class="wg-impact-item-meta">
+    <h3 class="wg-impact-title"><a href="{{ $item.Permalink }}">{{ $item.Title }}</a></h3>
+    {{ with $item.Params.publication }}<div class="wg-impact-pub">{{ . }}</div>{{ end }}
+  </div>
+</div>
