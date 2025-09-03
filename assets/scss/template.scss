@@ -91,6 +91,11 @@
   background-color: white;          /* 避免白色背景消失 */
 }
 
+.pub-list img {
+  object-fit: contain !important;
+  width: auto !important;
+  height: 150px !important;  /* 保持缩略图大小，但不糊 */
+}
 
 
 
