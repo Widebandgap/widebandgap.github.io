@@ -64,26 +64,6 @@
     font-size: 0.95rem !important;
     margin-top: 0 !important;
   }
-  /* 1) 取消卡片封面容器的固定比例（不同版本类名可能不同，做冗余覆盖） */
-  .hb-card-cover,
-  .card-img,
-  .card-figure,
-  .card-img-wrap {
-    aspect-ratio: auto !important;
-    padding-top: 0 !important;
-    height: auto !important;
-  }
-
-  /* 2) 让图片按“完整显示”而不是裁剪填充 */
-  img.card-img-top,
-  .hb-card-img-top,
-  .card-img-top,
-  [class*="card-img"] img {
-    object-fit: contain !important;  /* 关键：显示整张图 */
-    width: 100%;
-    height: auto !important;         /* 让图片用自身高度 */
-    background: transparent;         /* 可按需：避免黑底 */
-  }
 }
 
 /* Publication 页面中，将 Yuhao Zhang* 加粗 */
