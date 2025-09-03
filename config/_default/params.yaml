@@ -116,3 +116,9 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+# Image settings
+image:
+  quality: 100              # 提高缩略图质量，默认 75
+  resampleFilter: lanczos   # 更清晰的缩放算法
+  thumbnail_size: 600x      # 调大缩略图尺寸，默认 270x，建议 400x~600x
