@@ -84,13 +84,14 @@
   text-transform: none !important; /* 防止自动首字母大写 */
 }
 
-/* 让卡片图片用原图，避免被 Hugo 自动裁切 */
 .article-banner {
-  object-fit: contain !important;  /* 显示完整图片 */
-  width: 100% !important;
-  height: 100% !important;  /* 保持比例 */
-  background-color: #f8f9fa;
+  width: 808px !important;
+  height: 455px !important;
+  object-fit: contain !important; /* 保持图片完整 */
+  background-color: #fff !important; /* 白色背景填充空余 */
+  border: 1px solid #ddd; /* 可选：加个灰色边框，看起来更整齐 */
 }
+
 
 
 
