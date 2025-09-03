@@ -93,9 +93,10 @@
 
 .pub-list img {
   object-fit: contain !important;
-  width: auto !important;
-  height: 150px !important;  /* 保持缩略图大小，但不糊 */
+  width: 100% !important;
+  height: auto !important;
 }
+
 
 
 
