@@ -31,7 +31,7 @@ education:
       institution: RWTH Aachen University
       year: 2023
     - course: B.Eng. (Hons) in Electrical and Electronic Engineering
-      institution: University of Nottingham Ningbo/the University of Nottingham
+      institution: University of Nottingham Ningbo/University of Nottingham
       year: 2018
       
 
