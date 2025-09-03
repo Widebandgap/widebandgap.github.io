@@ -169,7 +169,7 @@ sections:
       columns: '2'
       card:
         shadow: true
-        border_radius: large'
+        border_radius: large
       css_class: conference-block    # 新增：自定义 class
 
   - block: markdown
