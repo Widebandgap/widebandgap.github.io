@@ -1,0 +1,35 @@
+{{ $resource := partial "functions/get_featured_image.html" $item }}
+{{ $anchor := $item.Params.image.focal_point | default "Center" }}
+
+<a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="mb-5">
+  <div class="md:flex">
+    <div class="md:flex-shrink-0 overflow-hidden">
+      {{ with $resource }}
+        {{ $original_image := .Fit "808x455" }}
+        {{ $responsive := partial "functions/process_responsive_image.html" (dict 
+            "image" $original_image 
+            "mode" "responsive"
+            "sizes" (slice 192 384 480 655 808)
+        ) }}
+        
+        <img class="h-[455px] w-[808px] object-contain hover:scale-105 transition duration-500 cursor-pointer" 
+             srcset="{{ $responsive.srcset }}"
+             sizes="(max-width: 808px) 100vw, 808px"
+             src="{{ $responsive.fallback.RelPermalink }}" 
+             width="{{ $original_image.Width }}" 
+             height="{{ $original_image.Height }}"
+             loading="lazy" 
+             alt="{{ $item.Title | plainify }}">
+      {{ end }}
+    </div>
+    <div class="p-8">
+      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">{{ $item.Title }}</div>
+      <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white">
+        {{ ($item.Params.summary | default $item.Summary) | plainify | htmlUnescape | chomp -}}
+      </p>
+      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">
+        {{- $item.Date | time.Format (site.Params.locale.date_format | default ":date_long") -}}
+      </p>
+    </div>
+  </div>
+</a>
