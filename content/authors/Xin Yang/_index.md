@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: ph.D. Student
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -24,9 +24,15 @@ interests:
 
 education:
   courses:
-    - course: course1
-      institution: HKU
-      year: 2025
+    - course: Ph.D. in Electrical and Electronic Engineering
+      institution: University of Hong Kong  
+      year: now
+    - course: M.S. in Electrical Engineering
+      institution: Xi'an Jiaotong University
+      year: 2023
+    - course: B.S. in Electrical Engineering
+      institution: Chongqing University
+      year: 2020
 
 
 # Social/Academic Networking
