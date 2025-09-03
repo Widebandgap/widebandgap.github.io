@@ -85,12 +85,10 @@
 }
 
 .featured-image {
-  display: block;
-  margin: 0 auto;
-  object-fit: contain !important;   /* 显示完整图片 */
-  width: auto !important;           /* 不强行拉宽 */
-  max-width: 100% !important;       /* 保证不会超出屏幕 */
-  max-height: 600px !important;     /* 限制高度，比如 600px，可调整 */
+  object-fit: cover !important;
+  width: 100% !important;
+  height: 100% !important;   
 }
+
 
 
