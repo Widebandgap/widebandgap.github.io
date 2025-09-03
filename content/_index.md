@@ -165,7 +165,7 @@ sections:
         text: "See all"
         link: "/publication/"
     design:
-      view: card
+      view: citation
       columns: '2'
       card:
         shadow: true
