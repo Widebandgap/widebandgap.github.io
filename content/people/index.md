@@ -12,8 +12,8 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Professor 
-          - Current Postdoc
-          - Current PhD  
+          - Current Postdoctoral Fellows
+          - Current PhD Students  
           - Alumni                  # 校友
     
       sort_by: Params.last_name     # 按姓氏排序
