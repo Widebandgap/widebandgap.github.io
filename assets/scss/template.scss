@@ -64,6 +64,18 @@
     font-size: 0.95rem !important;
     margin-top: 0 !important;
   }
+  /* 新增：调整卡片内图片显示 - 解决图片显示不全问题 */
+  .card img {
+    object-fit: contain !important;
+    width: 100%;
+    height: 200px;
+    background-color: #f8f9fa; /* 添加背景色以防图片周围有空白 */
+  }
+  
+  /* 允许卡片高度自适应 */
+  .card {
+    height: auto !important;
+  }
 }
 
 /* Publication 页面中，将 Yuhao Zhang* 加粗 */
