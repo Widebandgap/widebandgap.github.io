@@ -9,21 +9,17 @@ sections:
     content:
       title:
       subtitle: ''
-      text:
+      text: |
+        <div style="text-align:center;">
+          <img src="/media/Equipments1.jpg" alt="Equipments" style="max-width:90%; height:auto; display:block; margin:auto;">
+        </div>
     design:
       columns: '1'
       background:
-        image: 
-          filename: Equipments1.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
+        color: white   # 或者去掉 background.image
       spacing:
         padding: ['20px', '0', '20px', '0']
-      # css_class: fullscreen
+      css_class: fullscreen
     
   - block: markdown
     content:
