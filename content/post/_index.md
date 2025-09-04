@@ -1,7 +1,5 @@
 ---
 title: News & Media Coverage
-type: landing  
-
 
 sections:
   - block: collection
@@ -10,8 +8,6 @@ sections:
     design:
       view: article-grid
       columns: 2
-
-
 
       
   - block: markdown
