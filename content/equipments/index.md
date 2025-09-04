@@ -5,20 +5,20 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: resume-awards
-    content:
-      username: "admin"
-      title: "My Section Title"
-      text: "This is sample text content for the section."
+  - block: markdown
     design:
+      align: center
       background:
-        color: ""
-        # gradient_start: "#4f46e5"
-        # gradient_end: "#7c3aed"
-        # text_color_light: true
-      # spacing:
-      #   padding: ["6", "6", "6", "6"]
-      # columns: "1"
+        image:
+          filename: Equipments1.jpg
+          text_color_light: false
+          # size: auto 530px
+          parallax: false
+        position: center
+        spacing:
+          padding: ['0', '80px', '0', '80px']
+        color = '#fffff'
+    
   - block: markdown
     content:
       text: |
