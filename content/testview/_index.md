@@ -11,7 +11,7 @@ sections:
       title: AAAAA
       filters:
         folders:
-          - post
+          - testview
         featured_only: true
     design:
       view: article-grid
