@@ -6,7 +6,7 @@ sections:
     content:
       title: 
     design:
-      view: card
+      view: masonry
       columns: 2
 
       
