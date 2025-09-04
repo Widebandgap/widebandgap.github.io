@@ -1,6 +1,6 @@
 ---
 title: News & Media Coverage
-
+type: landing
 sections:
   - block: collection
     content:
