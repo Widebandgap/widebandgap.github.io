@@ -96,3 +96,28 @@
   width: 100% !important;
   height: 100% !important;
 }
+
+/* 统一修复首页卡片图片显示问题 */
+.article-card .article-banner img,
+.card .article-banner img,
+.card img {
+  object-fit: contain !important;  /* 保证完整显示图片 */
+  width: 100% !important;          /* 占满宽度 */
+  height: 200px !important;        /* 固定高度（可以调大/调小） */
+  background-color: #f8f9fa !important; /* 避免透明图发黑或空白 */
+  border-radius: 6px;              /* 让图片有点圆角，美观 */
+}
+
+/* 允许卡片内容根据文字自动扩展高度 */
+.article-card,
+.card {
+  height: auto !important;
+  display: flex;
+  flex-direction: column;
+}
+
+/* 图片和正文之间留点间距 */
+.article-card .article-banner,
+.card .article-banner {
+  margin-bottom: 0.5rem;
+}
