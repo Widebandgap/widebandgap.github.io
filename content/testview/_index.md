@@ -9,9 +9,6 @@ sections:
   - block: collection
     content:
       title: AAAAA
-      filters:
-        folders:
-          - testview
         featured_only: true
     design:
       view: article-grid
