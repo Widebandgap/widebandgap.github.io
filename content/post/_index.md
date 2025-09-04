@@ -6,7 +6,7 @@ sections:
     content:
       title: 
     design:
-      view: article-grid
+      view: card
       columns: 2
 
       
