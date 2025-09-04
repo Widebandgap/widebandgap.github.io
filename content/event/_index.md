@@ -1,5 +1,5 @@
 ---
-title: Invited Talk~
+title: Invited Talk
 
 # Listing view
 view: compact
