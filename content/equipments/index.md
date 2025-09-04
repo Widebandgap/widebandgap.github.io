@@ -6,18 +6,24 @@ type: landing
 
 sections:
   - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
     design:
-      align: center
+      columns: '1'
       background:
-        image:
+        image: 
           filename: Equipments1.jpg
-          text_color_light: false
-          # size: auto 530px
+          filters:
+            brightness: 1
           parallax: false
-        position: center
-        spacing:
-          padding: ['0', '80px', '0', '80px']
-      color: '#fffff'
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      # css_class: fullscreen
     
   - block: markdown
     content:
