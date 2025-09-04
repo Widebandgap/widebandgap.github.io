@@ -1,12 +1,12 @@
 ---
-title: Latest News
+title: News & Media Coverage
 type: landing  
 
 
 sections:
   - block: collection
     content:
-      title: News & Media Coverage
+      title: 
     design:
       view: article-grid
       columns: 2
