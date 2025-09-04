@@ -34,7 +34,7 @@ image:
   caption: 'Niko Niko Ni~'
   focal_point: Right  # 右下角展示
 
-url_code: ''
+url_code: '/talks/talk1/pointNN.pdf'
 url_pdf: ''
 url_slides: ''
 url_video: ''
