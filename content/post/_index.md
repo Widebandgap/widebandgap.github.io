@@ -7,9 +7,6 @@ sections:
   - block: collection
     content:
       title: News & Media Coverage
-      filters:
-        folders:
-          - post
     design:
       view: article-grid
       columns: 2
