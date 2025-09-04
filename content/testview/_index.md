@@ -1,16 +1,11 @@
 ---
-# Leave the homepage title empty to use the site title
-title: ""
-date: 2025-09-04
-type: landing
+title: Test View
 
+# Listing view
+view: article-grid
 
-sections:
-  - block: collection
-    content:
-      title: AAAAA
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+# Optional header image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: ''
 ---
