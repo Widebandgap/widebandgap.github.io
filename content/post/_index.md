@@ -4,24 +4,16 @@ type: landing
 
 
 sections:
-  - block: markdown
+  - block: collection
     content:
-      title: 'Latest News'
-      subtitle: ''
-      text: <br><br>
-        <strong>[2025-09-01]</strong> The lab website has been established!
-        <br><br>
-        <strong>[2024-11-01]</strong> Prof. Zhang joined HKU.
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - post
     design:
-      columns: '1'
-      background:
-        # color: '#ffffff'  
-        text_color_light: false
+      view: article-grid
+      columns: 2
+
 
 
       
