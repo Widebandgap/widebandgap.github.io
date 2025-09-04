@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: collection
     content:
-      title: Recent & Upcoming Talks
+      title: News & Media Coverage
       filters:
         folders:
           - post
