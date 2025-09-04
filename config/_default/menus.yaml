@@ -7,7 +7,7 @@ main:
 #  - name: Tour
 #    url: tour
 #    weight: 10
-  - name: News
+  - name: News & Media Coverage
     url: post
     weight: 10
   - name: Team
