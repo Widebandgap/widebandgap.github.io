@@ -6,14 +6,14 @@ title: 'Optically-Controlled 3.3 kV SiC MOSFET with Fast Switching Speed and Low
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Xin Yang
-  - G. Shi
-  - L. Jin
-  - Y. Qin
-  - M. Porter
-  - C-W. Chang
-  - X. Jia
-  - D. Dong
-  - L. Shao*
+  - Guannan Shi
+  - Liyang Jin
+  - Yuan Qin
+  - Matthew Porter
+  - Che-Wei Chang
+  - Xiaoting Jia
+  - Dong Dong
+  - Linbo Shao
   - Yuhao Zhang*
 
 # Author notes (optional)
@@ -21,8 +21,8 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2025-03-01T00:00:00Z'
-doi: ''
+date: '2025-05-01T00:00:00Z'
+doi: '10.1109/APEC48143.2025.10977119'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -33,7 +33,7 @@ doi: ''
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In **2025 IEEE Applied Power Electronics Conference and Exposition (APEC)**, Mar. 2025
+publication: In **2025 IEEE Applied Power Electronics Conference and Exposition (APEC)**
 # publication_short: In **APEC**
 
 abstract: Optically-controlled high-voltage power devices hold good promise for grid and renewable energy applications by providing superior electromagnetic interference (EMI) immunity and reduced switching delay. This paper proposed a novel optically-controlled gate driver architecture that applies complementary optical signals to two photodiodes (PDs) arranged in a totem-pole configuration. This configuration enables fast switching of power semiconductor devices using minimal optical power, as only low-power driver signals are optically modulated and device main current is not photogenerated. To validate this approach, we employ two InGaAs PDs to drive a 3.3 kV SiC MOSFET, the highest-voltage industrial unipolar device currently available. When each PD is illuminated by 21.7 mW optical power, the SiC MOSFET achieves hard-switching at 1500V/3A, with rise and fall times of 152 ns and 214 ns, respectively. These results set new records for switching voltage, speed, and power capacity-to-optical power ratio in optically-controlled unipolar power switches. This general optical driver design is also applicable to the future development of integrated optics for power electronics in diverse (ultra-) wide-bandgap semiconductors.
