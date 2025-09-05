@@ -1,14 +1,14 @@
 ---
 title: "Robust Avalanche (1.5 kV, 2 kA/cm2) in Vertical GaN Diodes on Patterned Sapphire Substrate"
 authors:
-- Y. Wang
-- M. Xiao
-- Zineng Yang
-- M. Porter
-- K. Cheng
-- Q. Song
-- I. Kravchenko
-- Yuhao Zhang*
+  - Yifan Wang
+  - Ming Xiao
+  - Zineng Yang
+  - Matthew Porter
+  - Kai Cheng
+  - Qihao Song
+  - Ivan Kravchenko
+  - Yuhao Zhang*
 #author_notes:
 #- ""
 #- ""
@@ -20,7 +20,7 @@ authors:
 #- "Corresponding author"
 
 date: "2025-05-01T00:00:00Z"
-doi: ""
+doi: "10.1109/LED.2025.3548905"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: ""
@@ -31,7 +31,7 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**_IEEE Electron Device Letters_**, vol. 46, no. 5, pp. 717-720, May 2025"
+publication: "**_IEEE Electron Device Letters_**"
 publication_short: ""
 
 abstract: The lack of avalanche capability is a key limitation of current lateral GaN devices. Despite the report of avalanche in vertical GaN-on-GaN devices, the high wafer cost hinders device commercialization. Here we demonstrate a circuit-level avalanche in vertical GaN diodes on low-cost patterned sapphire substrate (PSS), with the avalanche voltage (1.57 kV) and avalanche current density (>2 kA/cm2) both being the highest reported in GaN devices on foreign substrates. The PSS enables a lower dislocation density than conventional sapphire substrate and is employed in high-voltage GaN devices for the first time. The avalanche voltage in the circuit test reaches 98% of the parallel-plane limit, further affirming that near-ideal avalanche breakdown can be realized on GaN devices on foreign substrates. These results show the promise of the GaN-on-PSS platform for low-cost, robust power devices.
@@ -55,10 +55,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+#image:
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  #focal_point: ""
+  #preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
