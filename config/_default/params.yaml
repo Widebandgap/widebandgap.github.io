@@ -40,6 +40,9 @@ header:
     show_day_night: true
     show_search: false
     highlight_active_link: false
+    logo:
+      filename: "icon.png"
+      text: "Wide Bandgap Electronics Group"
 
 # Site footer
 
