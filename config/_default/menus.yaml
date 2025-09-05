@@ -7,21 +7,22 @@ main:
 #  - name: Tour
 #    url: tour
 #    weight: 10
-  - name: News & Media Coverage
-    url: post
-    weight: 10
   - name: Team
     url: people
-    weight: 20
-  - name: Invited Talk
-    url: event
-    weight: 30
+    weight: 10
   - name: Publications
     url: publication
+    weight: 20
+  - name: News & Media Coverage
+    url: post
+    weight: 30
+  - name: Invited Talk
+    url: event
     weight: 40
+  - name: Capabilities & Equipments
+    url: equipments
+    weight: 50
   - name: Contact
     url: contact
-    weight: 50
-  - name: Team Capabilities & Equipments
-    url: equipments
     weight: 60
+
