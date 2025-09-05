@@ -5,8 +5,8 @@ image:
   focal_point: 'top'
 ---
 
-“[Gallium oxide JFETs reach beyond 10kV breakdown](https://semiconductor-today.com/news_items/2025/feb/virginia-130225.shtml),” Semiconductor Today
+Researchers based in USA and Japan report the demonstration of more than 10kV enhancement-mode (E-mode) gallium oxide (Ga2O3) lateral junction field-effect transistors (JFETs) with nickel oxide (NiO) reduced-surface-field (RESURF) structures and hybrid-drain, operating up to 250°C
 
 <!--more-->
 
-1111
+“[Gallium oxide JFETs reach beyond 10kV breakdown](https://semiconductor-today.com/news_items/2025/feb/virginia-130225.shtml),” Semiconductor Today
