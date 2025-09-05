@@ -4,7 +4,7 @@ title: Application-Oriented Stability, Reliability, and Robustness of GaN Power 
 event: Click Me.
 event_url: https://www.bilibili.com/
 
-location: HKU
+location: 2025 Infineon Professor Forum
 address:
   street: 
   city: Wuxi
@@ -12,8 +12,8 @@ address:
   postcode: 
   country: China
 
-summary: summary. # 这个是在Inviter Talk首页展示的一行总结的话
-abstract: 'Ciallo～(∠・ω< )⌒☆'
+summary: summary 123. # 这个是在Inviter Talk首页展示的一行总结的话
+abstract: 'abstract 123'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -56,8 +56,8 @@ projects:
 
 You can type here:
 
-- **ZHB** is _small_ SB!
-- **ZHB** is _medium_ SB!
-- **ZHB** is _Super_ SB!
+- **A** is _small_ A
+- **A** is _medium_ A
+- **A** is _Super_ A
 
-HOLA!HOLA!
+HAA
