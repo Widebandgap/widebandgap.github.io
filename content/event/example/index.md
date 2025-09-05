@@ -8,8 +8,8 @@ location: 2025 Infineon Professor Forum
 address:
   street: 
   city: Wuxi
-  region: 
-  postcode: 
+  region: ''
+  postcode: ''
   country: China
 
 summary: summary 123. # 这个是在Inviter Talk首页展示的一行总结的话
@@ -17,12 +17,12 @@ abstract: 'abstract 123'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-09-04T13:00:00Z'
-date_end: '2025-09-05T15:00:00Z'
+date: '2025-08-01T13:00:00Z'
+date_end: ''
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-08-01T00:00:00Z'
 
 authors: []
 tags: []
@@ -30,9 +30,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Niko Niko Ni~'
-  focal_point: Right  # 右下角展示
+#image:
+  #caption: 'AAA'
+  #focal_point: Right  # 右下角展示
 
 url_code: ''
 url_pdf: '/talks/talk1/pointNN.pdf'
