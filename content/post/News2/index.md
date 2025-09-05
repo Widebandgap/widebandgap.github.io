@@ -9,4 +9,4 @@ Advances in semiconductor and power electronics technologies, led by increasing 
 
 <!--more-->
 
-“[Power semiconductors for carbon neutrality](https://compoundsemiconductor.net/article/121619/Power_semiconductors_for_carbon_neutrality),” Compound Semiconductor Magazine
+“[Power semiconductors for carbon neutrality](https://compoundsemiconductor.net/article/121619/Power_semiconductors_for_carbon_neutrality),” <strong>Compound Semiconductor Magazine</strong>
