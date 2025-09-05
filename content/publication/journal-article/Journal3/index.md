@@ -40,7 +40,7 @@ doi: "10.1109/LED.2025.3539175"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**_IEEE Electron Device Letters_**, vol. 46, no. 4, pp. 556-559, Apr. 2025"
+publication: "**_IEEE Electron Device Letters_**"
 publication_short: ""
 
 abstract: Energy supply and consumption account for approximately 75% of global greenhouse gas emissions. Advances in semiconductor and power electronics technologies are required to integrate renewable energy into grids, electrify transport and the heating and cooling of buildings, and increase the efficiency of electricity conversion. This Review outlines the opportunities for carbon neutrality in the energy sector enabled by synergistic advances in wide-bandgap (WBG) semiconductors and power electronics. First, we present advances in WBG power devices, converter circuits and power electronics applications and their implications. For example, WBG materials have a high critical electric field and thermal stability; therefore, WBG devices can operate at higher temperatures and frequencies than silicon devices, enabling higher efficiency and reducing the number of passive components and cooling systems required in converter circuits. We then discuss advances in renewable energy systems, electric vehicles, data centres and heat pumps enabled by WBG devices, and their potential to reduce carbon emissions through electrification and increased energy conversion efficiency. We also consider the implications of the carbon footprint of WBG device manufacturing being larger than that of silicon manufacturing. Finally, we discuss research gaps that must be addressed to realize the potential of WBG semiconductors and power electronics for carbon neutrality.
