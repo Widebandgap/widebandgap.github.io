@@ -6,10 +6,10 @@ event_url: https://www.bilibili.com/
 
 location: 2025 Infineon Professor Forum
 address:
-  street: 
+  #street: 
   city: Wuxi
-  region: ''
-  postcode: ''
+  #region: 
+  #postcode: 
   country: China
 
 summary: summary 123. # 这个是在Inviter Talk首页展示的一行总结的话
@@ -17,7 +17,7 @@ abstract: 'abstract 123'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-08-01T13:00:00Z'
+date: '2025-08-01'
 date_end: ''
 all_day: false
 
