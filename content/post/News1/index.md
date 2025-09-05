@@ -5,8 +5,8 @@ image:
   focal_point: 'top'
 ---
 
-你爹你爹你爹.
+“[Gallium oxide JFETs reach beyond 10kV breakdown](https://semiconductor-today.com/news_items/2025/feb/virginia-130225.shtml),” Semiconductor Today
 
 <!--more-->
 
-Ciallo～(∠・ω< )⌒☆
+1111
