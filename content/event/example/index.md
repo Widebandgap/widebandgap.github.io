@@ -7,10 +7,10 @@ event_url: https://www.bilibili.com/
 location: 2025 Infineon Professor Forum
 address:
   #street: 
-  city: Wuxi
+  city: Wuxi, China
   #region: 
   #postcode: 
-  country: China
+  #country:
 
 summary: summary 123. # 这个是在Inviter Talk首页展示的一行总结的话
 abstract: 'abstract 123'
@@ -19,7 +19,7 @@ abstract: 'abstract 123'
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2025-08-01'
 date_end: ''
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2025-08-01'
