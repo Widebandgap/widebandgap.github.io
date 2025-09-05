@@ -5,9 +5,9 @@ title: 'Impact of Substrate Bias on the Stability of Bidirectional GaN HEMT in H
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Q. Song
-  - H. Cui
-  - Q. Li
+  - Qihao Song
+  - Hongchang Cui
+  - Qiang Li
   - Yuhao Zhang*
 
 # Author notes (optional)
@@ -15,8 +15,8 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2025-03-01T00:00:00Z'
-doi: ''
+date: '2025-03-16T00:00:00Z'
+doi: '10.1109/APEC48143.2025.10977559'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -27,7 +27,7 @@ doi: ''
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In **2025 IEEE Applied Power Electronics Conference and Exposition (APEC)**, Mar. 2025
+publication: In **2025 IEEE Applied Power Electronics Conference and Exposition (APEC)**
 # publication_short: In **APEC**
 
 abstract: Many power electronics circuits for DC/AC conversion require power semiconductors with bidirectional voltage-blocking capability. Such a bidirectional device is typically achieved by connecting two unidirectional devices in series. The emerging monolithic bidirectional GaN-on-Si HEMTs (MBD-HEMT) offer an attractive alternative by replacing these two devices with a single-device solution. Despite the promise, substrate management in GaN MBD-HEMTs remains a critical challenge. The substrate of GaN MBD-HEMTs is usually floating, resulting in a constantly changing substrate bias that can be either positive or negative during the hard- or soft-switching. This issue can be resolved by adding a substrate management circuit, which, however, increases device cost and complexity. To optimize the substrate management for GaN MBD-HEMT, the impact of dynamic substrate bias on device parametric stability needs to be thoroughly understood. This work addresses this gap by in situ characterizations of dynamic on-resistance (dyRON) and threshold voltage (Vth) in a GaN HEMT with the floating substrate under both hard- and soft-switching conditions. A relatively large dyRON shift is found when the substrate is floating or shorted to drain during the hard switching, whilst the dynamic Vth shift is minimal in these cases. Instead, the back-gating effect, attributed to the changing substrate bias, i.e., negative during hard-switching and positive during soft-switching, is suspected to be the primary cause. These results can provide practical guidance for optimizing the stability of MBD-HEMT.
