@@ -5,15 +5,15 @@ title: 'Dynamic Reliability of IC-Interface GaN HEMTs Demonstrated Under Ultra-F
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - B. Wang
+  - Bixuan Wang
   - Xin Yang
-  - Q. Song
-  - K. Mukherjee
-  - L. Efthymiou
-  - D. Popa
-  - G. Longobardi
-  - D. Dong
-  - F. Udrea*
+  - Qihao Song
+  - Kalparupa Mukherjee
+  - Loizos Efthymiou
+  - Daniel Popa
+  - Giorgia Longobardi
+  - Dong Dong
+  - Florin Udrea*
   - Yuhao Zhang*
 
 # Author notes (optional)
@@ -22,7 +22,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2025-06-01T00:00:00Z'
-doi: ''
+doi: '10.23919/ISPSD62843.2025.11117449'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -33,7 +33,7 @@ doi: ''
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In **2025 37th International Symposium on Power Semiconductor Devices and ICs (ISPSD)**, pp. 93-96, Jun. 2025
+publication: In **2025 37th International Symposium on Power Semiconductor Devices and ICs (ISPSD)**
 # publication_short: In **ISPSD**
 
 abstract: The small gate overvoltage margin is of real concern in p-gate GaN HEMTs in converter applications. Recently, ICeGaN® (Integrated Circuit Enhancement-mode GaN) device deploys a monolithically integrated power IC interface to expand the static operation window to be similar to those of Si MOSFET and Si IGBT. However, the dynamic response of the IC interface under nanosecond gate bias (VG) overshoot, as well as the gate reliability under megahertz switching frequency (fSW), have never been studied. This work addresses this gap by developing a new circuit to generate the application-like V G overshoot profiles with dVG/dt up to 10 V Ins andfsw up to 3 MHz. The IC interface is shown to respond in nanosecond and clamp the VG,IN below 7 V under an external V G overshoot up to 80 V and dVG/dt of 7 V Ins. Uniquely for p-gate GaN devices, ICeGaN shows no degradation under long-term overvoltage stress under 30-V VG overshoot at 3-MHzfsw. This is the first report of the dynamic response of GaN monolithic gate protection ICs under ultra-fast overshoot. Test results reveal that the on-chip IC interface can substantially enhance dynamic gate reliability and robustness of p-gate GaN HEMTs.
