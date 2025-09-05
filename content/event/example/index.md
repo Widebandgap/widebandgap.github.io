@@ -1,18 +1,18 @@
 ---
-title: ZHB IS SB
+title: Application-Oriented Stability, Reliability, and Robustness of GaN Power Devices
 
 event: Click Me.
 event_url: https://www.bilibili.com/
 
 location: HKU
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 
+  city: Wuxi
+  region: 
+  postcode: 
+  country: China
 
-summary: zhb is sb. # 这个是在Inviter Talk首页展示的一行总结的话
+summary: summary. # 这个是在Inviter Talk首页展示的一行总结的话
 abstract: 'Ciallo～(∠・ω< )⌒☆'
 
 # Talk start and end times.
