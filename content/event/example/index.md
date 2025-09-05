@@ -6,9 +6,9 @@ event_url: https://www.bilibili.com/
 
 location: 2025 Infineon Professor Forum
 address:
-  street:
+  street: ''
   city: Wuxi
-  region:
+  region: ''
   postcode: ''
   country: China
 
