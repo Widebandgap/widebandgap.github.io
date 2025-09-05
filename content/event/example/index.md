@@ -6,10 +6,10 @@ event_url: https://www.bilibili.com/
 
 location: 2025 Infineon Professor Forum
 address:
-  #street: 
-  #city: Wuxi, China
-  #region: 
-  #postcode: 
+  street:
+  city:
+  region:
+  postcode:
   country: Wuxi, China
 
 summary: summary 123. # 这个是在Inviter Talk首页展示的一行总结的话
