@@ -5,14 +5,14 @@ title: 'First Demonstration of Optically-Controlled 650 V Power GaN HEMT with Ul
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - X. Yang
-  - L. Jin
-  - M. Porter
-  - H. Cui
+  - Xin Yang
+  - Liyang Jin
+  - Matthew Porter
+  - Hongchang Cui
   - Zineng Yang
-  - H. Gong
-  - H. Wang
-  - L. Shao*
+  - Hehe Gong
+  - Han Wang
+  - Linbo Shao*
   - Yuhao Zhang*
 
 # Author notes (optional)
@@ -20,8 +20,8 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2025-06-01T00:00:00Z'
-doi: ''
+date: '2025-08-19T00:00:00Z'
+doi: '10.23919/ISPSD62843.2025.11117348'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -32,7 +32,7 @@ doi: ''
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In **2025 37th International Symposium on Power Semiconductor Devices and ICs (ISPSD)**, pp. 49-52, Jun. 2025
+publication: In **2025 37th International Symposium on Power Semiconductor Devices and ICs (ISPSD)**
 # publication_short: In **ISPSD**
 
 abstract: Optically-controlled power devices offer a promising solution for reducing electromagnetic interference and enhancing device synchronization for stacked devices in many applications like grid and renewable energy processing. This work, for the first time, demonstrates the optical control of a 650 V GaN HEMT using two low-power photodiodes (PDs) to achieve ultrafast hard switching. We apply complementary optical signals to two InGaAs PDs in a totem-pole configuration, providing rapid charging and discharging paths for power device. The GaN HEMT is found to be particularly suited for such configuration due to its low input capacitance compared to SiC and Si devices. The design is experimentally validated under a 400 V hard switching condition using a double-pulse test (DPT) setup. At 400 V/ 3 A hard switching, the fall and rise times of 63.2 ns and 64 ns were demonstrated under a 45-mW power consumed on each PD. These results represent the highest switching voltage and switching current reported in optically-controlled GaN devices, as well as the fastest switching speeds reported in all optically-controlled power devices to date. This work highlights the potential of the PD-based optical driving scheme and the optically-controlled GaN HEMTs for emerging power electronics applications.
