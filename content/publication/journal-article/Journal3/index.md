@@ -1,19 +1,19 @@
 ---
 title: "Enhancement-mode GaN Monolithic Bidirectional Switch with Breakdown Voltage over 3.3 kV"
 authors:
-- Y. Guo
-- Y. Qin
-- M. Xiao
-- M. Porter
-- Q. Song
-- D. Popa
-- L. Efthymiou
-- K. Cheng
-- I. Kravchenko
-- L. Shao
-- H. Wang
-- F. Udrea*
-- Yuhao Zhang*
+  - Yijin Guo
+  - Yuan Qin*
+  - Ming Xiao
+  - Matthew Porter
+  - Qihao Song
+  - Daniel Popa
+  - Loizos Efthymiou
+  - Kai Cheng
+  - Ivan Kravchenko
+  - Linbo Shao
+  - Han Wang
+  - Florin Udrea*
+  - Yuhao Zhang*
 author_notes:
 #- ""
 #- ""
@@ -29,7 +29,7 @@ author_notes:
 # - "Corresponding Author"
 
 date: "2025-04-01T00:00:00Z"
-doi: ""
+doi: "10.1109/LED.2025.3539175"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: ""
@@ -63,10 +63,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+#image:
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  #focal_point: ""
+  #preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
