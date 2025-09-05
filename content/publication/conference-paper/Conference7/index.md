@@ -5,21 +5,22 @@ title: 'First Characterization of GaN Power Device and IC at Deep Cryogenic Temp
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Xin Yang,
-  - M. Porter
+  - Xin Yang
+  - Matthew Porter
   - Zineng Yang
-  - Z. Xi
-  - J. Lin
-  - L. Zhu
-  - L. Shao*
+  - Zichen Xi
+  - Liyang Jin
+  - Liyan Zhu
+  - Linbo Shao
   - Yuhao Zhang*
+
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2025-03-01T00:00:00Z'
-doi: ''
+date: '2025-05-01T00:00:00Z'
+doi: '10.1109/APEC48143.2025.10977293'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -30,7 +31,7 @@ doi: ''
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In **2025 IEEE Applied Power Electronics Conference and Exposition (APEC)**, Mar. 2025
+publication: In **2025 IEEE Applied Power Electronics Conference and Exposition (APEC)**
 # publication_short: In **APEC**
 
 abstract:Electrical energy conversion at deep cryogenic temperatures (T < 4.2 K) is desirable for space, quantum, and astronomical applications. However, the functionality of power semiconductors within this temperature range remains uncertain. Particularly, high-voltage or dynamic switching tests have not been reported for GaN devices below 77 K. For the first time, we evaluate the static and dynamic performances of discrete GaN HEMT and GaN power IC at temperatures as low as 100 mK. We employ a dilution refrigerator connected to a custom circuit setup that integrates double-pulse testing and dynamic on-resistance (RON) measurements. Key findings at temperatures below 1 K include: 1) GaN HEMTs maintain normally-off operation and high breakdown voltage; 2) discrete GaN HEMT and GaN power IC are both capable of hard switching under gate control; and 3) the dynamic RON are approximately ~4.5 times lower than at 295 K. These results pave the way for developing power converters operational at temperatures below the current boundaries.
