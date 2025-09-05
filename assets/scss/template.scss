@@ -108,3 +108,35 @@
 .card .article-banner {
   margin-bottom: 0.5rem;
 }
+
+/* 给左上角的“站点标题”前面加图标（桌面+移动都覆盖） */
+.navbar-brand {
+  display: inline-flex;
+  align-items: center;
+}
+
+/* 在文字前插入图标 */
+.navbar-brand::before {
+  content: "";
+  display: inline-block;
+  width: 22px;
+  height: 22px;
+  margin-right: 8px;
+  background-image: url("/media/icon.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+/* 移动端那个“第二个品牌位”也一并覆盖 */
+.navbar-brand-mobile-wrapper .navbar-brand::before {
+  content: "";
+  display: inline-block;
+  width: 22px;
+  height: 22px;
+  margin-right: 8px;
+  background-image: url("/media/icon.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
