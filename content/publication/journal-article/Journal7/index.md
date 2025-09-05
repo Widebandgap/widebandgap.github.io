@@ -18,7 +18,7 @@ author_notes:
 #- ""
 
 date: "2025-08-20T00:00:00Z"
-doi: ""
+doi: "10.1109/TPEL.2025.3601008"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: ""
@@ -54,7 +54,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
