@@ -1,14 +1,14 @@
 ---
 title: "Junction-based deep mesa termination for multi-kilovolt vertical β-Ga2O3 power devices"
 authors:
-- J. Wan
-- H. Wang*
-- C. Zhang
-- C. Wang
-- H. Cheng
-- J. Ye
-- Yuhao Zhang
-- K. Sheng
+  - Jiangbin Wan 
+  - Hengyu Wang*
+  - Chi Zhang
+  - Ce Wang
+  - Haoyuan Cheng
+  - Jiandong Ye
+  - Yuhao Zhang
+  - Kuang Sheng
 
 author_notes:
 #- ""
@@ -21,7 +21,7 @@ author_notes:
 #- ""
 
 date: "2025-01-21T00:00:00Z"
-doi: ""
+doi: "10.1063/5.0251699"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: ""
@@ -32,7 +32,7 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**_Applied Physics Letters_**, vo. 126, p. 032106, Jan. 2025"
+publication: "**_Applied Physics Letters_**"
 publication_short: ""
 
 abstract: Deep mesa is an effective edge termination widely deployed in high-voltage power devices. However, its effectiveness requires the minimal distance between mesa and electrode edge and is susceptible to charges in the dielectric passivation, posing challenges in practical implementation. Here, we propose a deep mesa termination encapsulated by p-type materials, which functions as a reduced-surface-field (RESURF) structure and enables a wide design and process window. We demonstrate the RESURF-mesa design in vertical Ga3O3 diodes. In this design, a 5 μm deep mesa, which is intentionally not aligned with the anode edge, is encapsulated by p-type nickel oxide (NiO). This termination has been applied to devices on three Ga_{2}O_{3} wafers with epitaxial doping concentrations ranging from 1.2 × 1016 to 5 × 1016 cm−3, enabling an average one-dimensional junction field of 4.2–4.4 MV/cm in all wafers. Additionally, the diode with 1.2 × 1016 cm−3 doping achieves a specific on-resistance (RON,sp) of 4.05 mΩ·cm2 and a breakdown voltage of 3214 V, resulting in a power figure of merit of 2.55 GW/cm2, which is among the highest in multi-kilovolt β-Ga2O3 diodes. The above results demonstrate the RESURF-mesa termination as a versatile and effective solution for wide bandgap and ultra-wide bandgap power devices.
@@ -57,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
