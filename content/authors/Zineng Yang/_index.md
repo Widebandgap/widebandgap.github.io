@@ -10,7 +10,10 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Student
+role: |
+  <br>Ph.D. University of Hong Kong
+  <br>M.Sc. RWTH Aachen University
+  <br>B.Eng. (Hons) University of Nottingham Ningbo/University of Nottingham
 
 # Organizations/Affiliations
 organizations:
@@ -22,17 +25,17 @@ bio:
 # interests:
 #  - Study
 
-education:
-  courses:
-    - course: Ph.D. in Electrical and Electronic Engineering
-      institution: University of Hong Kong  
-      year: now
-    - course: M.Sc. in Electrical Engineering and Information Technology
-      institution: RWTH Aachen University
-      year: 2023
-    - course: B.Eng. (Hons) in Electrical and Electronic Engineering
-      institution: University of Nottingham Ningbo/University of Nottingham
-      year: 2018
+# education:
+#   courses:
+#     - course: Ph.D. in Electrical and Electronic Engineering
+#       institution: University of Hong Kong  
+#       year: now
+#     - course: M.Sc. in Electrical Engineering and Information Technology
+#       institution: RWTH Aachen University
+#       year: 2023
+#     - course: B.Eng. (Hons) in Electrical and Electronic Engineering
+#       institution: University of Nottingham Ningbo/University of Nottingham
+#       year: 2018
       
 
 # Social/Academic Networking
