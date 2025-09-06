@@ -10,7 +10,10 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Fellow
+role: |
+  <br>Postdoctoral Fellow University of Hong Kong
+  <br>Ph.D Nanjing University
+  <br>B.S.Northwestern Polytechnical University
 
 # Organizations/Affiliations
 organizations:
@@ -22,17 +25,17 @@ bio:
 # interests:
 #  - Study
 
-education:
-  courses:
-    - course: Postdoctoral Fellow
-      institution: University of Hong Kong  
-      year: now
-    - course: Ph.D in Electronic Science and Technology
-      institution: Nanjing University
-      year: 2023
-    - course: B.S. in Microelectronics Science and Engineering
-      institution: Northwestern Polytechnical University
-      year: 2018
+# education:
+#   courses:
+#     - course: Postdoctoral Fellow
+#       institution: University of Hong Kong  
+#       year: now
+#     - course: Ph.D in Electronic Science and Technology
+#       institution: Nanjing University
+#       year: 2023
+#     - course: B.S. in Microelectronics Science and Engineering
+#       institution: Northwestern Polytechnical University
+#       year: 2018
 
 
 # Social/Academic Networking
