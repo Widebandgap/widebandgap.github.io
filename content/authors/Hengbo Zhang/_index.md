@@ -10,7 +10,10 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Student
+role: |
+  Ph.D. University of Hong Kong
+  <br>M.S. University of Chinese Academy of Sciences
+  <br>B.S. Sichuan University
 
 # Organizations/Affiliations
 organizations:
@@ -22,17 +25,17 @@ bio:
 # interests:
 #  - Study
 
-education:
-  courses:
-    - course: Ph.D. in Electrical and Electronic Engineering
-      institution: University of Hong Kong  
-      year: now
-    - course: M.S. in Materials Physics and Chemistry
-      institution: University of Chinese Academy of Sciences
-      year: 2022
-    - course: B.S. in Electrical Engineering and Automation
-      institution: Sichuan University
-      year: 2019
+# education:
+#  courses:
+#     - course: Ph.D. in Electrical and Electronic Engineering
+#       institution: University of Hong Kong  
+#       year: now
+#    - course: M.S. in Materials Physics and Chemistry
+#       institution: University of Chinese Academy of Sciences
+#       year: 2022
+#     - course: B.S. in Electrical Engineering and Automation
+#       institution: Sichuan University
+#       year: 2019
 
 
 # Social/Academic Networking
