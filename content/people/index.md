@@ -70,7 +70,7 @@ sections:
         image:
           filename: background.jpg
           text_color_light: false
-          size: auto 530px
+          size: cover
           parallax: false
         position: center
         spacing:
