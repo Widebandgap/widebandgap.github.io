@@ -189,5 +189,6 @@ sections:
         position: center
         spacing:
           padding: ['0', '80px', '0', '80px']
+      css_class: fullscreen
 
 ---
