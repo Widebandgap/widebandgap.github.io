@@ -184,11 +184,10 @@ sections:
         image:
           filename: background.jpg
           text_color_light: false
-          size: auto 530px
+          size: cover
           parallax: false
         position: center
         spacing:
           padding: ['0', '80px', '0', '80px']
-      css_class: fullscreen
 
 ---
