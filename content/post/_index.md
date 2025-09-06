@@ -2,7 +2,7 @@
 title: News & Media Coverage
 
 # Listing view
-view: masonry
+view: compact
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
