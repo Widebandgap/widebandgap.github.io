@@ -1,5 +1,5 @@
 ---
-title: "Charge balanced power Schottky barrier diodes"
+title: "Power Schottky barrier diodes with high breakdown voltage and low leakage current"
 authors:
   - Yuhao Zhang
   - Ming Xiao
@@ -11,7 +11,7 @@ authors:
 #- ""
 #- "Corresponding author"
 #- 
-date: "2025-12-24T00:00:00Z"
+date: "2025-03-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -34,7 +34,7 @@ abstract: This disclosure provides a diode including a semiconductor region havi
 
 links:
   - name: "Link"
-    url: "https://patents.google.com/patent/US12176442B2/en"
+    url: "https://patents.google.com/patent/US11923463B2/en"
     icon: fas fa-file-alt
 
 url_pdf: ''
