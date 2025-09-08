@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 source: "Semiconductor Today"
 ---
-{{< source .Params.source >}}
+{{< source text=.Params.source >}}
 Researchers based in USA and Japan report the demonstration of more than 10kV enhancement-mode (E-mode) gallium oxide (Ga2O3) lateral junction field-effect transistors (JFETs) with nickel oxide (NiO) reduced-surface-field (RESURF) structures and hybrid-drain, operating up to 250°C
 
 <!--more-->
