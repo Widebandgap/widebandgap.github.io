@@ -99,5 +99,5 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 
-summary:June 2025·In **2025 37th International Symposium on Power Semiconductor Devices and ICs (ISPSD)**, pp. 109-112
+summary: June 2025·In **2025 37th International Symposium on Power Semiconductor Devices and ICs (ISPSD)**, pp. 109-112
 ---
