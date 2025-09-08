@@ -143,8 +143,8 @@
 
 /* 隐藏原来的日期和 1 min read */
 /* 隐藏列表页和详情页的文章元信息 */
-.stream-meta.article-metadata,
-.article-metadata {
+/* 只隐藏 News 页面列表元信息 */
+.stream-meta.article-metadata > .article-metadata {
   display: none !important;
 }
 
