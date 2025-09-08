@@ -1,5 +1,5 @@
 ---
-title: "Charge balanced power transistors"
+title: "Charge balanced power transistors (pending)"
 authors:
   - Yuhao Zhang
   - Ming Xiao
