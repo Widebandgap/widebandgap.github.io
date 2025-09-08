@@ -10,7 +10,7 @@ address:
   #country: ''
 
 
-abstract: 'Multidimensional Power Devices in Wide-Bandgap and Ultra-Wide-Bandgap Semiconductors'
+#abstract: 'Multidimensional Power Devices in Wide-Bandgap and Ultra-Wide-Bandgap Semiconductors'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
