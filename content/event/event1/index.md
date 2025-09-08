@@ -54,10 +54,3 @@ slides:
 projects:
 ---
 
-#You can type here:
-
-#- **A** is _small_ A
-#- **A** is _medium_ A
-#- **A** is _Super_ A
-
-#HAA
