@@ -1,7 +1,7 @@
 ---
 title: "Charge balanced power Schottky barrier diodes"
 authors:
-  - Yuhao Zhang
+  - Yuhao Zhang*
   - Ming Xiao
 #author_notes:
 #- "Corresponding author"
