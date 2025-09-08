@@ -141,14 +141,15 @@
   background-position: center;
 }
 
-/* 删除愚蠢的“1 min read”字段*/
-.article-reading-time {
+/* 隐藏原来的日期和 1 min read */
+.stream-meta.article-metadata {
   display: none !important;
 }
 
-.post-meta-manual {
+/* 自定义手动元信息样式 */
+.manual-meta {
   font-weight: bold;
   color: #555;
+  font-size: 0.9rem;
   margin-bottom: 0.5em;
-  font-size: 0.9em;
 }
