@@ -47,7 +47,11 @@ taxonomies:
   publication_type: publication_types
   author: authors
 markup:
-  _merge: deep
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      typographer: false
 related:
   threshold: 80
   includeNewer: true
