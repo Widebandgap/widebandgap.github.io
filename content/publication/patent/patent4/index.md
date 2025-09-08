@@ -1,5 +1,5 @@
 ---
-title: "Heterogeneous termination structures for semiconductor devices"
+title: "Heterogeneous termination structures for semiconductor devices (pending)"
 authors:
   - Yuhao Zhang
   - Ming Xiao
