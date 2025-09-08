@@ -1,5 +1,5 @@
 ---
-title: Multidimensional Power Devices in Wide-Bandgap and Ultra-Wide-Bandgap Semiconductors
+title: 'Multidimensional Power Devices in Wide-Bandgap and Ultra-Wide-Bandgap Semiconductors'
 
 location: 2025 YanXi Energy Forum
 address:
@@ -32,7 +32,7 @@ featured: false
   #focal_point: Right  # 右下角展示
 
 url_code: ''
-url_pdf: '/talks/Yuhao_Zhang_Infineon_excerpt.pdf'
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
