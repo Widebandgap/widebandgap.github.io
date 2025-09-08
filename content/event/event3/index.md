@@ -33,7 +33,7 @@ featured: false
 
 url_code: ''
 #url_pdf: '/talks/VLSI2025_HKU_v2.pdf'
-url_pdf: ''
+url_pdf: '/talks/VLSI2025_HKU_v2.pdf'
 url_slides: ''
 url_video: ''
 
