@@ -1,7 +1,7 @@
 ---
 title: 'Emerging Technologies in Wide and Ultra-wide Bandgap Power Semiconductors'
 
-location: 2024 Silk Road International Symposium on the Cooperation and Integration of Industry, Education, Research, and Application of Electrical Engineering
+location: '2024 Silk Road International Symposium on the Cooperation and Integration of Industry, Education, Research, and Application of Electrical Engineering'
 address:
   #street: ''
   #city: ''
