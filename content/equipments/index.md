@@ -9,9 +9,21 @@ sections:
     content:
       title:
       subtitle: ''
-      text: |
+      text:
+    # |
+        equipment
         <div style="text-align:center;">
           <img src="/media/Equipments1.jpg" alt="Equipments" style="max-width:90%; height:auto; display:block; margin:auto;">
+        </div>
+        <br>
+        Nanofabrication Facilities:
+        <br>
+        <div style="text-align:center;">
+          <img src="/media/Equipments2.jpg" alt="Equipments" style="max-width:90%; height:auto; display:block; margin:auto;">
+        </div>
+        <br>
+        <div style="text-align:center;">
+          <img src="/media/Equipments3.jpg" alt="Equipments" style="max-width:90%; height:auto; display:block; margin:auto;">
         </div>
     design:
       columns: '1'
