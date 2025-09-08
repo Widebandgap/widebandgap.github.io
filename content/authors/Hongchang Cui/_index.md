@@ -24,17 +24,17 @@ bio:
 # interests:
 #  - Study
 
- education:
-   courses:
-     - course: 'Ph.D. in Electrical and Electronic Engineering'
-       institution: University of Hong Kong
-       year: now
-     - course: M.S. in Electrical Engineering
-       institution: Xi’an Jiaotong University
-       year: 2024
-     - course: B.S. in Electrical Engineering
-       institution: China University of Mining and Technology
-      year: 2021
+ #education:
+ #  courses:
+ #    - course: 'Ph.D. in Electrical and Electronic Engineering'
+ #      institution: University of Hong Kong
+ #      year: now
+ #    - course: M.S. in Electrical Engineering
+ #      institution: Xi'an Jiaotong University
+ #      year: 2024
+ #    - course: B.S. in Electrical Engineering
+ #      institution: China University of Mining and Technology
+ #     year: 2021
 
 
 # Social/Academic Networking
