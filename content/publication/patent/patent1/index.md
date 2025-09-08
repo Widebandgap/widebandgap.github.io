@@ -16,7 +16,7 @@ authors:
 #- "Corresponding author"
 #- 
 date: "2025-01-21T00:00:00Z"
-doi: "10.1038/s44287-024-00135-5"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: ""
@@ -36,9 +36,11 @@ abstract: Energy supply and consumption account for approximately 75% of global 
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 
-# links:
-# - name: ""
-#   url: ""
+links:
+  - name: "View Patent"
+    url: "https://patents.google.com/patent/US12176442B2/en"
+    icon: fas fa-file-alt
+    
 url_pdf: ''
 url_code: ''
 url_dataset: ''
