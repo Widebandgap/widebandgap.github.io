@@ -1,7 +1,7 @@
 ---
 title: GaN power devices: plenty of room at the bottom and the top
 
-location: Workshop: Revolutionizing Electronics with GaN: Opportunities and Challenges, 2025 Symposium on VLSI Technology and Circuits
+location: 2025 Symposium on VLSI Technology and Circuits
 address:
   #street: ''
   #city: ''
@@ -32,7 +32,7 @@ featured: false
   #focal_point: Right  # 右下角展示
 
 url_code: ''
-#url_pdf: '/talks/Yuhao_Zhang_Infineon_excerpt.pdf'
+#url_pdf: '/talks/VLSI2025_HKU_v2.pdf'
 url_pdf: ''
 url_slides: ''
 url_video: ''
