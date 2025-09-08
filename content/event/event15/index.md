@@ -6,7 +6,7 @@ address:
   #street: ''
   #city: ''
   #region: ''
-  postcode: 'O'ahu, Hawai'I, USA'
+  postcode: 'O’ahu, Hawai’I, USA'
   #country: ''
 
 
