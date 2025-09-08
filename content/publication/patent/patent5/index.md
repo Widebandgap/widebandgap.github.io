@@ -1,5 +1,5 @@
 ---
-title: "Heterogeneous superjunction devices"
+title: "Heterogeneous superjunction devices (pending)"
 authors:
   - Yuhao Zhang
   - Ming Xiao
