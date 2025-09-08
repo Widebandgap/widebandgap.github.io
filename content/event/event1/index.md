@@ -13,7 +13,7 @@ address:
   #country: China
 
 #summary: summary 123. # 这个是在Inviter Talk首页展示的一行总结的话
-abstract: 'Application-Oriented Stability, Reliability, and Robustness of GaN Power Devices'
+#abstract: 'Application-Oriented Stability, Reliability, and Robustness of GaN Power Devices'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
