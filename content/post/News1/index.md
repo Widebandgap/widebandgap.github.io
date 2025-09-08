@@ -1,7 +1,6 @@
 ---
 title: Gallium oxide JFETs reach beyond 10kV breakdown
 date: 2025-02-13
-summary: "2025 Infineon Professor Forum"
 image:
   focal_point: 'top'
 ---
