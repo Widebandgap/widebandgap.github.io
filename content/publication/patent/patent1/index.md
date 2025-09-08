@@ -1,7 +1,7 @@
 ---
 title: "Charge balanced power Schottky barrier diodes"
 authors:
-  - Yuhao Zhang*
+  - Yuhao Zhang
   - Ming Xiao
 #author_notes:
 #- "Corresponding author"
@@ -23,20 +23,20 @@ doi: ""
 publication_types: ["patent"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**_EEEEE_**"
+publication: "**_US11923463_**"
 publication_short: ""
 
-abstract: A diode includes a semiconductor region having at least one two-dimensional carrier channel of a first conductivity type, the first conductivity type being one of a n-type and a p-type conductivity, the at least one two-dimensional channel having a net charge; a material of a second conductivity type, the second conductivity type being the other of the n-type and the p-type conductivity, disposed on the semiconductor region, the material of the second conductivity type having a net-charge in a depletion region that is substantially equal to the net-charge of the at least one two-dimensional channel in the semiconductor region when the diode is under reverse bias; an anode material in contact with at least a portion of the at least one two-dimensional channel and at least a portion of the material of the second conductivity type; and a cathode material in contact with the at least one two-dimensional carrier channel.
+abstract: A.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 
 links:
-  - name: "View patent"
+  - name: "Link"
     url: "https://patents.google.com/patent/US12176442B2/en"
     icon: fas fa-file-alt
-    
+
 url_pdf: ''
 url_code: ''
 url_dataset: ''
