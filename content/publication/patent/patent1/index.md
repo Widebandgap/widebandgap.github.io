@@ -1,12 +1,8 @@
 ---
-title: "Wide-bandgap semiconductors and power electronics as pathways to carbon neutrality"
+title: "Charge balanced power Schottky barrier diodes"
 authors:
-  - Yuhao Zhang*
-  - Dong Dong*
-  - Qiang Li*
-  - Richard Zhang
-  - Florin Udrea
-  - Han Wang*
+  - Yuhao Zhang
+  - Ming Xiao
 #author_notes:
 #- "Corresponding author"
 #- "Corresponding author"
@@ -15,7 +11,7 @@ authors:
 #- ""
 #- "Corresponding author"
 #- 
-date: "2025-01-21T00:00:00Z"
+date: "2025-12-24T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -27,17 +23,17 @@ doi: ""
 publication_types: ["patent"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**_Nature Review Electrical Engineering_**"
+publication: "**_US12176442_**"
 publication_short: ""
 
-abstract: Energy supply and consumption account for approximately 75% of global greenhouse gas emissions. Advances in semiconductor and power electronics technologies are required to integrate renewable energy into grids, electrify transport and the heating and cooling of buildings, and increase the efficiency of electricity conversion. This Review outlines the opportunities for carbon neutrality in the energy sector enabled by synergistic advances in wide-bandgap (WBG) semiconductors and power electronics. First, we present advances in WBG power devices, converter circuits and power electronics applications and their implications. For example, WBG materials have a high critical electric field and thermal stability; therefore, WBG devices can operate at higher temperatures and frequencies than silicon devices, enabling higher efficiency and reducing the number of passive components and cooling systems required in converter circuits. We then discuss advances in renewable energy systems, electric vehicles, data centres and heat pumps enabled by WBG devices, and their potential to reduce carbon emissions through electrification and increased energy conversion efficiency. We also consider the implications of the carbon footprint of WBG device manufacturing being larger than that of silicon manufacturing. Finally, we discuss research gaps that must be addressed to realize the potential of WBG semiconductors and power electronics for carbon neutrality.
+abstract: A diode includes a semiconductor region having at least one two-dimensional carrier channel of a first conductivity type, the first conductivity type being one of a n-type and a p-type conductivity, the at least one two-dimensional channel having a net charge; a material of a second conductivity type, the second conductivity type being the other of the n-type and the p-type conductivity, disposed on the semiconductor region, the material of the second conductivity type having a net-charge in a depletion region that is substantially equal to the net-charge of the at least one two-dimensional channel in the semiconductor region when the diode is under reverse bias; an anode material in contact with at least a portion of the at least one two-dimensional channel and at least a portion of the material of the second conductivity type; and a cathode material in contact with the at least one two-dimensional carrier channel.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 
 links:
-  - name: "View Patent"
+  - name: "Link"
     url: "https://patents.google.com/patent/US12176442B2/en"
     icon: fas fa-file-alt
     
