@@ -67,7 +67,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '/publications/article-conference/Conference1/paper.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
