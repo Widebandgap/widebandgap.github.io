@@ -33,7 +33,7 @@ abstract: A diode includes a semiconductor region having at least one two-dimens
 
 
 links:
-  - name: "Link"
+  - name: "AAA"
     url: "https://patents.google.com/patent/US12176442B2/en"
     icon: fas fa-file-alt
     
