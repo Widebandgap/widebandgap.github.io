@@ -30,7 +30,7 @@ bio:
        institution: University of Hong Kong  
        year: now
      - course: M.S. in Electrical Engineering
-       institution: Xi'an Jiaotong University
+       institution: Xi’an Jiaotong University
        year: 2024
      - course: B.S. in Electrical Engineering
        institution: China University of Mining and Technology
