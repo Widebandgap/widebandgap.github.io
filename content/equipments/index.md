@@ -29,21 +29,9 @@ sections:
         <div style="text-align:center;">
           <img src="/media/Equipments2.jpg" alt="Equipments" style="max-width:90%; height:auto; display:block; margin:auto;">
         </div>
-    design:
-      columns: '1'
-      background:
-        color: white   # 或者去掉 background.image
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text: |
+        <br>
         <div style="text-align:center;">
-          <img src="/media/Equipments2.jpg" alt="Equipments" style="max-width:90%; height:auto; display:block; margin:auto;">
+          <img src="/media/Equipments3.jpg" alt="Equipments" style="max-width:90%; height:auto; display:block; margin:auto;">
         </div>
     design:
       columns: '1'
