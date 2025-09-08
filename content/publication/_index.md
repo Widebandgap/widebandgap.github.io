@@ -5,7 +5,8 @@ title: Publications
 view: compact
 #view: citation
 design:
-  show_date: true   
+  show_date: true
+  show_meta: true
   image_size: full
 # Optional banner image (relative to `assets/media/` folder).
 banner:
