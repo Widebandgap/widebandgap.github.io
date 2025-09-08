@@ -140,3 +140,8 @@
   background-size: contain;
   background-position: center;
 }
+
+/* 删除愚蠢的“1 min read”字段*/
+.article-metadata .reading-time {
+  display: none !important;
+}
