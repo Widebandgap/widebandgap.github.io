@@ -1,19 +1,19 @@
 ---
 title: "Reliability of NiO/β-Ga2O3 bipolar heterojunction"
 authors:
-- H. Gong
-- Xin Yang
-- M. Porter
-- Zineng Yang
-- B. Wang
-- L. Li
-- L. Fu
-- K. Sasaki
-- H. Wang
-- S. Gu
-- R. Zhang
-- J. Ye
-- Yuhao Zhang*
+  - Hehe Gong*
+  - Xin Yang
+  - Matthew Porter 
+  - Zineng Yang
+  - Bixuan Wang
+  - Li Li
+  - Lan Fu
+  - Kohei Sasaki
+  - Han Wang
+  - Shulin Gu
+  - Rong Zhang
+  - Jiandong Ye*
+  - Yuhao Zhang*
 
 #author_notes:
 #- ""
@@ -30,8 +30,8 @@ authors:
 #- ""
 #- "Corresponding author"
 
-date: "2025-01-02T00:00:00Z"
-doi: ""
+date: "2025-01-06T00:00:00Z"
+doi: "10.1063/5.0243015"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: ""
@@ -66,7 +66,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
