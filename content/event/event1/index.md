@@ -1,5 +1,5 @@
 ---
-title: Application-Oriented Stability, Reliability, and Robustness of GaN Power Devices
+title: 'Application-Oriented Stability, Reliability, and Robustness of GaN Power Devices'
 
 #event: Click Me.
 #event_url: https://www.bilibili.com/
