@@ -1,5 +1,5 @@
 ---
-title: "Termination structures for semiconductor devices"
+title: "Termination structures for semiconductor devices (pending)"
 authors:
   - Yuhao Zhang
   - Ming Xiao
