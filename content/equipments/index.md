@@ -14,11 +14,17 @@ sections:
           <img src="/media/Equipments1.jpg" alt="Equipments" style="max-width:90%; height:auto; display:block; margin:auto;">
         </div>
         <br>
-        Nanofabrication Facilities:
+        <strong>Nanofabrication Facilities:</strong>
+        <br>
+        The equipment are available in the shared facilities at the University of Hong Kong (HKU).
         <br>
         <div style="text-align:center;">
           <img src="/media/Equipments2.jpg" alt="Equipments" style="max-width:90%; height:auto; display:block; margin:auto;">
         </div>
+        <br>
+        <strong>Microscopy Characterization of Materials and Devices:</strong>
+        <br>
+        The following equipment are available in the shared facilities at HKU.
         <br>
         <div style="text-align:center;">
           <img src="/media/Equipments3.jpg" alt="Equipments" style="max-width:90%; height:auto; display:block; margin:auto;">
