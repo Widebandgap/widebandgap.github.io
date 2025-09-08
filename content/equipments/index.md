@@ -9,9 +9,7 @@ sections:
     content:
       title:
       subtitle: ''
-      text:
-    # |
-        equipment
+      text: |
         <div style="text-align:center;">
           <img src="/media/Equipments1.jpg" alt="Equipments" style="max-width:90%; height:auto; display:block; margin:auto;">
         </div>
