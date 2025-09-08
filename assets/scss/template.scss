@@ -142,7 +142,9 @@
 }
 
 /* 隐藏原来的日期和 1 min read */
-.stream-meta.article-metadata {
+/* 隐藏列表页和详情页的文章元信息 */
+.stream-meta.article-metadata,
+.article-metadata {
   display: none !important;
 }
 
