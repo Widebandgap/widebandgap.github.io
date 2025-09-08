@@ -130,3 +130,7 @@ image:
   defaultImageProcessing:
     enabled: false
 
+features:
+  reading_time:
+    enable: false
+
