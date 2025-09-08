@@ -19,7 +19,7 @@ main:
   - name: Invited Talk
     url: event
     weight: 40
-  - name: Capabilities & Equipments
+  - name: Capabilities & Equipment
     url: equipments
     weight: 50
   - name: Contact
