@@ -26,7 +26,7 @@ publication_types: ["patent"]
 publication: "**_US11923463_**"
 publication_short: ""
 
-abstract: A.
+abstract: This disclosure provides a diode including a semiconductor region having at least one two-dimensional carrier channel of a first conductivity type. The diode also includes a plurality of sidewalls exposed in the semiconductor region defining at least one trench extending through the at least one two-dimensional carrier channel and a material of a second conductivity type, the second conductivity type being the other of the n-type and the p-type conductivity, disposed on the plurality of sidewalls and in contact with the at least one two-dimensional carrier channel. The diode also includes an anode material in contact with at least a portion of the semiconductor region and in contact with at least a portion of the material of the second conductivity type, and a cathode material in contact with the at least one two-dimensional carrier channel.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
