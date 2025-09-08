@@ -10,7 +10,7 @@ address:
   #country: ''
 
 
-#abstract: 'GaN power devices: plenty of room at the bottom and the top'
+#abstract: 'GaN power devices:&nbsp;plenty of room at the bottom and the top'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
