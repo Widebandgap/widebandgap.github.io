@@ -26,8 +26,8 @@ bio:
 
  education:
    courses:
-     - course: Ph.D. in Electrical and Electronic Engineering
-       institution: University of Hong Kong  
+     - course: 'Ph.D. in Electrical and Electronic Engineering'
+       institution: University of Hong Kong
        year: now
      - course: M.S. in Electrical Engineering
        institution: Xi’an Jiaotong University
