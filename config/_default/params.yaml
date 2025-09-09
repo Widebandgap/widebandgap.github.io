@@ -107,6 +107,7 @@ features:
     center:
       latitude: 22.2833
       longitude: 114.1375
+  maps: true
 # Extensions
 
 extensions:
