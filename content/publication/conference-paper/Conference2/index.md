@@ -5,24 +5,24 @@ title: 'First Demonstration of Optically-Controlled 650 V Power GaN HEMT with Ul
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Bixuan Wang
   - Xin Yang
-  - Qihao Song
-  - Kalparupa Mukherjee
-  - Loizos Efthymiou
-  - Daniel Popa
-  - Giorgia Longobardi
-  - Dong Dong
-  - Florin Udrea*
+  - Liyang Jin
+  - Matthew Porter
+  - Hongchang Cui
+  - Zineng Yang
+  - Hehe Gong
+  - Han Wang
+  - Linbo Shao*
   - Yuhao Zhang*
+
 
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2025-06-01T00:00:00Z'
-doi: '10.23919/ISPSD62843.2025.11117449'
+date: '2025-08-19T00:00:00Z'  
+#doi: '10.23919/ISPSD62843.2025.11117348'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -36,7 +36,7 @@ publication_types: ['paper-conference']
 publication: In **2025 37th International Symposium on Power Semiconductor Devices and ICs (ISPSD)**
 # publication_short: In **ISPSD**
 
-abstract: The small gate overvoltage margin is of real concern in p-gate GaN HEMTs in converter applications. Recently, ICeGaN® (Integrated Circuit Enhancement-mode GaN) device deploys a monolithically integrated power IC interface to expand the static operation window to be similar to those of Si MOSFET and Si IGBT. However, the dynamic response of the IC interface under nanosecond gate bias (VG) overshoot, as well as the gate reliability under megahertz switching frequency (fSW), have never been studied. This work addresses this gap by developing a new circuit to generate the application-like V G overshoot profiles with dVG/dt up to 10 V Ins andfsw up to 3 MHz. The IC interface is shown to respond in nanosecond and clamp the VG,IN below 7 V under an external V G overshoot up to 80 V and dVG/dt of 7 V Ins. Uniquely for p-gate GaN devices, ICeGaN shows no degradation under long-term overvoltage stress under 30-V VG overshoot at 3-MHzfsw. This is the first report of the dynamic response of GaN monolithic gate protection ICs under ultra-fast overshoot. Test results reveal that the on-chip IC interface can substantially enhance dynamic gate reliability and robustness of p-gate GaN HEMTs.
+abstract: Optically-controlled power devices offer a promising solution for reducing electromagnetic interference and enhancing device synchronization for stacked devices in many applications like grid and renewable energy processing. This work, for the first time, demonstrates the optical control of a 650 V GaN HEMT using two low-power photodiodes (PDs) to achieve ultrafast hard switching. We apply complementary optical signals to two InGaAs PDs in a totem-pole configuration, providing rapid charging and discharging paths for power device. The GaN HEMT is found to be particularly suited for such configuration due to its low input capacitance compared to SiC and Si devices. The design is experimentally validated under a 400 V hard switching condition using a double-pulse test (DPT) setup. At 400 V/ 3 A hard switching, the fall and rise times of 63.2 ns and 64 ns were demonstrated under a 45-mW power consumed on each PD. These results represent the highest switching voltage and switching current reported in optically-controlled GaN devices, as well as the fastest switching speeds reported in all optically-controlled power devices to date. This work highlights the potential of the PD-based optical driving scheme and the optically-controlled GaN HEMTs for emerging power electronics applications.
 
 tags: []
 
@@ -45,8 +45,10 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+# - name: Link
+#   url: 'https://doi.org/10.23919/ISPSD62843.2025.11117348'
+#   icon: fas fa-file-alt
+
 
 url_pdf: ''
 url_code: ''
@@ -78,4 +80,6 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
+
+#summary: June 2025·In **2025 37th International Symposium on Power Semiconductor Devices and ICs (ISPSD)**
 ---
