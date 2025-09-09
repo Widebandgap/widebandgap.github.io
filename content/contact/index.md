@@ -69,6 +69,8 @@ sections:
     design:
       background:
         color: '#ffffff'
+      spacing:
+        padding: ['0','0','0','0']   # top, right, bottom, left
 
 
   - block: markdown
