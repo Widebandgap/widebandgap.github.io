@@ -20,8 +20,8 @@ sections:
         country: Hong Kong
         country_code: HK
       coordinates:
-        latitude: '22.28309'
-        longitude: '114.13540'
+        latitude: '22.2830'
+        longitude: '114.1354'
       directions: CB-507
       # appointment_url: 'https://calendly.com'
       #contact_links:
