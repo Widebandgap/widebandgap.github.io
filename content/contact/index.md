@@ -43,6 +43,21 @@ sections:
           # captcha: false
     design:
       columns: '1'
+    
+  - block: markdown
+    content:
+      title: "Find Us"
+      text: |
+        <div id="map" style="height:400px;"></div>
+        <script>
+          var map = L.map('map').setView([37.4275, -122.1697], 15);
+          L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; OpenStreetMap contributors'
+          }).addTo(map);
+          L.marker([37.4275, -122.1697]).addTo(map)
+            .bindPopup("450 Serra Mall, Stanford, CA 94305")
+            .openPopup();
+        </script>
 
   - block: markdown
     content:
