@@ -29,7 +29,7 @@ author_notes:
 # - "Corresponding Author"
 
 date: "2025-04-01T00:00:00Z"
-doi: "10.1109/LED.2025.3539175"
+#doi: "10.1109/LED.2025.3539175"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: ""
@@ -43,15 +43,19 @@ publication_types: ["article-journal"]
 publication: "**_IEEE Electron Device Letters_**"
 publication_short: ""
 
+summary: Apr 2025·**_IEEE Electron Device Letters_**
+
 abstract: Energy supply and consumption account for approximately 75% of global greenhouse gas emissions. Advances in semiconductor and power electronics technologies are required to integrate renewable energy into grids, electrify transport and the heating and cooling of buildings, and increase the efficiency of electricity conversion. This Review outlines the opportunities for carbon neutrality in the energy sector enabled by synergistic advances in wide-bandgap (WBG) semiconductors and power electronics. First, we present advances in WBG power devices, converter circuits and power electronics applications and their implications. For example, WBG materials have a high critical electric field and thermal stability; therefore, WBG devices can operate at higher temperatures and frequencies than silicon devices, enabling higher efficiency and reducing the number of passive components and cooling systems required in converter circuits. We then discuss advances in renewable energy systems, electric vehicles, data centres and heat pumps enabled by WBG devices, and their potential to reduce carbon emissions through electrification and increased energy conversion efficiency. We also consider the implications of the carbon footprint of WBG device manufacturing being larger than that of silicon manufacturing. Finally, we discuss research gaps that must be addressed to realize the potential of WBG semiconductors and power electronics for carbon neutrality.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 
-# links:
-# - name: ""
-#   url: ""
+links:
+ - name: Link
+   url: 'https://doi.org/10.1109/LED.2025.3539175'
+   icon: fas fa-file-alt
+   
 url_pdf: ''
 url_code: ''
 url_dataset: ''
