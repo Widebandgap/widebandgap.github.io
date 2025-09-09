@@ -41,7 +41,7 @@ extra:
 #  - 'Equal contribution'
 
 date: '2025-06-01T00:00:00Z'
-doi: "10.23919/ISPSD62843.2025.11118020"
+#doi: "10.23919/ISPSD62843.2025.11118020"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -52,7 +52,7 @@ doi: "10.23919/ISPSD62843.2025.11118020"
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In **2025 37th International Symposium on Power Semiconductor Devices and ICs (ISPSD)**, pp. 109-112, Jun. 2025
+publication: In **2025 37th International Symposium on Power Semiconductor Devices and ICs (ISPSD)**
 # publication_short: In **ISPSD**
 
 abstract: GaN monolithic bidirectional switch (MBDS) has the potential to enable revolutionary advances in AC power conversion. Despite the availability of industrial 650−V MBDS engineering samples, there have been very few reliability reports of GaN MBDS, and none has been performed up to kilovolt. Here we demonstrate a GaN enhancement-mode (E-mode) MBDS with high breakdown voltage (BV) over 3 kV in both polarities, and for the first time, study the dynamic stability and reliability of a GaN MBDS up to ±1.2kV blocking voltage. The device deploys a dual p-GaN junction termination extension (D JTE) design to achieve high BV. Pulse I-V, HTGB, and HTRB measurements were performed with an emphasis on the unique stress for bidirectional devices, including the reverse bias blocking and the impact of high-side gate. We find the dynamic on-resistance of the JTE-MBDS is sensitive to the low-side gate bias but insensitive to the high-side gate bias. Under the HTRB test, the MBDS shows larger shifts in on-resistance and threshold voltage under the reverse bias blocking compared to those under the forward bias blocking. Physical mechanisms are discussed and supported by TCAD simulations. Overall, our work suggests the importance of establishing a new framework for reliability evaluation of MBDS devices, which must account for the asymmetric trapping dynamics under bidirectional voltage blocking, as well as the impact of the second gate.
@@ -63,9 +63,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: Link
+   url: http://doi.org/10.23919/ISPSD62843.2025.11118020
 
 url_pdf: ''
 url_code: ''
@@ -99,5 +99,5 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 
-summary: June 2025·In **2025 37th International Symposium on Power Semiconductor Devices and ICs (ISPSD)**, pp. 109-112
+summary: June 2025·In **2025 37th International Symposium on Power Semiconductor Devices and ICs (ISPSD)**
 ---
