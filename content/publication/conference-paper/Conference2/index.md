@@ -24,7 +24,7 @@ date: '2025-08-19T00:00:00Z' 
 #doi: '10.23919/ISPSD62843.2025.11117348'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-08-19T00:00:00Z'
+# publishDate: '2025-08-19T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
