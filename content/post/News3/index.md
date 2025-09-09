@@ -6,7 +6,12 @@ image:
 ---
 
 Cutting-edge power devices are performing in the coldest environments ever tested, unlocking new possibilities for space exploration, quantum computing, and energy systems.
-
+<div class="manual-meta">
+  Aug 11, 2025 &middot; Compound Semiconductor Magazine  
+</div>
+<br>
 <!--more-->
 
-“[Powering quantum and space technologies](https://compoundsemiconductor.net/article/122284/Powering_quantum_and_space_technologies),” <strong>Compound Semiconductor Magazine</strong>
+<strong> &middot; Link: </strong> "[Powering quantum and space technologies](https://compoundsemiconductor.net/article/122284/Powering_quantum_and_space_technologies)"
+
+<br>
