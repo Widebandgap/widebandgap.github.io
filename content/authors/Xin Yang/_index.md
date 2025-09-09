@@ -10,14 +10,13 @@ authors:
 superuser: false
 
 # Role/position
-role: |
-  <br>Ph.D. University of Hong Kong  
+role: | 
   <br>M.S. Xi'an Jiaotong University
   <br>B.S. Chongqing University
 
 # Organizations/Affiliations
 organizations:
-  - name: HKU
+  - name: ''
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
