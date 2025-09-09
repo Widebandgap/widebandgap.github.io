@@ -20,7 +20,7 @@ authors:
 #- "Corresponding author"
 
 date: "2025-05-01T00:00:00Z"
-doi: "10.1109/LED.2025.3548905"
+#doi: "10.1109/LED.2025.3548905"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: ""
@@ -34,6 +34,8 @@ publication_types: ["article-journal"]
 publication: "**_IEEE Electron Device Letters_**"
 publication_short: ""
 
+summary: May 2025·**_IEEE Electron Device Letters_**
+
 abstract: The lack of avalanche capability is a key limitation of current lateral GaN devices. Despite the report of avalanche in vertical GaN-on-GaN devices, the high wafer cost hinders device commercialization. Here we demonstrate a circuit-level avalanche in vertical GaN diodes on low-cost patterned sapphire substrate (PSS), with the avalanche voltage (1.57 kV) and avalanche current density (>2 kA/cm2) both being the highest reported in GaN devices on foreign substrates. The PSS enables a lower dislocation density than conventional sapphire substrate and is employed in high-voltage GaN devices for the first time. The avalanche voltage in the circuit test reaches 98% of the parallel-plane limit, further affirming that near-ideal avalanche breakdown can be realized on GaN devices on foreign substrates. These results show the promise of the GaN-on-PSS platform for low-cost, robust power devices.
 
 # Summary. An optional shortened abstract.
@@ -41,9 +43,11 @@ abstract: The lack of avalanche capability is a key limitation of current latera
 
 
 
-# links:
-# - name: ""
-#   url: ""
+links:
+ - name: Link
+   url: 'https://doi.org/10.1109/LED.2025.3548905'
+   icon: fas fa-file-alt
+   
 url_pdf: 
 url_code: ''
 url_dataset: ''
