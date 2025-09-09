@@ -35,7 +35,6 @@ publication_types: ['paper-conference']
 publication: In **2025 37th International Symposium on Power Semiconductor Devices and ICs (ISPSD)**
 # publication_short: In **ISPSD**
 
-
 abstract: Optically-controlled power devices offer a promising solution for reducing electromagnetic interference and enhancing device synchronization for stacked devices in many applications like grid and renewable energy processing. This work, for the first time, demonstrates the optical control of a 650 V GaN HEMT using two low-power photodiodes (PDs) to achieve ultrafast hard switching. We apply complementary optical signals to two InGaAs PDs in a totem-pole configuration, providing rapid charging and discharging paths for power device. The GaN HEMT is found to be particularly suited for such configuration due to its low input capacitance compared to SiC and Si devices. The design is experimentally validated under a 400 V hard switching condition using a double-pulse test (DPT) setup. At 400 V/ 3 A hard switching, the fall and rise times of 63.2 ns and 64 ns were demonstrated under a 45-mW power consumed on each PD. These results represent the highest switching voltage and switching current reported in optically-controlled GaN devices, as well as the fastest switching speeds reported in all optically-controlled power devices to date. This work highlights the potential of the PD-based optical driving scheme and the optically-controlled GaN HEMTs for emerging power electronics applications.
 
 tags: []
@@ -80,7 +79,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 
-summary: June 2025·In **2025 37th International Symposium on Power Semiconductor Devices and ICs (ISPSD)**
+#summary: June 2025·In **2025 37th International Symposium on Power Semiconductor Devices and ICs (ISPSD)**
 ---
 
 
