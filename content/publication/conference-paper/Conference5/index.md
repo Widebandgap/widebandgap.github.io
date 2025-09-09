@@ -16,7 +16,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2025-03-16T00:00:00Z'
-doi: '10.1109/APEC48143.2025.10977559'
+#doi: '10.1109/APEC48143.2025.10977559'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -30,6 +30,8 @@ publication_types: ['paper-conference']
 publication: In **2025 IEEE Applied Power Electronics Conference and Exposition (APEC)**
 # publication_short: In **APEC**
 
+summary: Mar 2025·In **2025 IEEE Applied Power Electronics Conference and Exposition (APEC)**
+
 abstract: Many power electronics circuits for DC/AC conversion require power semiconductors with bidirectional voltage-blocking capability. Such a bidirectional device is typically achieved by connecting two unidirectional devices in series. The emerging monolithic bidirectional GaN-on-Si HEMTs (MBD-HEMT) offer an attractive alternative by replacing these two devices with a single-device solution. Despite the promise, substrate management in GaN MBD-HEMTs remains a critical challenge. The substrate of GaN MBD-HEMTs is usually floating, resulting in a constantly changing substrate bias that can be either positive or negative during the hard- or soft-switching. This issue can be resolved by adding a substrate management circuit, which, however, increases device cost and complexity. To optimize the substrate management for GaN MBD-HEMT, the impact of dynamic substrate bias on device parametric stability needs to be thoroughly understood. This work addresses this gap by in situ characterizations of dynamic on-resistance (dyRON) and threshold voltage (Vth) in a GaN HEMT with the floating substrate under both hard- and soft-switching conditions. A relatively large dyRON shift is found when the substrate is floating or shorted to drain during the hard switching, whilst the dynamic Vth shift is minimal in these cases. Instead, the back-gating effect, attributed to the changing substrate bias, i.e., negative during hard-switching and positive during soft-switching, is suspected to be the primary cause. These results can provide practical guidance for optimizing the stability of MBD-HEMT.
 
 tags: []
@@ -38,9 +40,10 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: Link
+   url: 'https://doi.org/10.1109/APEC48143.2025.10977559'
+   icon: fas fa-file-alt
 
 url_pdf: ''
 url_code: ''
