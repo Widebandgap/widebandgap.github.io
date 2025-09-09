@@ -11,13 +11,12 @@ superuser: false
 
 # Role/position
 role: |
-  <br>Postdoctoral Fellow University of Hong Kong
   <br>Ph.D Nanjing University
   <br>B.S.Northwestern Polytechnical University
 
 # Organizations/Affiliations
 organizations:
-  - name: HKU
+  - name: ''
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
