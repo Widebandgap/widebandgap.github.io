@@ -89,8 +89,9 @@
 .card .article-banner img,
 .card img {
   object-fit: contain !important;  /* 保证完整显示图片 */
-  width: 100% !important;          /* 占满宽度 */
-  height: 200px !important;        /* 固定高度（可以调大/调小） */
+  #width: 100% !important;          /* 占满宽度 */
+  #height: 200px !important;        /* 固定高度（可以调大/调小） */
+  height: 100% !important;        /* 占满高度 */
   background-color: #f8f9fa !important; /* 避免透明图发黑或空白 */
   border-radius: 6px;              /* 让图片有点圆角，美观 */
 }
