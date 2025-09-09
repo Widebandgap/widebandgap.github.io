@@ -21,7 +21,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2025-08-19T00:00:00Z'  
-#doi: '10.23919/ISPSD62843.2025.11117348'
+doi: '10.23919/ISPSD62843.2025.11117348'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2025-08-19T00:00:00Z'
@@ -43,10 +43,10 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-links:
- - name: Link
-   url: 'https://doi.org/10.23919/ISPSD62843.2025.11117348'
-   icon: fas fa-file-alt
+# links:
+# - name: Link
+#   url: 'https://doi.org/10.23919/ISPSD62843.2025.11117348'
+#   icon: fas fa-file-alt
 
 url_pdf: ''
 url_code: ''
