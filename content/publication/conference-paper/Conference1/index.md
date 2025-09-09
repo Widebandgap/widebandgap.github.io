@@ -65,7 +65,8 @@ featured: true
 # Custom links (uncomment lines below)
 links:
  - name: Link
-   url: http://doi.org/10.23919/ISPSD62843.2025.11118020
+   url: 'https://doi.org/10.23919/ISPSD62843.2025.11118020'
+   icon: fas fa-file-alt
 
 url_pdf: ''
 url_code: ''
