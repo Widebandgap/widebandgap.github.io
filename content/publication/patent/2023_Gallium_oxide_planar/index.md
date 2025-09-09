@@ -30,7 +30,7 @@ publication_types: ["patent"]
 publication: "**_US20230352600_**"
 publication_short: ""
 
-abstract: 'A (Ga2O3)-nickel oxide (NiO) heterojunction device and method of making the same are presented. In implementations, the method includes: providing a Ga2O3 base including a Ga2O3 substrate with an n-type Ga2O3 epitaxial layer thereon; forming NiO-filled internal trenches and an NiO-filled peripheral trench in the n-type Ga2O3 epitaxial layer using a plasma-free etching process; forming at least one junction termination extension (JTE) structure about the periphery of the n-type Ga2O3 epitaxial layer; depositing an anode over the NiO filled interior trenches, over portions of the NiO-filled peripheral trench, and over portions of the JTE structure; and depositing a cathode over a bottom surface of the Ga2O3 substrate, thereby forming the Ga2O3—NiO heterojunction device, wherein the Ga2O3—NiO heterojunction device is formed without the use of plasma-etching and is free of plasma-etching damage.'
+abstract: A (Ga2O3)-nickel oxide (NiO) heterojunction device and method of making the same are presented. In implementations, the method includes providing a Ga2O3 base including a Ga2O3 substrate with an n-type Ga2O3 epitaxial layer thereon; forming NiO-filled internal trenches and an NiO-filled peripheral trench in the n-type Ga2O3 epitaxial layer using a plasma-free etching process; forming at least one junction termination extension (JTE) structure about the periphery of the n-type Ga2O3 epitaxial layer; depositing an anode over the NiO filled interior trenches, over portions of the NiO-filled peripheral trench, and over portions of the JTE structure; and depositing a cathode over a bottom surface of the Ga2O3 substrate, thereby forming the Ga2O3—NiO heterojunction device, wherein the Ga2O3—NiO heterojunction device is formed without the use of plasma-etching and is free of plasma-etching damage.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -72,3 +72,4 @@ projects: []
 slides: example
 
 ---
+
