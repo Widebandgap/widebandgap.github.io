@@ -58,9 +58,9 @@ sections:
     content:
       #title: 11111
       #subtitle: ''
-      text: Our group mainly explores wide-bandgap (WBG) and ultra-wide bandgap (UWBG) materials, devices, and circuits for next-generation electronics applications. Our current research focuses on a few major areas:&nbsp;(1) WBG semiconductors for power and RF electronics; (2) Power device reliability and robustness, packaging, circuit-level integration, and system-level applications; (3) Machine learning assisted material-device-circuit co-design; (4) WBG and UWBG materials and devices for electronic, photonic, biological and quantum applications; (5) Devices, circuits and systems for extreme environment applications.
+      text: Our group mainly explores <strong>wide-bandgap (WBG)</strong> and <strong>ultra-wide bandgap (UWBG)</strong> materials, devices, and circuits for next-generation electronics applications. Our current research focuses on a few major areas:&nbsp;(1) WBG semiconductors for power and RF electronics; (2) Power device reliability and robustness, packaging, circuit-level integration, and system-level applications; (3) Machine learning assisted material-device-circuit co-design; (4) WBG and UWBG materials and devices for electronic, photonic, biological and quantum applications; (5) Devices, circuits and systems for extreme environment applications.
         <br><br>
-        Our group mainly published in the communities of Electron Devices and Power Electronics. Here is a sketch of the group's major corresponding-authored papers till Aug. 2025.
+        Our group mainly published in the communities of <strong>Electron Devices and Power Electronics</strong>. Here is a sketch of the group's major corresponding-authored papers till Aug. 2025.
         <br>
         <ol>
         <li>Electron Devices:&nbsp;IEDM (21), ISPSD (12), IRPS (7), IEEE Electron Device Lett. (21), Appl. Phys. Lett. (14), IEEE Trans. Electron Devices (16)</li>
@@ -68,7 +68,7 @@ sections:
         <li>Broad Fields:&nbsp;Nat. Electron. (1), Nat. Commun. (1), Nat. Rev. Electr. Eng. (1), Adv. Mater. (1)</li>
         </ol>
         <br>
-        We typically have openings for PhD students, postdoctoral researchers, and visiting scholars with backgrounds in cleanroom fabrication, semiconductor devices, and power electronics circuits. Most PhD students admitted to our group have prior publications in the relevant fields. If you are interested, please contact Professor Yuhao Zhang. Although the peak PhD application season is from September to December, we accept applications year-round. We provide full financial support to all PhD students and also assist with applications to the Hong Kong PhD Fellowship Scheme and the HKU Presidential PhD Scholar Programme.
+        We typically have <strong>openings for PhD students, postdoctoral researchers, and visiting scholars</strong> with backgrounds in cleanroom fabrication, semiconductor devices, and power electronics circuits. Most PhD students admitted to our group have prior publications in the relevant fields. If you are interested, please contact Professor Yuhao Zhang. Although the peak PhD application season is from September to December, we accept applications year-round. We provide full financial support to all PhD students and also assist with applications to the Hong Kong PhD Fellowship Scheme and the HKU Presidential PhD Scholar Programme.
         <br><br>
         <strong>Related Links:</strong>  
         <br><br>
