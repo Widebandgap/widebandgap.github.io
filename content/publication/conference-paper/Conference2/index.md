@@ -44,10 +44,10 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Link
-#   url: 'https://doi.org/10.23919/ISPSD62843.2025.11117348'
-#   icon: fas fa-file-alt
+links:
+ - name: Link
+   url: 'https://doi.org/10.23919/ISPSD62843.2025.11117348'
+   icon: fas fa-file-alt
 
 
 url_pdf: ''
@@ -81,5 +81,5 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 
-#summary: June 2025·In **2025 37th International Symposium on Power Semiconductor Devices and ICs (ISPSD)**
+summary: June 2025·In **2025 37th International Symposium on Power Semiconductor Devices and ICs (ISPSD)**
 ---
