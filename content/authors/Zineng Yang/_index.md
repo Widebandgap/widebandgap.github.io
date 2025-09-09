@@ -11,13 +11,12 @@ superuser: false
 
 # Role/position
 role: |
-  <br>Ph.D. University of Hong Kong
   <br>M.Sc. RWTH Aachen University
   <br>B.Eng. (Hons) University of Nottingham Ningbo/University of Nottingham
 
 # Organizations/Affiliations
 organizations:
-  - name: HKU
+  - name: ''
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
