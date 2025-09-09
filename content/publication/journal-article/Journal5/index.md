@@ -45,7 +45,7 @@ publication_types: ["article-journal"]
 publication: "**_Applied Physics Letters_**"
 publication_short: ""
 
-summary: Jun 2025·**_Applied Physics Letters_**
+summary: Jan 2025·**_Applied Physics Letters_**
 
 abstract: Ultra-wide bandgap (UWBG) NiO/β-Ga2O3 p–n junction has recently emerged as a key building block for emerging electronic and optoelectronic devices. However, the long-term reliability of this bipolar junction remains elusive. Here, the temporal evolution of the transient parametric shift is characterized in this junction under the prolonged forward- and reverse-bias stresses as well as in the post-stress recoveries. The temperature-dependent evolutions reveal the energy level and time constant of the dominant trap. The forward-bias stress is found to induce a negative turn-on voltage (VON) shift, the magnitude of which correlates with the stressed current density, while the reverse-bias stress leads to the opposite effect. Such VON shift is induced by an electron trap with an activation energy of 0.46 eV, which may originate from native point defects in β-Ga2O3 near the junction interface. Under a high forward current stress of 1000 A/cm2, device failure is found to be located at the edge region with the thinnest NiO, which is likely to be caused by the injection of hot electrons that diffuse across the entire NiO layer. Overall, the magnitude of parametric shift is approaching or comparable to those reported in the native SiC and GaN p–n junctions, suggesting that the NiO/β-Ga2O3-based UWBG devices have good potential to achieve a reliability comparable to their WBG counterparts.
 
