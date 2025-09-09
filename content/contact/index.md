@@ -20,8 +20,8 @@ sections:
         country: Hong Kong
         country_code: HK
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
+        latitude: '22.2833'
+        longitude: '114.1375'
       directions: CB-507
       # appointment_url: 'https://calendly.com'
       #contact_links:
@@ -46,7 +46,7 @@ sections:
     
   - block: markdown
     content:
-      title: "Find Us"
+      title:
       text: |
         <!-- Leaflet CSS -->
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
@@ -58,7 +58,7 @@ sections:
         <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
         
         <script>
-          var map = L.map('map').setView([37.4275, -122.1697], 15);
+          var map = L.map('map').setView([22.2833, 114.1375], 15);
           L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             attribution: '&copy; OpenStreetMap contributors'
           }).addTo(map);
@@ -66,6 +66,9 @@ sections:
             .bindPopup("450 Serra Mall, Stanford, CA 94305")
             .openPopup();
         </script>
+    design:
+      background:
+        color: '#ffffff'
 
 
   - block: markdown
