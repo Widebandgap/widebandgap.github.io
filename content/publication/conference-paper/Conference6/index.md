@@ -22,7 +22,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2025-05-01T00:00:00Z'
-doi: '10.1109/APEC48143.2025.10977119'
+#doi: '10.1109/APEC48143.2025.10977119'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -36,6 +36,8 @@ publication_types: ['paper-conference']
 publication: In **2025 IEEE Applied Power Electronics Conference and Exposition (APEC)**
 # publication_short: In **APEC**
 
+summary: May 2025·In **2025 IEEE Applied Power Electronics Conference and Exposition (APEC)**
+
 abstract: Optically-controlled high-voltage power devices hold good promise for grid and renewable energy applications by providing superior electromagnetic interference (EMI) immunity and reduced switching delay. This paper proposed a novel optically-controlled gate driver architecture that applies complementary optical signals to two photodiodes (PDs) arranged in a totem-pole configuration. This configuration enables fast switching of power semiconductor devices using minimal optical power, as only low-power driver signals are optically modulated and device main current is not photogenerated. To validate this approach, we employ two InGaAs PDs to drive a 3.3 kV SiC MOSFET, the highest-voltage industrial unipolar device currently available. When each PD is illuminated by 21.7 mW optical power, the SiC MOSFET achieves hard-switching at 1500V/3A, with rise and fall times of 152 ns and 214 ns, respectively. These results set new records for switching voltage, speed, and power capacity-to-optical power ratio in optically-controlled unipolar power switches. This general optical driver design is also applicable to the future development of integrated optics for power electronics in diverse (ultra-) wide-bandgap semiconductors.
 
 tags: []
@@ -44,9 +46,10 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: Link
+   url: 'https://doi.org/10.1109/APEC48143.2025.10977119'
+   icon: fas fa-file-alt
 
 url_pdf: ''
 url_code: ''
