@@ -104,7 +104,9 @@ features:
     provider: 'mapnik'
     api_key: ''
     zoom: 15
-
+    center:
+      latitude: 22.2833
+      longitude: 114.1375
 # Extensions
 
 extensions:
