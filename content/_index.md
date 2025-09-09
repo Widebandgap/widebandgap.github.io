@@ -4,7 +4,7 @@ title: Wide Bandgap Electronics Group
 date: 2025-08-30
 type: landing
 
-sections: 
+sections:
   - block: slider
     content:
       slides:
@@ -23,8 +23,8 @@ sections:
   #        icon_pack: fas
   #        text: Join Us
   #        url: ../contact/
-      - title: 
-        content: 
+      - title:
+        content:
         align: left
         background:
           image:
