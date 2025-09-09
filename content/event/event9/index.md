@@ -14,12 +14,12 @@ address:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-04-25'
+date: '2025-01-03'
 date_end: ''
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-04-25'
+publishDate: '2025-01-03'
 
 authors: []
 tags: []
