@@ -20,7 +20,7 @@ authors:
 #- "corresponding author"
 
 date: "2024-12-02T00:00:00Z"
-doi: "10.1109/TPEL.2024.3510060"
+#doi: "10.1109/TPEL.2024.3510060"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: ""
@@ -34,6 +34,8 @@ publication_types: ["article-journal"]
 publication: "**_IEEE Transactions on Power Electronics_**"
 publication_short: ""
 
+summary: Dec 2022·**_IEEE Transactions on Power Electronics_**
+
 abstract: This work presents a gate electrostatic discharge (ESD) protection circuit monolithically integrated with the GaN power high-electron-mobility-transistor (HEMT). In addition to enhancing the gate robustness against the ESD event, this multifunctional circuit also improves the stability of on-resistance (RON) and threshold voltage (VTH) when power HEMT is under normal switching operations. Such improvement is enabled by clamping the HEMT's negative gate bias (VG) at the off state, which is a critical cause of the RON and VTH instabilities in power p-gate GaN HEMTs. A circuit setup is deployed for the in situ monitoring of the dynamic RON and its evolution from the first switching cycle to the steady state. Under the off-state stress with negative VG and high drain bias (VD), the GaN HEMT without ESD circuit shows a drastic dynamic RON increase in the first tens of switching cycles. Such a phenomenon is fully suppressed by the ESD protection circuit. In addition, the longer-term stability of RON and VTH is tested under the prolonged stresses of VG and VD, in which the device with an ESD circuit shows superior stability. Physics-based technology-aided computer design simulation unveils the critical physics accounting for such stability improvement. These results reveal a new pathway to address the p-gate GaN HEMTs' inherent instability while simultaneously boosting their gate robustness.
 
 # Summary. An optional shortened abstract.
@@ -41,9 +43,11 @@ abstract: This work presents a gate electrostatic discharge (ESD) protection cir
 
 
 
-# links:
-# - name: ""
-#   url: ""
+links:
+ - name: Link
+   url: 'https://doi.org/10.1109/TPEL.2024.3510060'
+   icon: fas fa-file-alt
+   
 url_pdf: ''
 url_code: ''
 url_dataset: ''
