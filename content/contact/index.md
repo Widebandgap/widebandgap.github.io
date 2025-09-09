@@ -62,8 +62,8 @@ sections:
           L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             attribution: '&copy; OpenStreetMap contributors'
           }).addTo(map);
-          L.marker([37.4275, -122.1697]).addTo(map)
-            .bindPopup("450 Serra Mall, Stanford, CA 94305")
+          L.marker([22.2833, 114.1375]).addTo(map)
+            .bindPopup("CB-507, Pokful Road, Hong Kong")
             .openPopup();
         </script>
     design:
