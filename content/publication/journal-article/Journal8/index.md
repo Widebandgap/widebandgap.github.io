@@ -19,7 +19,7 @@ author_notes:
 #- ""
 
 date: "2025-08-29T00:00:00Z"
-doi: "10.1109/TPEL.2025.3603834"
+#doi: "10.1109/TPEL.2025.3603834"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: ""
