@@ -11,13 +11,12 @@ superuser: false
 
 # Role/position
 role: |
-  Ph.D. University of Hong Kong
   <br>M.S. University of Chinese Academy of Sciences
   <br>B.S. Sichuan University
 
 # Organizations/Affiliations
 organizations:
-  - name: HKU
+  - name: ''
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
