@@ -1,4 +1,5 @@
-baseURL = "https://ethan-zhang-hku.github.io/"
+baseURL = "https://widebandgap.github.io/"
+#baseURL = "https://ethan-zhang-hku.github.io/"
 languageCode = "en-us"
 title = "My Site"
 # relativeURLs = true
