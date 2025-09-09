@@ -18,7 +18,7 @@ author_notes:
 #- ""
 
 date: "2025-08-20T00:00:00Z"
-doi: "10.1109/TPEL.2025.3601008"
+#doi: "10.1109/TPEL.2025.3601008"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: ""
@@ -32,6 +32,8 @@ publication_types: ["article-journal"]
 publication: "**_IEEE Transactions on Power Electronics_**"
 publication_short: ""
 
+summary: Aug 2025·**_IEEE Transactions on Power Electronics_**
+
 abstract: Electrical energy conversion at deep cryogenic temperatures (T < 4.2 K) is highly desirable for applications in space exploration, quantum computing, biomedical imaging, and emerging power delivery systems. However, the operational viability of power semiconductor devices in this temperature regime remains largely unexplored. Notably, no prior studies have reported high-voltage or dynamic switching characteristics of GaN and SiC power devices below 77 K. In this work, we present the first comprehensive characterization of the static and dynamic performance of Si IGBT, SiC MOSFET, and GaN HEMT devices down to 10 mK. A cryogen-free dilution refrigerator, originally designed for quantum physics experiments, is adapted for power device testing by integration with a custom circuit setup for double-pulse testing (DPT) and dynamic on-resistance (RON) test. At T < 1 K, all three devices are found to retain the normally-off operation, high breakdown voltage, and the capability of hardswitching under gate control. GaN HEMTs demonstrate the absence of dynamic RON degradation, with RON decreasing by 4 times compared to room temperature. This can be explained by the trap freeze-out and increased channel mobility. Differently, SiC MOSFET becomes non-Ohmic below ∼60 K. The knee voltages (VK) of SiC MOSFET and Si IGBT both increase at lower temperatures, leading to elevated conduction loss. The sustained current conduction and high VK in lowly-doped SiC and Si drift layers, despite carrier freeze-out, can be explained by the shallowlevel impact ionization with donor states. These findings lay the foundation for developing deep cryogenic power electronics at temperatures below the current operational boundaries.
 
 
@@ -39,9 +41,11 @@ abstract: Electrical energy conversion at deep cryogenic temperatures (T < 4.2 K
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 
-# links:
-# - name: ""
-#   url: ""
+links:
+ - name: Link
+   url: 'https://doi.org/10.1109/TPEL.2025.3601008'
+   icon: fas fa-file-alt
+
 url_pdf: ''
 url_code: ''
 url_dataset: ''
