@@ -6,7 +6,12 @@ image:
 ---
 
 Advances in semiconductor and power electronics technologies, led by increasing deployment of wide-bandgap power devices, are essential for reducing greenhouse gas emissions and developing a carbon-neutral energy system by 2050
-
+<div class="manual-meta">
+  Apr 24, 2025 &middot; Compound Semiconductor Magazine
+</div>
+<br>
 <!--more-->
 
-“[Power semiconductors for carbon neutrality](https://compoundsemiconductor.net/article/121619/Power_semiconductors_for_carbon_neutrality),” <strong>Compound Semiconductor Magazine</strong>
+<strong> &middot; Link: </strong> "[Power semiconductors for carbon neutrality](https://compoundsemiconductor.net/article/121619/Power_semiconductors_for_carbon_neutrality),"
+
+<br>
