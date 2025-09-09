@@ -43,8 +43,6 @@ sections:
           # captcha: false
     design:
       columns: '1'
-      spacing:
-        padding: ['80px','0','20px','0']   # top, right, bottom, left
     
   - block: markdown
     content:
