@@ -1,5 +1,5 @@
 ---
-title: "Gallium Oxide Planar MOS-Schottky Rectifier"
+title: "Gallium Oxide Planar MOS-Schottky Rectifier (pending)"
 authors:
   - Marko J. Tadjer
   - Hannah N. Masten
