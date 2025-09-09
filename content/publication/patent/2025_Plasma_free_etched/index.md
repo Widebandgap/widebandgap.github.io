@@ -1,5 +1,5 @@
 ---
-title: "Plasma-free etched b-ga2o3-nio merged pin schottky diode with high-voltage stress reliability"
+title: "Plasma-free etched b-ga2o3-nio merged pin schottky diode with high-voltage stress reliability (pending)"
 authors:
   - Joseph A. Spencer
   - Marko J. Tadjer
