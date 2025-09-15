@@ -70,5 +70,5 @@ user_groups:
   #- Current Postdoctoral Fellows
   #- Alumni
 ---
-
-I am Hengbo Zhang!
+<br><br><br>
+ - Hengbo Zhang received the B.S. degree in Electrical Engineering and Automation from Sichuan University, Sichuan, China, in 2019, and the M.S. degree in Material Physics and Chemistry from University of Chinese Academy of Sciences, Bejing, China, in 2022. He is working toward the Ph.D. degree with the Department of Electrical and Electronic Engineering, the University of Hong Kong, Hong Kong SAR, China. His current research interests include the fabrication, characterization, and reliability of wide-bandgap power devices.
