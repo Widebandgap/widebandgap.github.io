@@ -70,5 +70,6 @@ user_groups:
   #- Current Postdoctoral Fellows
   #- Alumni
 ---
-
-I am Hongchang Cui!
+<br><br><br>
+ - Hongchang Cui received the B.S. degree from China University of Mining and Technology, Xuzhou, China, in 2021, and the M.S. degree in electrical engineering with Xi'an Jiaotong University, Xi'an, China, in 2024. From 2024 to 2025, he was a Graduate Research Assistant with the Center for Power Electronics Systems (CPES) at Virginia Tech, Blacksburg, VA, USA. He is currently working toward the Ph.D. degree with the Department of Electrical and Electronic Engineering, the University of Hong Kong, Hong Kong SAR, China. His current research interests focus on the characterization, robustness, and reliability of wide-bandgap power devices, alongside their packaging, integration and application in power electronic converters.  
+ - **Link:**[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=L54V1BEAAAAJ)
