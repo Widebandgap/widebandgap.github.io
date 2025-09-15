@@ -70,7 +70,6 @@ user_groups:
   - Current Postdoctoral Fellows
   #- Alumni
 ---
-
-I am Hehe Gong!
-<br>
-[Google Scholar](https://scholar.google.com/citations?user=XujwvAMAAAAJ&hl=en&oi=ao)
+<br><br><br>
+ - Hehe Gong received the B.S. degree from Northwestern Polytechnical University, Xi’an, China, in 2018, and his Ph. D. degree from Nanjing University, Nanjing, China, in 2023. From 2023 to 2025, he was a postdoctoral associate with the Center for Power Electronics Systems (CPES), Virginia Tech. He is currently a postdoctoral fellow in the Department of Electrical and Electronic Engineering at The University of Hong Kong. His research interests include power semiconductor devices, (ultra-)wide-bandgap semiconductor materials, and power device packaging. He has published over 60 journal articles and conference papers.
+ - **Link:**[Google Scholar](https://scholar.google.com/citations?user=XujwvAMAAAAJ&hl=en&oi=ao)
