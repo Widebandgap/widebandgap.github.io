@@ -72,5 +72,7 @@ user_groups:
 ---
 
 <br><br><br>
-Xin Yang received the B.S. degree from Chongqing University, Chongqing, China, in 2020, and the M.S. degree in electrical engineering from Xi'an Jiaotong University, Xi'an, China, in 2023. From 2023 to 2025, he was a Graduate Research Assistant with the Center for Power Electronics Systems (CPES) at Virginia Tech. He is currently working toward the Ph.D. degree with the Department of Electrical and Electronic Engineering, the University of Hong Kong, Hong Kong SAR, China. His current research interests include characterization, robustness, and reliability of wide-bandgap power devices, as well as their applications in power electronics converters.
-<br>[Google Scholar:](https://scholar.google.com/citations?user=vS5ZLyYAAAAJ&hl=zh-CN)
+<ol>
+<li>Xin Yang received the B.S. degree from Chongqing University, Chongqing, China, in 2020, and the M.S. degree in electrical engineering from Xi'an Jiaotong University, Xi'an, China, in 2023. From 2023 to 2025, he was a Graduate Research Assistant with the Center for Power Electronics Systems (CPES) at Virginia Tech. He is currently working toward the Ph.D. degree with the Department of Electrical and Electronic Engineering, the University of Hong Kong, Hong Kong SAR, China. His current research interests include characterization, robustness, and reliability of wide-bandgap power devices, as well as their applications in power electronics converters.</li>
+<li>Link: [Google Scholar](https://scholar.google.com/citations?user=vS5ZLyYAAAAJ&hl=zh-CN)</li>
+</ol>
