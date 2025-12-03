@@ -12,7 +12,7 @@ superuser: false
 # Role/position
 role: |
   <br>Ph.D Institute of Microelectronics, Chinese Academy of Sciences
-  <br>B.S.Xi'an University of Posts and Telecommunications
+  <br>B.S. Xi'an University of Posts and Telecommunications
 
 # Organizations/Affiliations
 organizations:
