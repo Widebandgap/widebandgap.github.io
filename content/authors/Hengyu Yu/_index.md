@@ -12,7 +12,7 @@ superuser: false
 # Role/position
 role: |
   <br>Ph.D Hunan University
-  <br>B.S. Anhui University
+  <br>B.S. Anhui University 
 
 # Organizations/Affiliations
 organizations:
