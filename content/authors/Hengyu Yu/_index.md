@@ -71,5 +71,5 @@ user_groups:
   #- Alumni
 ---
 <br><br><br>
- - Hengyu Yu (Member, IEEE) received
+ - Hengyu Yu (Member, IEEE) received the B.S. degree in Electrical Engineering from the School of Electrical Engineering and Automation, Anhui University, Hefei, China, in 2018, and the Ph.D. degree in Electrical Engineering from the College of Electrical and Information Engineering, Hunan University, Changsha, China, in 2023. From 2023 to 2025, he was a postdoctoral Scholar with the Department of Electrical and Computer Engineering at The Ohio State University, USA. He is currently a postdoctoral fellow in the Department of Electrical and Electronic Engineering at The University of Hong Kong, China.
  - **Link:**[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&tzom=-480&user=fy3DG64AAAAJ)
