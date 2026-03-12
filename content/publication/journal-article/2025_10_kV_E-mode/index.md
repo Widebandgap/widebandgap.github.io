@@ -1,50 +1,41 @@
 ---
-title: "First Characterization of Si IGBT, SiC MOSFET, and GaN HEMT at Deep Cryogenic Temperatures down to 10 Millikelvins"
+title: "10 kV E-mode GaN HEMT: Physics for breakdown voltage upscaling"
+
 authors:
-- Xin Yang
-- Zineng Yang
+- Yijin Guo
+- Yuan Qin
 - Matthew Porter
+- Zineng Yang
+- Ming Xiao
+- Yifan Wang
+- Daniel Popa
+- Loizos Efthymiou
+- Chu Cheng
+- Kai Cheng
+- Ivan Kravchenko
 - Linbo Shao
+- Florin Udrea
 - Yuhao Zhang
 
 author_notes:
 #- ""
 #- "Corresponding author"
-#- ""
-#- ""
-#- ""
-#- ""
-#- ""
-#- ""
 
-date: "2025-08-20T00:00:00Z"
-#doi: "10.1109/TPEL.2025.3601008"
+date: "2025-07-28T00:00:00Z"
 
-# Schedule page publish date (NOT publication's date).
-# publishDate: ""
-
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
 
-# Publication name and optional abbreviated publication name.
-publication: "**_IEEE Transactions on Power Electronics_**"
+publication: "**_Applied Physics Letters_**"
 publication_short: ""
 
-summary: Aug 2025·**_IEEE Transactions on Power Electronics_**
+summary: Jul 2025·**_Applied Physics Letters_**
 
-abstract: Electrical energy conversion at deep cryogenic temperatures (T < 4.2 K) is highly desirable for applications in space exploration, quantum computing, biomedical imaging, and emerging power delivery systems. However, the operational viability of power semiconductor devices in this temperature regime remains largely unexplored. Notably, no prior studies have reported high-voltage or dynamic switching characteristics of GaN and SiC power devices below 77 K. In this work, we present the first comprehensive characterization of the static and dynamic performance of Si IGBT, SiC MOSFET, and GaN HEMT devices down to 10 mK. A cryogen-free dilution refrigerator, originally designed for quantum physics experiments, is adapted for power device testing by integration with a custom circuit setup for double-pulse testing (DPT) and dynamic on-resistance (RON) test. At T < 1 K, all three devices are found to retain the normally-off operation, high breakdown voltage, and the capability of hardswitching under gate control. GaN HEMTs demonstrate the absence of dynamic RON degradation, with RON decreasing by 4 times compared to room temperature. This can be explained by the trap freeze-out and increased channel mobility. Differently, SiC MOSFET becomes non-Ohmic below ∼60 K. The knee voltages (VK) of SiC MOSFET and Si IGBT both increase at lower temperatures, leading to elevated conduction loss. The sustained current conduction and high VK in lowly-doped SiC and Si drift layers, despite carrier freeze-out, can be explained by the shallowlevel impact ionization with donor states. These findings lay the foundation for developing deep cryogenic power electronics at temperatures below the current operational boundaries.
-
-
-# Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+abstract: High-voltage GaN high electron mobility transistors (HEMTs) have recently reached the 10 kV milestone; however, prior reports relied on unconventional epitaxial structures—such as multi-channel, Si delta-doping, or unintentional p-GaN doping—which pose challenges in the realization of enhancement-mode (E-mode) gate control. Here, we demonstrate a 10 kV E-mode GaN HEMT with a standard highly doped p-GaN gate. This p-GaN layer also forms a reduced-surface-field (RESURF) structure. By analyzing devices with varying RESURF thickness (t R), we identify the key physical mechanism that enables the breakdown voltage (BV) upscaling with device length. We find the BV upscaling is only viable when t R is below 21 nm and reaches peak effectiveness at a t R of 17 nm—deviating from predictions based on ideal polarization superjunction theory. This suggests the presence of donor trap states that …
 
 links:
- - name: Link
-   url: 'https://doi.org/10.1109/TPEL.2025.3601008'
-   icon: fas fa-file-alt
+- name: Link
+  url: 'https://doi.org/10.1063/5.0279059'
+  icon: fas fa-file-alt
 
 url_pdf: ''
 url_code: ''
@@ -55,24 +46,11 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects: []
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
 slides: example
 ---
