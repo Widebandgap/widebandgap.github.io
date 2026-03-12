@@ -38,7 +38,7 @@ featured: true
 
 links:
  - name: Link
-   url: 'https://doi.org/'
+   url: 'https://doi.org/10.1109/IEDM50572.2025.11353733'
    icon: fas fa-file-alt
 
 url_pdf: ''
