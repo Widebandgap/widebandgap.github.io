@@ -27,7 +27,7 @@ featured: true
 
 links:
  - name: Link
-   url: 'https://doi.org/'
+   url: 'https://doi.org/10.1038/s44287-024-00135-5'
    icon: fas fa-file-alt
 
 url_pdf: ''
