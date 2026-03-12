@@ -1,5 +1,5 @@
 ---
-title: "Monolithic cascode multi-channel high electron mobility transistors (pending)"
+title: "Monolithic cascode multi-channel high electron mobility transistors"
 authors:
   - Yuhao Zhang
   - Ming Xiao
@@ -11,7 +11,7 @@ authors:
 #- ""
 #- "Corresponding author"
 #- 
-date: "2024-04-02T00:00:00Z"
+date: "2025-10-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,7 +23,7 @@ doi: ""
 publication_types: ["patent"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**_US20240079484_**"
+publication: "**_US12439629_**"
 publication_short: ""
 
 abstract: This disclosure provides semiconductor device including a first transistor with a first gate terminal, a first source terminal, and the first drain terminal, the first transistor being a depletion mode transistor and including a plurality of two-dimensional carrier channels of a conductivity type being one of a n-type or a p-type conductivity. The semiconductor device also includes a second transistor with a second gate terminal, a second source terminal, and a second drain terminal, the second transistor being an enhancement mode transistor, a gate-source interconnect forming an electrical connection between the first gate terminal and the second source terminal, and a drain-source interconnect forming an electrical connection between the first source terminal and the second drain terminal. The first transistor and the second transistor are fabricated on the same wafer or substrate.
@@ -34,7 +34,7 @@ abstract: This disclosure provides semiconductor device including a first transi
 
 links:
   - name: "Link"
-    url: "https://patents.google.com/patent/US20240079484A1/en"
+    url: "https://patents.google.com/patent/US12439629B2/en"
     icon: fas fa-file-alt
 
 url_pdf: ''
