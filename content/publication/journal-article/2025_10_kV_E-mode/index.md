@@ -15,7 +15,7 @@ authors:
 - Ivan Kravchenko
 - Linbo Shao
 - Florin Udrea
-- Yuhao Zhang
+- Yuhao Zhang*
 
 author_notes:
 #- ""
