@@ -5,7 +5,7 @@ authors:
 - Zineng Yang
 - Matthew Porter
 - Linbo Shao
-- Yuhao Zhang
+- Yuhao Zhang*
 
 author_notes:
 #- ""
