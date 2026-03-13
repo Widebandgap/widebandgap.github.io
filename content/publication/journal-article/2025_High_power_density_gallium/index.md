@@ -36,7 +36,7 @@ publication_types: ['article-journal']
 publication: "**_Nature Communications_**"
 # publication_short: In **Nat. Commun.**
 
-summary: "Dec 2025·In **_Nature Communications_**"
+summary: "Dec 2025·**_Nature Communications_**"
 
 abstract: |
   Gallium-nitride high-electron-mobility-transistor is an industrial leading contender for high-frequency and high-power radio-frequency applications. However, the record output-power-density has remained stagnant for nearly two decades, limited by high thermal-resistances at the nucleation layer-substrate interface and thick nitride layers. Here, we propose induced nucleation by implementing ion-implantation on silicon-carbide substrate to create nano- to microscale surface nucleation-sites. This approach suppresses conventional island-like nucleation, enabling rapid film coalescence and aggressive reduction in buffer layer thickness while maintaining low dislocation density. Therefore, a low thermal-resistance of 3.9 m²K/GW for the entire epitaxial stack is achieved, three times lower than previous reports in various high-electron-mobility-transistor epi-structures. Gallium-nitride transistors demonstrate a record …
