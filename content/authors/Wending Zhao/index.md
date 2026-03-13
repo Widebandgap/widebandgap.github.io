@@ -1,18 +1,18 @@
 ---
 # Display name
-title: Haozhe Jin
+title: Wending Zhao
 
 # Username (this should match the folder name)
 authors:
-  - Haozhe Jin
+  - Wending Zhao
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role: |
-  <br>Ph.D Southeast University
-  <br>B.S. Southwest Jiaotong University
+  <br>Ph.D Zhejiang University
+  <br>B.S. Shandong University
 
 # Organizations/Affiliations
 organizations:
@@ -71,5 +71,5 @@ user_groups:
   #- Alumni
 ---
 <br><br><br>
- - Haozhe Jin received the B.S. degree in electrical engineering from the Southwest Jiaotong University, Chengdu, China in 2019 and the Ph.D. degree in electrical engineering from the Southeast University, Nanjing, China in 2025. Since 2025, he has been a postdoctoral fellow with the Department of Electrical and Electronic Engineering, the University of Hong Kong. His research interests include the solid state transformer, soft switching dc/dc converter, and application of wide-bandgap power devices.
- - **Link:**[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=7HOfqoUAAAAJ&gmla=AKzYXQ023DT43LR8IIhbfbRi-kwBwBQVco6hMRocdLAaO2iVGJQnL2AQb3aabMgbTl2_gOlppSp6hgNeXydKs6HBgTf-mnL4m6co)
+ - Zhao Wending received his B.Eng. in Electrical Engineering from Shandong University in 2020 and his Ph.D. in Power Electronics and Electrical Engineering from Zhejiang University in 2025. He is currently conducting postdoctoral research at the University of Hong Kong. His research interests include high-efficiency/high-power-density AC-DC converters (for three-phase and single-phase systems), DC-DC converters, multilevel topologies, and advanced digital control techniques. He has published over 10 papers in leading journals and international conferences.
+ - **Link:**[Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AF9nlQsGUeyAVY3Ylhk9MHS_KfiZKrQ81xgDBLsy4XUSUXy2goHbUH7gf60hJ9vmXS9be0tSVTxTaEz0t1MyXQ&user=CVi8tBEAAAAJ)
