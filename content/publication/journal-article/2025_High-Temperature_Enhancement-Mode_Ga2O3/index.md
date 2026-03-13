@@ -16,10 +16,10 @@ date: '2025-12-18T00:00:00Z'
 
 publication_types: ['article-journal']
 
-publication: In **IEEE Electron Device Letters**
+publication: "**_IEEE Electron Device Letters_**"
 # publication_short: In **IEEE EDL**
 
-summary: Dec 2025·In **IEEE Electron Device Letters**
+summary: "Dec 2025·**_IEEE Electron Device Letters_**"
 
 abstract: |
   This work demonstrates an enhancement-mode (E-mode) Ga2O3 monolithic bidirectional switch (MBDS) capable of high-temperature operation, achieving breakdown voltages (BV) exceeding 6.5 kV in both polarities at 150 °C and maintaining 4.7 kV at 200 °C. The device incorporates two highly doped NiO heterojunction gates, each connected to a lightly doped NiO junction termination extension (JTE) for electric field management. It exhibits symmetric conduction characteristics with a threshold voltage (VTH) of 1.9 V and a specific on-resistance (Ron,sp) of 1755 mΩ·cm2. Even at 200 °C, VTH remains positive while Ron,sp increases by only 1.3×. This represents the best performance reported for ultra-wide bandgap (UWBG) E-mode MBDS devices and the first demonstration of a kilovolt MBDS operational up to 200 °C. These results suggest the potential of Ga2O3 MBDS for high-temperature, high-voltage …
