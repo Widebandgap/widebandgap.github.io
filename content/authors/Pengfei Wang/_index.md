@@ -72,4 +72,3 @@ user_groups:
 ---
 <br><br><br>
  - Pengfei Wang reveived the B.S. degree in Microelectronics Science and Engineering from Sichuan University, Sichuan, China, in 2023, and the M.S. degree in Integrated Circuit Science and Engineering from Peking University, Beijing, China, in 2026. He is working toward the Ph.D. degree with the Department of Electrical and Computer Engineering, the University of Hong Kong, Hong Kong SAR, China. His current research interests include power semiconductor devices, fabrication and device packaging.
- #- **Link:**[Google Scholar](https://scholar.google.com/citations?user=XujwvAMAAAAJ&hl=en&oi=ao)
